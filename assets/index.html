@@ -1,0 +1,113 @@
+<!--
+SPDX-FileCopyrightText: Copyright (C) 2025 ARDUINO SA <http://www.arduino.cc>
+SPDX-License-Identifier: MPL-2.0
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Generic Object Detection</title>
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        .main-content {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            gap: 20px;
+            padding: 0 30px;
+        }
+
+        #video-container {
+            flex: 2;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        iframe {
+            width: 360px;
+            height: 360px;
+            border-radius: 10px;
+            image-rendering: pixelated;
+        }
+
+        #label-list {
+            flex: 0.8;
+            background-color: #f6f6f6;
+            border-radius: 10px;
+            padding: 15px;
+            font-family: inherit;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        #label-list h2 {
+            margin-top: 0;
+            color: #00979d;
+            font-size: 1.2em;
+            text-align: center;
+        }
+
+        select, button {
+            width: 100%;
+            padding: 8px;
+            font-size: 1em;
+            margin-top: 10px;
+            border-radius: 6px;
+        }
+
+        button {
+            background-color: #00979d;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #007b7f;
+        }
+
+        #modeStatus, #labelCountDisplay {
+            text-align: center;
+            color: #00979d;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1 class="arduino-text">Video Generic Object Detection</h1>
+        <img class="arduino-logo" src="./img/logo.svg" alt="Arduino Logo">
+    </div>
+
+    <div class="main-content">
+        <div id="video-container">
+            <div id="videoFeedContainer">
+                <div id="videoPlaceholder" class="camera-status">
+                    <img src="./img/no-face.svg" alt="Searching webcam">
+                    <p class="feedback-text">Searching Webcam...</p>
+                </div>
+                <iframe id="dynamicIframe" title="Video stream" width="90" height="90" frameBorder="0" style="display:none;"></iframe>
+            </div>
+        </div>
+
+        <div id="label-list">
+            <h2>Select Label</h2>
+            <select id="labelSelect">
+                <option value="">-- Select a label --</option>
+            </select>
+            <button id="findButton">Find</button>
+            <button id="pickButton">Pick Items</button>
+            <button id="viewCountButton">View Count</button>
+            <p id="modeStatus">Mode: Normal</p>
+            <p id="labelCountDisplay"></p>
+        </div>
+    </div>
+
+    <script src="libs/socket.io.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

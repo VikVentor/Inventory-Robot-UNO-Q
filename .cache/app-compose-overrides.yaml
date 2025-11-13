@@ -1,0 +1,23 @@
+services:
+  ei-video-obj-detection-runner:
+    user: 1000:1000
+    devices:
+    - /dev/video0
+    - /dev/video1
+    - /dev/video2
+    - /dev/snd
+    - /dev/dri
+    group_add:
+    - dialout
+    - video
+    - audio
+    - render
+    labels:
+      cc.arduino.app: "true"
+      cc.arduino.app.path: /home/arduino/ArduinoApps/objdet_copy
+    environment:
+      APP_HOME: /home/arduino/ArduinoApps/objdet_copy
+      CUSTOM_MODEL_PATH: /home/arduino/.arduino-bricks/ei-models/
+      EI_OBJ_DETECTION_MODEL: /home/arduino/.arduino-bricks/ei-models/inventory-robot-linux-aarch64-gpu-v9.eim
+      HOST_IP: 192.168.0.117
+      VIDEO_DEVICE: /dev/video1

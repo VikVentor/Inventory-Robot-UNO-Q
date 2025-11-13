@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:zephyr:unoq",
+  "hardwareFolders": "/home/arduino/.arduino15/packages",
+  "otherLibrariesFolders": "/home/arduino/Arduino/libraries",
+  "sketchLocation": "/home/arduino/ArduinoApps/objdet_copy/sketch"
+}

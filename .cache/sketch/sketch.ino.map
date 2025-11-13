@@ -1,0 +1,1867 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+                              /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o (std::__throw_length_error(char const*))
+/home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Common.cpp.o)
+                              /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o (map(long, long, long, long, long))
+/home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+                              /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o (arduino::Print::println(char const*))
+/home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+                              /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o (arduino::Stream::setTimeout(unsigned long))
+/home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                              /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o (arduino::String::String(arduino::String&&))
+/home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+                              /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o) (dtostrf)
+/home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+                              (main)
+/home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+                              /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o (operator new(unsigned int))
+/home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(threads.cpp.o)
+                              /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o) (start_static_threads())
+/home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                              /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o (yield)
+/home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                              /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o (Serial1)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000       0x10 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000       0x14 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000       0x10 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text._ZN12AccelStepper14targetPositionEv
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text._ZN12AccelStepper15currentPositionEv
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text._ZN12AccelStepperC2EPFvvES1_
+                0x0000000000000000       0x6c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text._ZN12AccelStepper8maxSpeedEv
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text._ZN12AccelStepper12accelerationEv
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text._ZN12AccelStepper5speedEv
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text._ZN12AccelStepper11stepForwardEv
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text._ZN12AccelStepper12stepBackwardEv
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text._ZN12AccelStepper16setMinPulseWidthEj
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text._ZN12AccelStepper12setEnablePinEh
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text._ZN12AccelStepper15setPinsInvertedEbbb
+                0x0000000000000000        0xa /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text._ZN12AccelStepper15setPinsInvertedEbbbbb
+                0x0000000000000000       0x16 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text._ZN12AccelStepper13runToPositionEv
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text._ZN12AccelStepper18runSpeedToPositionEv
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text._ZN12AccelStepper16runToNewPositionEl
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text._ZN12AccelStepper9isRunningEv
+                0x0000000000000000       0x1e /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .text._ZN12MultiStepperC2Ev
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .text._ZN12MultiStepper10addStepperER12AccelStepper
+                0x0000000000000000       0x1a /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .text._ZN12MultiStepper6moveToEPl
+                0x0000000000000000       0xd8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .text._ZN12MultiStepper3runEv
+                0x0000000000000000       0x40 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .text._ZN12MultiStepper18runSpeedToPositionEv
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .debug_info    0x0000000000000000     0x1920 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .debug_abbrev  0x0000000000000000      0x402 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .debug_loclists
+                0x0000000000000000      0x175 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .debug_aranges
+                0x0000000000000000       0x40 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x44 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .debug_line    0x0000000000000000      0x59f /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .debug_str     0x0000000000000000     0x194b /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .debug_frame   0x0000000000000000       0xac /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/avr/Servo.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/avr/Servo.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/avr/Servo.cpp.o
+ .debug_line    0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/avr/Servo.cpp.o
+ .debug_str     0x0000000000000000      0x26c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/avr/Servo.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/avr/Servo.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/avr/Servo.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/mbed/Servo.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/mbed/Servo.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/mbed/Servo.cpp.o
+ .debug_line    0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/mbed/Servo.cpp.o
+ .debug_str     0x0000000000000000      0x26d /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/mbed/Servo.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/mbed/Servo.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/mbed/Servo.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/megaavr/Servo.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/megaavr/Servo.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/megaavr/Servo.cpp.o
+ .debug_line    0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/megaavr/Servo.cpp.o
+ .debug_str     0x0000000000000000      0x270 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/megaavr/Servo.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/megaavr/Servo.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/megaavr/Servo.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/nrf52/Servo.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/nrf52/Servo.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/nrf52/Servo.cpp.o
+ .debug_line    0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/nrf52/Servo.cpp.o
+ .debug_str     0x0000000000000000      0x26e /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/nrf52/Servo.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/nrf52/Servo.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/nrf52/Servo.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/renesas/Servo.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/renesas/Servo.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/renesas/Servo.cpp.o
+ .debug_line    0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/renesas/Servo.cpp.o
+ .debug_str     0x0000000000000000      0x270 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/renesas/Servo.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/renesas/Servo.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/renesas/Servo.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/sam/Servo.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/sam/Servo.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/sam/Servo.cpp.o
+ .debug_line    0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/sam/Servo.cpp.o
+ .debug_str     0x0000000000000000      0x26c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/sam/Servo.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/sam/Servo.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/sam/Servo.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/samd/Servo.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/samd/Servo.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/samd/Servo.cpp.o
+ .debug_line    0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/samd/Servo.cpp.o
+ .debug_str     0x0000000000000000      0x26d /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/samd/Servo.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/samd/Servo.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/samd/Servo.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/stm32f4/Servo.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/stm32f4/Servo.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/stm32f4/Servo.cpp.o
+ .debug_line    0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/stm32f4/Servo.cpp.o
+ .debug_str     0x0000000000000000      0x270 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/stm32f4/Servo.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/stm32f4/Servo.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/stm32f4/Servo.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/xmc/Servo.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/xmc/Servo.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/xmc/Servo.cpp.o
+ .debug_line    0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/xmc/Servo.cpp.o
+ .debug_str     0x0000000000000000      0x26c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/xmc/Servo.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/xmc/Servo.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/xmc/Servo.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/analogReference.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/analogReference.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/analogReference.cpp.o
+ .text.analogReference
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/analogReference.cpp.o
+ .debug_info    0x0000000000000000     0x15b3 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/analogReference.cpp.o
+ .debug_abbrev  0x0000000000000000      0x31c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/analogReference.cpp.o
+ .debug_loclists
+                0x0000000000000000       0x23 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/analogReference.cpp.o
+ .debug_aranges
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/analogReference.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x13 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/analogReference.cpp.o
+ .debug_line    0x0000000000000000      0x3c1 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/analogReference.cpp.o
+ .debug_str     0x0000000000000000     0x1738 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/analogReference.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/analogReference.cpp.o
+ .debug_frame   0x0000000000000000       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/analogReference.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/analogReference.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+ .text.__cxa_pure_virtual
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+ .text.__cxa_deleted_virtual
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+ .text.__cxa_atexit
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+ .data.__dso_handle
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Common.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Common.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Common.cpp.o)
+ .text._Z8makeWordt
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Common.cpp.o)
+ .text._Z8makeWordhh
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Common.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Common.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Common.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print17availableForWriteEv
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5flushEv
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5writeEPKhj
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEPKNS_19__FlashStringHelperE
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printERKNS_6StringE
+                0x0000000000000000        0xa /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEPKc
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEc
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printERKNS_9PrintableE
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnERKNS_6StringE
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEc
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnERKNS_9PrintableE
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print11printNumberEmh
+                0x0000000000000000       0x40 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEli
+                0x0000000000000000       0x50 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEii
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEii
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEli
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEmi
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEhi
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEhi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEji
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEji
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEmi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print14printULLNumberEyh
+                0x0000000000000000       0xfc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printExi
+                0x0000000000000000       0x5c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnExi
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEyi
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEyi
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .rodata._ZN7arduino5Print10printFloatEdi.str1.1
+                0x0000000000000000        0xe /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print10printFloatEdi
+                0x0000000000000000      0x1b4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEdi
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEdi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .rodata._ZTVN7arduino5PrintE
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream9timedPeekEv
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream13peekNextDigitENS_13LookaheadModeEb
+                0x0000000000000000       0x58 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream8parseIntENS_13LookaheadModeEc
+                0x0000000000000000       0x70 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream10parseFloatENS_13LookaheadModeEc
+                0x0000000000000000      0x138 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream14readBytesUntilEcPcj
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .rodata._ZN7arduino6Stream10readStringEv.str1.1
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream10readStringEv
+                0x0000000000000000       0x38 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream15readStringUntilEc
+                0x0000000000000000       0x44 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream9findMultiEPNS0_11MultiTargetEi
+                0x0000000000000000       0xa8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream9findUntilEPKcjS2_j
+                0x0000000000000000       0x50 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream9findUntilEPKcS2_
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream4findEPKcj
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream4findEPKc
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2EPKcj
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String4copyEPKNS_19__FlashStringHelperEj
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Ec
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Ehh
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Ejh
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Elh
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Emh
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Efh
+                0x0000000000000000       0x4c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Edh
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringaSEPKNS_19__FlashStringHelperE
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2EPKNS_19__FlashStringHelperE
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEPKc.part.0
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEPKc
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEh
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEi
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEj
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEl
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEm
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEf
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEd
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEPKNS_19__FlashStringHelperE
+                0x0000000000000000       0x44 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperERKNS_6StringE
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEPKc
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEc
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEh
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEj
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEl
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEm
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEf
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEd
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEPKNS_19__FlashStringHelperE
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String9compareToEPKc
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String16equalsIgnoreCaseERKS0_
+                0x0000000000000000       0x38 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String10startsWithERKS0_j
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String10startsWithERKS0_
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String8endsWithERKS0_
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String9setCharAtEjc
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringixEj
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6StringixEj
+                0x0000000000000000       0x12 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String6charAtEj
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String8getBytesEPhjj
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String7indexOfEcj
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String7indexOfEc
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String7indexOfERKS0_j
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String7indexOfERKS0_
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String11lastIndexOfEcj
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String11lastIndexOfEc
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String11lastIndexOfERKS0_j
+                0x0000000000000000       0x54 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String11lastIndexOfERKS0_
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .rodata._ZNK7arduino6String9substringEjj.str1.1
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String9substringEjj
+                0x0000000000000000       0x4c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String7replaceEcc
+                0x0000000000000000       0x16 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String7replaceERKS0_S2_
+                0x0000000000000000      0x12c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6removeEjj
+                0x0000000000000000       0x38 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6removeEj
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String11toLowerCaseEv
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String11toUpperCaseEv
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String4trimEv
+                0x0000000000000000       0x58 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String5toIntEv
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String8toDoubleEv
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String7toFloatEv
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .bss._ZZN7arduino6StringixEjE19dummy_writable_char
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .rodata._ZN7arduino6String22DBL_MAX_DECIMAL_PLACESE
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .rodata._ZN7arduino6String22FLT_MAX_DECIMAL_PLACESE
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+ .rodata.dtostrf.str1.1
+                0x0000000000000000        0x9 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+ .text.dtostrf  0x0000000000000000       0x30 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+ .text.ultoa    0x0000000000000000       0x64 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+ .text.utoa     0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+ .text._Z10__loopHookv
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+ .entry_point   0x0000000000000000       0xb8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .text._Znaj    0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnwjSt11align_val_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajSt11align_val_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnwjSt11align_val_tSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajSt11align_val_tRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnwjSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajPv  0x0000000000000000        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdlPv   0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPv   0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPvj  0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdlPvRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPvRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdlPvS_
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPvS_
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .rodata._ZSt7nothrow
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(threads.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(threads.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(threads.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(threads.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(threads.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_123find_gpio_port_callbackEPK6device
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_119setInterruptHandlerEhPFvvE
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_118handleGpioCallbackEPK6deviceP13gpio_callbackj
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z14tone_expiry_cbP7k_timer
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z4tonehjm
+                0x0000000000000000      0x104 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6noToneh
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z15tone_timeout_cbP7k_timer
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21analogWriteResolutioni
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21analogWriteResolutionv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.analogWrite
+                0x0000000000000000      0x104 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z11analogWrite7dacPinsi
+                0x0000000000000000       0x68 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.analogReference
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z20analogReadResolutioni
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z20analogReadResolutionv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.analogRead
+                0x0000000000000000       0xbc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z10randomSeedm
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6randomll
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6randoml
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.enableInterrupt
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.attachInterrupt
+                0x0000000000000000       0xb4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.disableInterrupt
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.detachInterrupt
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z10interruptsv
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z12noInterruptsv
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21digitalPinToInterrupth
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata.CSWTCH.111
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .data._ZL15read_resolution
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .data._ZL24_analog_write_resolution
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss.arduino_pin_timers_timeout
+                0x0000000000000000      0xf50 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss.arduino_pin_timers
+                0x0000000000000000      0xf50 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_1L19interrupts_disabledE
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_1L7irq_keyE
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L10dac_ch_cfgE
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L11arduino_adcE
+                0x0000000000000000       0x60 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L16arduino_pwm_pinsE
+                0x0000000000000000        0x9 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L11arduino_pwmE
+                0x0000000000000000       0x90 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_113port_callbackE
+                0x0000000000000000      0x534 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._Z11serialEventv
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._Z12serial1Eventv
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._ZN7arduino14serialEventRunEv
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libstdc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libsupc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/../../../../arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libnosys.a
+LOAD /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+LOAD /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+LOAD /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/MultiStepper.cpp.o
+LOAD /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/avr/Servo.cpp.o
+LOAD /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/mbed/Servo.cpp.o
+LOAD /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/megaavr/Servo.cpp.o
+LOAD /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/nrf52/Servo.cpp.o
+LOAD /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/renesas/Servo.cpp.o
+LOAD /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/sam/Servo.cpp.o
+LOAD /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/samd/Servo.cpp.o
+LOAD /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/stm32f4/Servo.cpp.o
+LOAD /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/Servo/xmc/Servo.cpp.o
+LOAD /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/analogReference.cpp.o
+START GROUP
+LOAD /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libstdc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libsupc++.a
+END GROUP
+
+/DISCARD/
+ *(.ARM.attributes)
+ *(.ARM.attributes.*)
+ *(.ARM.exidx)
+ *(.ARM.exidx.*)
+ *(.ARM.extidx)
+ *(.ARM.extidx.*)
+ *(.ARM.extab)
+ *(.ARM.extab.*)
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+ *(.eh_frame)
+ *stdexcept.o()
+ *eh_*.o()
+ *cow-stdexcept.o()
+ *functexcept.o()
+ *cow-string-inst.o()
+
+.text           0x0000000000000000     0x535c
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text._ZN7arduino5Print17availableForWriteEv
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000000                arduino::Print::availableForWrite()
+ .text._ZN7arduino5Print5flushEv
+                0x0000000000000004        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000004                arduino::Print::flush()
+ .text._ZN15SerialTransport9availableEv
+                0x0000000000000006       0x12 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000006                SerialTransport::available()
+ .text._ZN15SerialTransport5writeEPKhj
+                0x0000000000000018       0x10 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000018                SerialTransport::write(unsigned char const*, unsigned int)
+ .text._ZN15SerialTransportD2Ev
+                0x0000000000000028        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000028                SerialTransport::~SerialTransport()
+                0x0000000000000028                SerialTransport::~SerialTransport()
+ .text._ZN13BridgeMonitorILj512EE5writeEh
+                0x000000000000002a       0x18 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000002a                BridgeMonitor<512u>::write(unsigned char)
+ *fill*         0x0000000000000042        0x2 
+ .text.k_yield  0x0000000000000044        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text.__tcf_1  0x000000000000004c       0x10 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN15SerialTransportD0Ev
+                0x000000000000005c       0x14 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000005c                SerialTransport::~SerialTransport()
+ .text._ZN15SerialTransport4readEPhj
+                0x0000000000000070       0x28 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000070                SerialTransport::read(unsigned char*, unsigned int)
+ .text._ZN15SerialTransport9read_byteERh
+                0x0000000000000098       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000098                SerialTransport::read_byte(unsigned char&)
+ .text.k_mutex_lock
+                0x00000000000000b8        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNSt17_Function_handlerIFviEPS0_E10_M_managerERSt9_Any_dataRKS3_St18_Manager_operation
+                0x00000000000000c0       0x30 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000000c0                std::_Function_handler<void (int), void (*)(int)>::_M_manager(std::_Any_data&, std::_Any_data const&, std::_Manager_operation)
+ .text._ZNSt17_Function_handlerIFviEPS0_E9_M_invokeERKSt9_Any_dataOi
+                0x00000000000000f0        0x6 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000000f0                std::_Function_handler<void (int), void (*)(int)>::_M_invoke(std::_Any_data const&, int&&)
+ *fill*         0x00000000000000f6        0x2 
+ .text._ZSt14__relocate_a_1IhhENSt9enable_ifIXsrSt24__is_bitwise_relocatableIT_vE5valueEPS2_E4typeES4_S4_S4_RSaIT0_E.isra.0
+                0x00000000000000f8       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNSt12_Vector_baseIhSaIhEE11_M_allocateEj.isra.0
+                0x0000000000000118       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text.k_mutex_unlock.isra.0
+                0x0000000000000138        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN13BridgeMonitorILj512EE4readEv
+                0x0000000000000140       0x64 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000140                BridgeMonitor<512u>::read()
+ .text._ZN13BridgeMonitorILj512EE4peekEv
+                0x00000000000001a4       0x44 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000001a4                BridgeMonitor<512u>::peek()
+ .text.k_msleep.constprop.0.isra.0
+                0x00000000000001e8        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNSt14_Function_baseD2Ev
+                0x00000000000001f4       0x12 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000001f4                std::_Function_base::~_Function_base()
+                0x00000000000001f4                std::_Function_base::~_Function_base()
+ *fill*         0x0000000000000206        0x2 
+ .text._ZN18RpcFunctionWrapperISt8functionIFviEEED2Ev
+                0x0000000000000208       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000208                RpcFunctionWrapper<std::function<void (int)> >::~RpcFunctionWrapper()
+                0x0000000000000208                RpcFunctionWrapper<std::function<void (int)> >::~RpcFunctionWrapper()
+ .text._ZN18RpcFunctionWrapperISt8functionIFviEEED0Ev
+                0x0000000000000224       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000224                RpcFunctionWrapper<std::function<void (int)> >::~RpcFunctionWrapper()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeEv
+                0x0000000000000240       0x16 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000240                arduino::msgpack::Unpacker::deserialize()
+ .text._ZN7arduino7msgpack8Unpacker5clearEv
+                0x0000000000000256       0x14 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000256                arduino::msgpack::Unpacker::clear()
+ .text._ZNK7arduino7msgpack8Unpacker13getRawBytePtrEjj
+                0x000000000000026a       0x1e /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000026a                arduino::msgpack::Unpacker::getRawBytePtr(unsigned int, unsigned int) const
+ .text._ZN8RpcErrorC2Ev
+                0x0000000000000288       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000288                RpcError::RpcError()
+                0x0000000000000288                RpcError::RpcError()
+ .text._ZN7arduino7msgpack8UnpackerC2Ev
+                0x00000000000002b4       0x10 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000002b4                arduino::msgpack::Unpacker::Unpacker()
+                0x00000000000002b4                arduino::msgpack::Unpacker::Unpacker()
+ .text._ZN10RPCRequestILj256EEC2Ev
+                0x00000000000002c4       0x4c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000002c4                RPCRequest<256u>::RPCRequest()
+                0x00000000000002c4                RPCRequest<256u>::RPCRequest()
+ .text._Z8pwmServoi
+                0x0000000000000310       0x48 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000310                pwmServo(int)
+ .text._Z9moveServoi
+                0x0000000000000358       0x18 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000358                moveServo(int)
+ .text._Z9servoDropv
+                0x0000000000000370       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000370                servoDrop()
+ .text._ZNSt12_Vector_baseIhSaIhEED2Ev
+                0x0000000000000394       0x18 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000394                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::~_Vector_base()
+                0x0000000000000394                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::~_Vector_base()
+ .text.__tcf_3  0x00000000000003ac       0x14 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text.__tcf_2  0x00000000000003c0       0x14 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNSt6vectorIhSaIhEE14_M_move_assignEOS1_St17integral_constantIbLb1EE.isra.0
+                0x00000000000003d4       0x34 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesIhEET_jj
+                0x0000000000000408       0x1e /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000408                unsigned char arduino::msgpack::Unpacker::getRawBytes<unsigned char>(unsigned int, unsigned int) const
+ *fill*         0x0000000000000426        0x2 
+ .text._ZNK7arduino7msgpack8Unpacker7getTypeEj
+                0x0000000000000428       0x58 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000428                arduino::msgpack::Unpacker::getType(unsigned int) const
+ .text._ZNK7arduino7msgpack8Unpacker7getTypeEv
+                0x0000000000000480       0x10 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000480                arduino::msgpack::Unpacker::getType() const
+ .text._ZNK7arduino7msgpack8Unpacker5isIntEv
+                0x0000000000000490       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000490                arduino::msgpack::Unpacker::isInt() const
+ .text._ZN7arduino7msgpack8Unpacker9unpackNilEv
+                0x00000000000004b0       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000004b0                arduino::msgpack::Unpacker::unpackNil()
+ .text._ZNK7arduino7msgpack8Unpacker7isArrayEv
+                0x00000000000004ec       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000004ec                arduino::msgpack::Unpacker::isArray() const
+ .text._ZNK7arduino7msgpack8Unpacker5isMapEv
+                0x000000000000050c       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000050c                arduino::msgpack::Unpacker::isMap() const
+ .text._ZNK7arduino7msgpack8Unpacker6isUIntEv
+                0x000000000000052c       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000052c                arduino::msgpack::Unpacker::isUInt() const
+ .text._ZN7arduino7msgpack8Unpacker13unpackFloat32Ev
+                0x000000000000054c       0x60 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000054c                arduino::msgpack::Unpacker::unpackFloat32()
+ *fill*         0x00000000000005ac        0x4 
+ .text._ZN7arduino7msgpack8Unpacker13unpackFloat64Ev
+                0x00000000000005b0       0x6c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000005b0                arduino::msgpack::Unpacker::unpackFloat64()
+ .text._ZN7arduino7msgpack8Unpacker11unpackInt64Ev
+                0x000000000000061c       0x60 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000061c                arduino::msgpack::Unpacker::unpackInt64()
+ .text._ZN7arduino7msgpack8Unpacker11unpackInt32Ev
+                0x000000000000067c       0x58 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000067c                arduino::msgpack::Unpacker::unpackInt32()
+ .text._ZN7arduino7msgpack8Unpacker11unpackInt16Ev
+                0x00000000000006d4       0x4c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000006d4                arduino::msgpack::Unpacker::unpackInt16()
+ .text._ZN7arduino7msgpack8Unpacker10unpackInt5Ev
+                0x0000000000000720       0x4c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000720                arduino::msgpack::Unpacker::unpackInt5()
+ .text._ZN7arduino7msgpack8Unpacker11unpackUInt7Ev
+                0x000000000000076c       0x48 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000076c                arduino::msgpack::Unpacker::unpackUInt7()
+ .text._ZN7arduino7msgpack8Unpacker11unpackUInt8Ev
+                0x00000000000007b4       0x48 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000007b4                arduino::msgpack::Unpacker::unpackUInt8()
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesItEET_jj
+                0x00000000000007fc       0x26 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000007fc                unsigned short arduino::msgpack::Unpacker::getRawBytes<unsigned short>(unsigned int, unsigned int) const
+ *fill*         0x0000000000000822        0x2 
+ .text._ZN7arduino7msgpack8Unpacker12unpackUInt16Ev
+                0x0000000000000824       0x48 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000824                arduino::msgpack::Unpacker::unpackUInt16()
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesIjEET_jj
+                0x000000000000086c       0x34 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000086c                unsigned int arduino::msgpack::Unpacker::getRawBytes<unsigned int>(unsigned int, unsigned int) const
+ .text._ZNK7arduino7msgpack8Unpacker14getElementSizeEj
+                0x00000000000008a0      0x11c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000008a0                arduino::msgpack::Unpacker::getElementSize(unsigned int) const
+ .text._ZN7arduino7msgpack8Unpacker15unpackArraySizeEv
+                0x00000000000009bc       0x78 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000009bc                arduino::msgpack::Unpacker::unpackArraySize()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS0_4type9ArraySizeEJEEEbRT_DpOT0_.isra.0
+                0x0000000000000a34       0x40 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack8Unpacker12unpackUInt32Ev
+                0x0000000000000a74       0x48 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000a74                arduino::msgpack::Unpacker::unpackUInt32()
+ .text._ZN7arduino7msgpack8Unpacker13unpackMapSizeEv
+                0x0000000000000abc       0x78 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000abc                arduino::msgpack::Unpacker::unpackMapSize()
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesIyEET_jj
+                0x0000000000000b34       0x3a /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000b34                unsigned long long arduino::msgpack::Unpacker::getRawBytes<unsigned long long>(unsigned int, unsigned int) const
+ *fill*         0x0000000000000b6e        0x2 
+ .text._ZN7arduino7msgpack8Unpacker12unpackUInt64Ev
+                0x0000000000000b70       0x4c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000b70                arduino::msgpack::Unpacker::unpackUInt64()
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesIaEET_jj
+                0x0000000000000bbc       0x1e /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000bbc                signed char arduino::msgpack::Unpacker::getRawBytes<signed char>(unsigned int, unsigned int) const
+ *fill*         0x0000000000000bda        0x2 
+ .text._ZN7arduino7msgpack8Unpacker10unpackInt8Ev
+                0x0000000000000bdc       0x48 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000bdc                arduino::msgpack::Unpacker::unpackInt8()
+ .text._ZNK7arduino7msgpack8Unpacker13isTimestamp32Ev
+                0x0000000000000c24       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000c24                arduino::msgpack::Unpacker::isTimestamp32() const
+ .text._ZNK7arduino7msgpack8Unpacker13isTimestamp64Ev
+                0x0000000000000c50       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000c50                arduino::msgpack::Unpacker::isTimestamp64() const
+ .text._ZNK7arduino7msgpack8Unpacker13isTimestamp96Ev
+                0x0000000000000c7c       0x40 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000c7c                arduino::msgpack::Unpacker::isTimestamp96() const
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesIcEET_jj
+                0x0000000000000cbc       0x1e /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000cbc                char arduino::msgpack::Unpacker::getRawBytes<char>(unsigned int, unsigned int) const
+ *fill*         0x0000000000000cda        0x2 
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS0_6object5nil_tEJEEEbRT_DpOT0_
+                0x0000000000000cdc       0x40 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000cdc                bool arduino::msgpack::Unpacker::deserialize<arduino::msgpack::object::nil_t>(arduino::msgpack::object::nil_t&)
+ .text._ZN7arduino7msgpack8Unpacker11deserializeIbJEEEbRT_DpOT0_
+                0x0000000000000d1c       0x68 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000d1c                bool arduino::msgpack::Unpacker::deserialize<bool>(bool&)
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS_6StringEJEEEbRT_DpOT0_
+                0x0000000000000d84      0x174 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000d84                bool arduino::msgpack::Unpacker::deserialize<arduino::String>(arduino::String&)
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS0_6object8timespecEJEEEbRT_DpOT0_
+                0x0000000000000ef8       0xc4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000ef8                bool arduino::msgpack::Unpacker::deserialize<arduino::msgpack::object::timespec>(arduino::msgpack::object::timespec&)
+ .text._ZN17RpcDecoderManagerILj3EE10getDecoderER10ITransport
+                0x0000000000000fbc       0x74 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000fbc                RpcDecoderManager<3u>::getDecoder(ITransport&)
+ .text._ZNSt12_Vector_baseIjSaIjEED2Ev
+                0x0000000000001030       0x18 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001030                std::_Vector_base<unsigned int, std::allocator<unsigned int> >::~_Vector_base()
+                0x0000000000001030                std::_Vector_base<unsigned int, std::allocator<unsigned int> >::~_Vector_base()
+ .text._ZN10RPCRequestILj256EED2Ev
+                0x0000000000001048       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001048                RPCRequest<256u>::~RPCRequest()
+                0x0000000000001048                RPCRequest<256u>::~RPCRequest()
+ .text._ZNSt6vectorIjSaIjEE17_M_realloc_insertIJRjEEEvN9__gnu_cxx17__normal_iteratorIPjS1_EEDpOT_
+                0x0000000000001074       0xdc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001074                void std::vector<unsigned int, std::allocator<unsigned int> >::_M_realloc_insert<unsigned int&>(__gnu_cxx::__normal_iterator<unsigned int*, std::vector<unsigned int, std::allocator<unsigned int> > >, unsigned int&)
+ .text._ZN7arduino7msgpack8Unpacker4feedEPKhj
+                0x0000000000001150       0x78 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001150                arduino::msgpack::Unpacker::feed(unsigned char const*, unsigned int)
+ .text._ZNKSt6vectorIhSaIhEE12_M_check_lenEjPKc
+                0x00000000000011c8       0x38 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000011c8                std::vector<unsigned char, std::allocator<unsigned char> >::_M_check_len(unsigned int, char const*) const
+ .text._ZNSt6vectorIhSaIhEE12emplace_backIJRKhEEERhDpOT_.isra.0
+                0x0000000000001200       0x90 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNSt6vectorIhSaIhEE12emplace_backIJhEEERhDpOT_.isra.0
+                0x0000000000001290       0x90 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack8Unpacker11deserializeISt6vectorIhSaIhEEJEEEbRT_DpOT0_
+                0x0000000000001320      0x13c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001320                bool arduino::msgpack::Unpacker::deserialize<std::vector<unsigned char, std::allocator<unsigned char> >>(std::vector<unsigned char, std::allocator<unsigned char> >&)
+ .text._ZN7arduino7msgpack6Packer11packRawByteERKNS0_4TypeE.isra.0
+                0x000000000000145c       0x18 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack6Packer7packNilEv
+                0x0000000000001474       0x18 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001474                arduino::msgpack::Packer::packNil()
+ .text._ZN7arduino7msgpack6Packer9packUInt8Eh
+                0x000000000000148c       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000148c                arduino::msgpack::Packer::packUInt8(unsigned char)
+ .text._ZNSt6vectorIhSaIhEE12emplace_backIJRhEEES3_DpOT_.isra.0
+                0x00000000000014b8       0x90 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack6Packer15packRawReversedIjEEvRKT_
+                0x0000000000001548       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001548                void arduino::msgpack::Packer::packRawReversed<unsigned int>(unsigned int const&)
+ .text._ZN7arduino7msgpack6Packer10packUInt32Ej
+                0x0000000000001564       0x28 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001564                arduino::msgpack::Packer::packUInt32(unsigned int)
+ .text._ZN7arduino7msgpack6Packer15packRawReversedItEEvRKT_
+                0x000000000000158c       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000158c                void arduino::msgpack::Packer::packRawReversed<unsigned short>(unsigned short const&)
+ .text._ZN7arduino7msgpack6Packer13packArraySizeEj
+                0x00000000000015a8       0x58 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000015a8                arduino::msgpack::Packer::packArraySize(unsigned int)
+ .text._ZN7arduino7msgpack6Packer10packUInt16Et
+                0x0000000000001600       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001600                arduino::msgpack::Packer::packUInt16(unsigned short)
+ .text._ZN7arduino7msgpack6Packer11packIntegerIjEENSt9enable_ifIXaaaaaasrSt13is_arithmeticIT_E5valuesrSt11is_integralIS5_E5valuentsrSt7is_sameIS5_bE5valuentsrS9_INSt9remove_cvIS5_E4typeEPcE5valueEvE4typeERKS5_.isra.0
+                0x000000000000162c       0x50 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack6Packer11packIntegerIiEENSt9enable_ifIXaaaaaasrSt13is_arithmeticIT_E5valuesrSt11is_integralIS5_E5valuentsrSt7is_sameIS5_bE5valuentsrS9_INSt9remove_cvIS5_E4typeEPcE5valueEvE4typeERKS5_.isra.0
+                0x000000000000167c       0xb8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack6Packer12packRawBytesEPKcj
+                0x0000000000001734       0x9c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001734                arduino::msgpack::Packer::packRawBytes(char const*, unsigned int)
+ .text._ZN7arduino7msgpack6Packer4packERKNS_6StringE
+                0x00000000000017d0       0x7c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000017d0                arduino::msgpack::Packer::pack(arduino::String const&)
+ .text._ZN7arduino7msgpack6Packer9serializeIJRKiRjRKNS_6StringEEEEvRKNS0_4type9ArraySizeEDpOT_.isra.0
+                0x000000000000184c       0x38 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack6Packer9serializeI8RpcErrorJRNS0_6object5nil_tEEEENSt9enable_ifIXoooontsrSt10is_pointerIT_E5valuesrSt7is_sameIS9_PKcE5valuesrSB_IS9_PKNS_19__FlashStringHelperEE5valueEvE4typeERKS9_DpOT0_.isra.0
+                0x0000000000001884       0x38 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack8Unpacker9unpackIntIiEENSt9enable_ifIXaaaaaaaasrSt13is_arithmeticIT_E5valuesrSt11is_integralIS5_E5valuentsrSt7is_sameIS5_bE5valuentsrS9_INSt9remove_cvIS5_E4typeEPcE5valuesrSt9is_signedIS5_E5valueES5_E4typeEv
+                0x00000000000018bc       0xd0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000018bc                std::enable_if<(((std::is_arithmetic<int>::value&&std::is_integral<int>::value)&&(!std::is_same<int, bool>::value))&&(!std::is_same<std::remove_cv<int>::type, char*>::value))&&std::is_signed<int>::value, int>::type arduino::msgpack::Unpacker::unpackInt<int>()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeIiJEEEbRT_DpOT0_
+                0x000000000000198c       0x40 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000198c                bool arduino::msgpack::Unpacker::deserialize<int>(int&)
+ .text._ZN7arduino7msgpack8Unpacker11unpackFloatIfEENSt9enable_ifIXaasrSt13is_arithmeticIT_E5valuesrSt17is_floating_pointIS5_E5valueES5_E4typeEv
+                0x00000000000019cc      0x118 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000019cc                std::enable_if<std::is_arithmetic<float>::value&&std::is_floating_point<float>::value, float>::type arduino::msgpack::Unpacker::unpackFloat<float>()
+ *fill*         0x0000000000001ae4        0x4 
+ .text._ZN7arduino7msgpack8Unpacker11unpackFloatIdEENSt9enable_ifIXaasrSt13is_arithmeticIT_E5valuesrSt17is_floating_pointIS5_E5valueES5_E4typeEv
+                0x0000000000001ae8      0x118 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001ae8                std::enable_if<std::is_arithmetic<double>::value&&std::is_floating_point<double>::value, double>::type arduino::msgpack::Unpacker::unpackFloat<double>()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS0_4type9ArraySizeEJRiEEEbRT_DpOT0_
+                0x0000000000001c00       0x44 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001c00                bool arduino::msgpack::Unpacker::deserialize<arduino::msgpack::type::ArraySize, int&>(arduino::msgpack::type::ArraySize&, int&)
+ .text._ZNK10RpcDecoderILj1024EE4sendEPKhj
+                0x0000000000001c44       0x22 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001c44                RpcDecoder<1024u>::send(unsigned char const*, unsigned int) const
+ *fill*         0x0000000000001c66        0x2 
+ .text._ZN9RPCClient8send_rpcIJRKN7arduino6StringEEEEbS4_RjDpOT_.isra.0
+                0x0000000000001c68       0x84 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN9RPCClient8send_rpcIJEEEbRKN7arduino6StringERjDpOT_.isra.0
+                0x0000000000001cec       0x74 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN9RPCClient8send_rpcIJRKjEEEbRKN7arduino6StringERjDpOT_.isra.0
+                0x0000000000001d60       0x84 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN11BridgeClass6notifyIJRiEEEvN7arduino6StringEDpOT_
+                0x0000000000001de4       0xac /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001de4                void BridgeClass::notify<int&>(arduino::String, int&)
+ .text._Z7movePosi
+                0x0000000000001e90       0xc0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001e90                movePos(int)
+ .text._ZNK9RPCServer13send_responseILj256EEEbRK10RPCRequestIXT_EE.isra.0
+                0x0000000000001f50       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN10RpcDecoderILj1024EE7consumeEjj
+                0x0000000000001f74       0x36 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001f74                RpcDecoder<1024u>::consume(unsigned int, unsigned int)
+ *fill*         0x0000000000001faa        0x2 
+ .text._ZN10RpcDecoderILj1024EE7discardEv
+                0x0000000000001fac       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001fac                RpcDecoder<1024u>::discard()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeI8RpcErrorJRNS0_6object5nil_tEEEEbRT_DpOT0_
+                0x0000000000001fd8       0x90 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001fd8                bool arduino::msgpack::Unpacker::deserialize<RpcError, arduino::msgpack::object::nil_t&>(RpcError&, arduino::msgpack::object::nil_t&)
+ .text._Z4wrapIRFviESt8functionIS0_EEP18RpcFunctionWrapperIT0_EOT_
+                0x0000000000002068       0x6c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002068                RpcFunctionWrapper<std::function<void (int)> >* wrap<void (&)(int), std::function<void (int)> >(void (&)(int))
+ .text._ZN7arduino7msgpack8Unpacker10unpackUIntIjEENSt9enable_ifIXaaaaaaaasrSt13is_arithmeticIT_E5valuesrSt11is_integralIS5_E5valuentsrSt7is_sameIS5_bE5valuentsrS9_INSt9remove_cvIS5_E4typeEPcE5valuentsrSt9is_signedIS5_E5valueES5_E4typeEv
+                0x00000000000020d4       0x80 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000020d4                std::enable_if<(((std::is_arithmetic<unsigned int>::value&&std::is_integral<unsigned int>::value)&&(!std::is_same<unsigned int, bool>::value))&&(!std::is_same<std::remove_cv<unsigned int>::type, char*>::value))&&(!std::is_signed<unsigned int>::value), unsigned int>::type arduino::msgpack::Unpacker::unpackUInt<unsigned int>()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeIjJRNS_6StringEEEEbRT_DpOT0_
+                0x0000000000002154       0x44 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002154                bool arduino::msgpack::Unpacker::deserialize<unsigned int, arduino::String&>(unsigned int&, arduino::String&)
+ .text._ZN10RpcDecoderILj1024EE16fetch_rpc_methodEv
+                0x0000000000002198       0xe8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002198                RpcDecoder<1024u>::fetch_rpc_method()
+ .text._ZN10RPCRequestILj256EE22unpack_request_headersEv
+                0x0000000000002280       0xb8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002280                RPCRequest<256u>::unpack_request_headers()
+ .text._ZN9RPCServer15process_requestILj256EEEvR10RPCRequestIXT_EE
+                0x0000000000002338      0x114 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002338                void RPCServer::process_request<256u>(RPCRequest<256u>&)
+ .text._ZN7arduino7msgpack8Unpacker11deserializeIjJEEEbRT_DpOT0_
+                0x000000000000244c       0x40 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000244c                bool arduino::msgpack::Unpacker::deserialize<unsigned int>(unsigned int&)
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS0_4type9ArraySizeEJRiRjEEEbRT_DpOT0_
+                0x000000000000248c       0x78 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000248c                bool arduino::msgpack::Unpacker::deserialize<arduino::msgpack::type::ArraySize, int&, unsigned int&>(arduino::msgpack::type::ArraySize&, int&, unsigned int&)
+ .text._ZN10RpcDecoderILj1024EE12get_responseIN7arduino7msgpack6object5nil_tEEEbjRT_R8RpcError
+                0x0000000000002504      0x168 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002504                bool RpcDecoder<1024u>::get_response<arduino::msgpack::object::nil_t>(unsigned int, arduino::msgpack::object::nil_t&, RpcError&)
+ .text._ZN10RpcDecoderILj1024EE12get_responseIbEEbjRT_R8RpcError
+                0x000000000000266c      0x168 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000266c                bool RpcDecoder<1024u>::get_response<bool>(unsigned int, bool&, RpcError&)
+ .text._ZNSt11__copy_moveILb0ELb1ESt26random_access_iterator_tagE8__copy_mIhEEPT_PKS3_S6_S4_
+                0x00000000000027d4       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000027d4                unsigned char* std::__copy_move<false, true, std::random_access_iterator_tag>::__copy_m<unsigned char>(unsigned char const*, unsigned char const*, unsigned char*)
+ .text._ZNSt11__copy_moveILb1ELb1ESt26random_access_iterator_tagE8__copy_mIhEEPT_PKS3_S6_S4_
+                0x00000000000027f0       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000027f0                unsigned char* std::__copy_move<true, true, std::random_access_iterator_tag>::__copy_m<unsigned char>(unsigned char const*, unsigned char const*, unsigned char*)
+ .text._ZN7arduino7msgpack6object3extC2EaPKhj
+                0x000000000000280c      0x104 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000280c                arduino::msgpack::object::ext::ext(signed char, unsigned char const*, unsigned int)
+                0x000000000000280c                arduino::msgpack::object::ext::ext(signed char, unsigned char const*, unsigned int)
+ .text._ZN7arduino7msgpack8Unpacker9unpackExtEv
+                0x0000000000002910      0x178 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002910                arduino::msgpack::Unpacker::unpackExt()
+ .text._ZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerE
+                0x0000000000002a88      0x294 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002a88                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)
+ .text._ZN10RpcDecoderILj1024EE12parse_packetEv
+                0x0000000000002d1c       0xf8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002d1c                RpcDecoder<1024u>::parse_packet()
+ .text._ZN10RpcDecoderILj1024EE6decodeEv
+                0x0000000000002e14       0x40 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002e14                RpcDecoder<1024u>::decode()
+ .text._ZN9RPCServer7get_rpcILj256EEEbR10RPCRequestIXT_EEN7arduino6StringE
+                0x0000000000002e54       0xc4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002e54                bool RPCServer::get_rpc<256u>(RPCRequest<256u>&, arduino::String)
+ .text._ZN11BridgeClass11update_safeEv
+                0x0000000000002f18       0xb0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002f18                BridgeClass::update_safe()
+ .text._Z10__loopHookv
+                0x0000000000002fc8       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002fc8                __loopHook()
+ .text._ZN11BridgeClass6updateEv
+                0x0000000000002fe8       0xb0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002fe8                BridgeClass::update()
+ .text._Z16updateEntryPointPvS_S_
+                0x0000000000003098       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003098                updateEntryPoint(void*, void*, void*)
+ .text._ZN9RPCClient12get_responseIN7arduino7msgpack6object5nil_tEEEbjRT_R8RpcError
+                0x00000000000030bc       0x40 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000030bc                bool RPCClient::get_response<arduino::msgpack::object::nil_t>(unsigned int, arduino::msgpack::object::nil_t&, RpcError&)
+ .text._ZN9RpcResultIJEED2Ev
+                0x00000000000030fc       0x9c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000030fc                RpcResult<>::~RpcResult()
+                0x00000000000030fc                RpcResult<>::~RpcResult()
+ .text._ZN9RPCClient12get_responseIbEEbjRT_R8RpcError
+                0x0000000000003198       0x40 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003198                bool RPCClient::get_response<bool>(unsigned int, bool&, RpcError&)
+ .text._ZN9RpcResultIJRKN7arduino6StringEEE6resultIbEEbRT_
+                0x00000000000031d8       0x90 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000031d8                bool RpcResult<arduino::String const&>::result<bool>(bool&)
+ .text.loop     0x0000000000003268      0x1c8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003268                loop
+ .text._ZN9RpcResultIJEE6resultIbEEbRT_.isra.0
+                0x0000000000003430       0x88 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN11BridgeClass5beginEm
+                0x00000000000034b8      0x154 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000034b8                BridgeClass::begin(unsigned long)
+ .text.setup    0x000000000000360c      0x150 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000360c                setup
+ .text._ZN8RpcUtils6detail9unpackMapERN7arduino7msgpack8UnpackerERj
+                0x000000000000375c       0x80 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000375c                RpcUtils::detail::unpackMap(arduino::msgpack::Unpacker&, unsigned int&)
+ .text._ZN18RpcFunctionWrapperISt8functionIFviEEE11handle_callIvEENSt9enable_ifIXsrSt7is_voidIT_E5valueEiE4typeERN7arduino7msgpack8UnpackerERNSC_6PackerE
+                0x00000000000037dc       0x74 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000037dc                std::enable_if<std::is_void<void>::value, int>::type RpcFunctionWrapper<std::function<void (int)> >::handle_call<void>(arduino::msgpack::Unpacker&, arduino::msgpack::Packer&)
+ .text._ZN18RpcFunctionWrapperISt8functionIFviEEEclERN7arduino7msgpack8UnpackerERNS5_6PackerE
+                0x0000000000003850       0xec /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003850                RpcFunctionWrapper<std::function<void (int)> >::operator()(arduino::msgpack::Unpacker&, arduino::msgpack::Packer&)
+ .text._ZN10RpcDecoderILj1024EE12get_responseIjEEbjRT_R8RpcError
+                0x000000000000393c      0x168 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000393c                bool RpcDecoder<1024u>::get_response<unsigned int>(unsigned int, unsigned int&, RpcError&)
+ .text._ZN9RpcResultIJRN7arduino6StringEEE6resultIjEEbRT_
+                0x0000000000003aa4       0xbc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003aa4                bool RpcResult<arduino::String&>::result<unsigned int>(unsigned int&)
+ .text._ZN13BridgeMonitorILj512EE5writeEPKhj
+                0x0000000000003b60      0x128 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003b60                BridgeMonitor<512u>::write(unsigned char const*, unsigned int)
+ .text._ZN10RpcDecoderILj1024EE12get_responseISt6vectorIhSaIhEEEEbjRT_R8RpcError
+                0x0000000000003c88      0x168 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003c88                bool RpcDecoder<1024u>::get_response<std::vector<unsigned char, std::allocator<unsigned char> > >(unsigned int, std::vector<unsigned char, std::allocator<unsigned char> >&, RpcError&)
+ .text._ZN9RpcResultIJRjEE6resultISt6vectorIhSaIhEEEEbRT_
+                0x0000000000003df0       0xbc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003df0                bool RpcResult<unsigned int&>::result<std::vector<unsigned char, std::allocator<unsigned char> > >(std::vector<unsigned char, std::allocator<unsigned char> >&)
+ .text._ZN13BridgeMonitorILj512EE5_readEj
+                0x0000000000003eac      0x15c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003eac                BridgeMonitor<512u>::_read(unsigned int)
+ .text._ZN13BridgeMonitorILj512EE9availableEv
+                0x0000000000004008       0x44 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004008                BridgeMonitor<512u>::available()
+ .text._GLOBAL__sub_I_Bridge
+                0x000000000000404c       0xe4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._GLOBAL__sub_D_Bridge
+                0x0000000000004130       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN12AccelStepperD2Ev
+                0x0000000000004150        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x0000000000004150                AccelStepper::~AccelStepper()
+                0x0000000000004150                AccelStepper::~AccelStepper()
+ *fill*         0x0000000000004152        0x2 
+ .text._ZN12AccelStepper15computeNewSpeedEv
+                0x0000000000004154      0x178 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x0000000000004154                AccelStepper::computeNewSpeed()
+ .text._ZN12AccelStepper4stepEl
+                0x00000000000042cc       0x40 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x00000000000042cc                AccelStepper::step(long)
+ .text._ZN12AccelStepper5step2El
+                0x000000000000430c       0x22 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x000000000000430c                AccelStepper::step2(long)
+ .text._ZN12AccelStepper5step3El
+                0x000000000000432e       0x28 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x000000000000432e                AccelStepper::step3(long)
+ .text._ZN12AccelStepper5step4El
+                0x0000000000004356       0x22 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x0000000000004356                AccelStepper::step4(long)
+ .text._ZN12AccelStepper5step6El
+                0x0000000000004378       0x4a /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x0000000000004378                AccelStepper::step6(long)
+ .text._ZN12AccelStepper5step8El
+                0x00000000000043c2       0x3a /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x00000000000043c2                AccelStepper::step8(long)
+ .text._ZN12AccelStepper13setOutputPinsEh
+                0x00000000000043fc       0x50 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x00000000000043fc                AccelStepper::setOutputPins(unsigned char)
+ .text._ZN12AccelStepper5step1El
+                0x000000000000444c       0x44 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x000000000000444c                AccelStepper::step1(long)
+ .text._ZN12AccelStepperD0Ev
+                0x0000000000004490       0x14 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x0000000000004490                AccelStepper::~AccelStepper()
+ .text._ZN12AccelStepper14disableOutputsEv
+                0x00000000000044a4       0x38 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x00000000000044a4                AccelStepper::disableOutputs()
+ .text._ZN12AccelStepper13enableOutputsEv
+                0x00000000000044dc       0x64 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x00000000000044dc                AccelStepper::enableOutputs()
+ .text._ZN12AccelStepper15setAccelerationEf.part.0
+                0x0000000000004540       0xbc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .text._ZN12AccelStepper5step0El
+                0x00000000000045fc       0x14 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x00000000000045fc                AccelStepper::step0(long)
+ .text._ZN12AccelStepper6moveToEl
+                0x0000000000004610       0x10 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x0000000000004610                AccelStepper::moveTo(long)
+ .text._ZN12AccelStepper4moveEl
+                0x0000000000004620        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x0000000000004620                AccelStepper::move(long)
+ .text._ZN12AccelStepper8runSpeedEv
+                0x000000000000462c       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x000000000000462c                AccelStepper::runSpeed()
+ .text._ZN12AccelStepper12distanceToGoEv
+                0x0000000000004668        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x0000000000004668                AccelStepper::distanceToGo()
+ .text._ZN12AccelStepper18setCurrentPositionEl
+                0x0000000000004670       0x10 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x0000000000004670                AccelStepper::setCurrentPosition(long)
+ .text._ZN12AccelStepper3runEv
+                0x0000000000004680       0x34 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x0000000000004680                AccelStepper::run()
+ .text._ZN12AccelStepper11setMaxSpeedEf
+                0x00000000000046b4       0x90 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x00000000000046b4                AccelStepper::setMaxSpeed(float)
+ .text._ZN12AccelStepperC2Ehhhhhb
+                0x0000000000004744       0x80 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x0000000000004744                AccelStepper::AccelStepper(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, bool)
+                0x0000000000004744                AccelStepper::AccelStepper(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, bool)
+ .text._ZN12AccelStepper15setAccelerationEf
+                0x00000000000047c4       0x14 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x00000000000047c4                AccelStepper::setAcceleration(float)
+ .text._ZN12AccelStepper8setSpeedEf
+                0x00000000000047d8       0x9c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x00000000000047d8                AccelStepper::setSpeed(float)
+ .text._ZN12AccelStepper4stopEv
+                0x0000000000004874       0x7c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x0000000000004874                AccelStepper::stop()
+ .text._ZSt20__throw_length_errorPKc
+                0x00000000000048f0        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+                0x00000000000048f0                std::__throw_length_error(char const*)
+ .text._ZSt17__throw_bad_allocv
+                0x00000000000048f2        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+                0x00000000000048f2                std::__throw_bad_alloc()
+ .text._ZSt25__throw_bad_function_callv
+                0x00000000000048f4        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+                0x00000000000048f4                std::__throw_bad_function_call()
+ .text.atexit   0x00000000000048f6        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+                0x00000000000048f6                atexit
+ .text.strcmp   0x00000000000048fa       0x16 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+                0x00000000000048fa                strcmp
+ .text._Z3maplllll
+                0x0000000000004910       0x14 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Common.cpp.o)
+                0x0000000000004910                map(long, long, long, long, long)
+ .text._ZN7arduino5Print5writeEPKc
+                0x0000000000004924       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+                0x0000000000004924                arduino::Print::write(char const*)
+ .text._ZN7arduino5Print7printlnEv
+                0x0000000000004948       0x14 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+                0x0000000000004948                arduino::Print::println()
+ .text._ZN7arduino5Print7printlnEPKNS_19__FlashStringHelperE
+                0x000000000000495c       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+                0x000000000000495c                arduino::Print::println(arduino::__FlashStringHelper const*)
+ .text._ZN7arduino5Print7printlnEPKc
+                0x0000000000004978        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+                0x0000000000004978                arduino::Print::println(char const*)
+ .text._ZN7arduino6Stream9timedReadEv
+                0x0000000000004980       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+                0x0000000000004980                arduino::Stream::timedRead()
+ .text._ZN7arduino6Stream10setTimeoutEm
+                0x00000000000049ac        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+                0x00000000000049ac                arduino::Stream::setTimeout(unsigned long)
+ .text._ZN7arduino6Stream9readBytesEPcj
+                0x00000000000049b0       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+                0x00000000000049b0                arduino::Stream::readBytes(char*, unsigned int)
+ .text._ZN7arduino6StringC2EOS0_
+                0x00000000000049dc       0x16 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x00000000000049dc                arduino::String::String(arduino::String&&)
+                0x00000000000049dc                arduino::String::String(arduino::String&&)
+ *fill*         0x00000000000049f2        0x2 
+ .text._ZN7arduino6StringD2Ev
+                0x00000000000049f4       0x14 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x00000000000049f4                arduino::String::~String()
+                0x00000000000049f4                arduino::String::~String()
+ .text._ZN7arduino6String10invalidateEv
+                0x0000000000004a08       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004a08                arduino::String::invalidate()
+ .text._ZN7arduino6String12changeBufferEj
+                0x0000000000004a24       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004a24                arduino::String::changeBuffer(unsigned int)
+ .text._ZN7arduino6String7reserveEj
+                0x0000000000004a40       0x28 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004a40                arduino::String::reserve(unsigned int)
+ .text._ZN7arduino6String4copyEPKcj
+                0x0000000000004a68       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004a68                arduino::String::copy(char const*, unsigned int)
+ .text._ZN7arduino6StringC2EPKc
+                0x0000000000004aa4       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004aa4                arduino::String::String(char const*)
+                0x0000000000004aa4                arduino::String::String(char const*)
+ .text._ZN7arduino6String4moveERS0_
+                0x0000000000004ad0       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004ad0                arduino::String::move(arduino::String&)
+ .text._ZN7arduino6StringaSERKS0_
+                0x0000000000004afc       0x28 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004afc                arduino::String::operator=(arduino::String const&)
+ .text._ZN7arduino6StringC2ERKS0_
+                0x0000000000004b24       0x18 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004b24                arduino::String::String(arduino::String const&)
+                0x0000000000004b24                arduino::String::String(arduino::String const&)
+ .text._ZN7arduino6StringaSEOS0_
+                0x0000000000004b3c       0x10 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004b3c                arduino::String::operator=(arduino::String&&)
+ .text._ZN7arduino6StringaSEPKc
+                0x0000000000004b4c       0x30 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004b4c                arduino::String::operator=(char const*)
+ .text._ZN7arduino6StringC2Eih
+                0x0000000000004b7c       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004b7c                arduino::String::String(int, unsigned char)
+                0x0000000000004b7c                arduino::String::String(int, unsigned char)
+ .text._ZN7arduino6String6concatEPKcj
+                0x0000000000004ba8       0x40 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004ba8                arduino::String::concat(char const*, unsigned int)
+ .text._ZN7arduino6String6concatERKS0_
+                0x0000000000004be8        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004be8                arduino::String::concat(arduino::String const&)
+ .text._ZN7arduino6String6concatEc
+                0x0000000000004bf4       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004bf4                arduino::String::concat(char)
+ .text._ZNK7arduino6String9compareToERKS0_
+                0x0000000000004c10       0x30 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004c10                arduino::String::compareTo(arduino::String const&) const
+ .text._ZNK7arduino6String6equalsERKS0_
+                0x0000000000004c40       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004c40                arduino::String::equals(arduino::String const&) const
+ .text._ZNK7arduino6String6equalsEPKc
+                0x0000000000004c60       0x28 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004c60                arduino::String::equals(char const*) const
+ .text.ltoa     0x0000000000004c88       0x80 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+                0x0000000000004c88                ltoa
+ .text.itoa     0x0000000000004d08        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+                0x0000000000004d08                itoa
+ .text.initVariant
+                0x0000000000004d10        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000004d10                initVariant
+ *fill*         0x0000000000004d12        0x2 
+ .text.main     0x0000000000004d14       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000004d14                main
+ .text._ZL10new_helperj
+                0x0000000000004d40       0x10 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .text._Znwj    0x0000000000004d50        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+                0x0000000000004d50                operator new(unsigned int)
+ .text._ZnwjPv  0x0000000000004d58        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+                0x0000000000004d58                operator new(unsigned int, void*)
+ .text._ZdlPvj  0x0000000000004d5c        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+                0x0000000000004d5c                operator delete(void*, unsigned int)
+ .text._Z20start_static_threadsv
+                0x0000000000004d64       0x90 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(threads.cpp.o)
+                0x0000000000004d64                start_static_threads()
+ .text.gpio_pin_set_dt.isra.0
+                0x0000000000004df4       0x28 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.gpio_pin_configure_dt.isra.0
+                0x0000000000004e1c       0x2a /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ *fill*         0x0000000000004e46        0x2 
+ .text.yield    0x0000000000004e48        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x0000000000004e48                yield
+ .text.pinMode  0x0000000000004e50       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x0000000000004e50                pinMode
+ .text.digitalWrite
+                0x0000000000004e8c       0x14 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x0000000000004e8c                digitalWrite
+ .text.digitalRead
+                0x0000000000004ea0       0x40 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x0000000000004ea0                digitalRead
+ .text.delay    0x0000000000004ee0       0x10 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x0000000000004ee0                delay
+ .text.delayMicroseconds
+                0x0000000000004ef0       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x0000000000004ef0                delayMicroseconds
+ .text.micros   0x0000000000004f14       0x1c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x0000000000004f14                micros
+ .text.millis   0x0000000000004f30       0x18 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x0000000000004f30                millis
+ .text.z_impl_uart_irq_tx_enable
+                0x0000000000004f48        0xa /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._ZN7arduino12ZephyrSerial5beginEm
+                0x0000000000004f52        0xa /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000004f52                arduino::ZephyrSerial::begin(unsigned long)
+ .text._ZN7arduino12ZephyrSerial3endEv
+                0x0000000000004f5c        0x2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000004f5c                arduino::ZephyrSerial::end()
+ .text._ZN7arduino12ZephyrSerial5writeEh
+                0x0000000000004f5e       0x18 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000004f5e                arduino::ZephyrSerial::write(unsigned char)
+ .text._ZN7arduino12ZephyrSerialcvbEv
+                0x0000000000004f76        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000004f76                arduino::ZephyrSerial::operator bool()
+ *fill*         0x0000000000004f7a        0x2 
+ .text.k_sem_give
+                0x0000000000004f7c        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text.k_sem_take.isra.0
+                0x0000000000004f84        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._ZN7arduino12ZephyrSerial4readEv
+                0x0000000000004f8c       0x48 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000004f8c                arduino::ZephyrSerial::read()
+ .text._ZN7arduino12ZephyrSerial4peekEv
+                0x0000000000004fd4       0x48 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000004fd4                arduino::ZephyrSerial::peek()
+ .text._ZN7arduino12ZephyrSerial17availableForWriteEv
+                0x000000000000501c       0x3c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x000000000000501c                arduino::ZephyrSerial::availableForWrite()
+ .text._ZN7arduino12ZephyrSerial9availableEv
+                0x0000000000005058       0x34 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000005058                arduino::ZephyrSerial::available()
+ .text._ZN7arduino12ZephyrSerial5beginEmt
+                0x000000000000508c       0xb8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x000000000000508c                arduino::ZephyrSerial::begin(unsigned long, unsigned short)
+ .text._ZN7arduino12ZephyrSerial5flushEv
+                0x0000000000005144       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000005144                arduino::ZephyrSerial::flush()
+ .text._ZN7arduino12ZephyrSerial5writeEPKhj
+                0x0000000000005170       0x70 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000005170                arduino::ZephyrSerial::write(unsigned char const*, unsigned int)
+ .text._ZN7arduino12ZephyrSerial10IrqHandlerEv
+                0x00000000000051e0       0xec /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000051e0                arduino::ZephyrSerial::IrqHandler()
+ .text._ZN7arduino12ZephyrSerial11IrqDispatchEPK6devicePv
+                0x00000000000052cc        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000052cc                arduino::ZephyrSerial::IrqDispatch(device const*, void*)
+ .text._ZN7arduino12ZephyrSerial18ZephyrSerialBufferILi64EEC2Ev
+                0x00000000000052d8       0x28 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000052d8                arduino::ZephyrSerial::ZephyrSerialBuffer<64>::ZephyrSerialBuffer()
+                0x00000000000052d8                arduino::ZephyrSerial::ZephyrSerialBuffer<64>::ZephyrSerialBuffer()
+ .text._GLOBAL__sub_I__ZN7arduino12ZephyrSerial5beginEmt
+                0x0000000000005300       0x5c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.ctors)
+ *(.dtors)
+ *(.fini)
+                0x000000000000535c                __static_thread_data_list_start = .
+ *(SORT_BY_NAME(.__static_thread_data.static.*))
+                0x000000000000535c                __static_thread_data_list_end = .
+
+.rodata         0x000000000000535c      0x518
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata._ZN8RpcErrorC2Ev.str1.1
+                0x000000000000535c        0x1 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZNSt6vectorIjSaIjEE17_M_realloc_insertIJRjEEEvN9__gnu_cxx17__normal_iteratorIPjS1_EEDpOT_.str1.1
+                0x000000000000535d       0x1a /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._Z7movePosi.str1.1
+                0x0000000000005377       0x1f /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN10RpcDecoderILj1024EE12get_responseIN7arduino7msgpack6object5nil_tEEEbjRT_R8RpcError.str1.1
+                0x0000000000005396       0x7b /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN7arduino7msgpack6object3extC2EaPKhj.str1.1
+                0x0000000000005411       0x28 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN11BridgeClass11update_safeEv.str1.1
+                0x0000000000005439        0x9 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata.loop.str1.1
+                0x0000000000005442       0x13 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN11BridgeClass5beginEm.str1.1
+                0x0000000000005455        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata.setup.str1.1
+                0x000000000000545d        0xe /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN18RpcFunctionWrapperISt8functionIFviEEEclERN7arduino7msgpack8UnpackerERNS5_6PackerE.str1.1
+                0x000000000000546b       0xa6 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN13BridgeMonitorILj512EE5writeEPKhj.str1.1
+                0x0000000000005511        0xa /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN13BridgeMonitorILj512EE5_readEj.str1.1
+                0x000000000000551b        0x9 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZTV15SerialTransport
+                0x0000000000005524       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005524                vtable for SerialTransport
+ .rodata._ZTV13BridgeMonitorILj512EE
+                0x0000000000005544       0x24 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005544                vtable for BridgeMonitor<512u>
+ .rodata._ZTV18RpcFunctionWrapperISt8functionIFviEEE
+                0x0000000000005568       0x14 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005568                vtable for RpcFunctionWrapper<std::function<void (int)> >
+ .rodata._ZTV12AccelStepper
+                0x000000000000557c       0x40 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+                0x000000000000557c                vtable for AccelStepper
+ .rodata._ZN7arduino5Print7printlnEv.str1.1
+                0x00000000000055bc        0x3 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .rodata.str1.1
+                0x00000000000055bf       0x51 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+ .rodata._ZL12arduino_pins
+                0x0000000000005610      0x230 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZTVN7arduino12ZephyrSerialE
+                0x0000000000005840       0x34 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000005840                vtable for arduino::ZephyrSerial
+
+.data           0x0000000000005874       0x18
+ *(.data .data.*)
+ .data.positions
+                0x0000000000005874       0x18 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005874                positions
+
+.bss            0x0000000000005890     0x129c
+ *(.bss .bss.* COMMON)
+ .bss._ZN17RpcDecoderManagerILj3EE14decoders_countE
+                0x0000000000005890        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005890                RpcDecoderManager<3u>::decoders_count
+ .bss._ZGVN17RpcDecoderManagerILj3EE9decoders_E
+                0x0000000000005894        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005894                guard variable for RpcDecoderManager<3u>::decoders_
+ .bss._ZN17RpcDecoderManagerILj3EE9decoders_E
+                0x0000000000005898      0xc60 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005898                RpcDecoderManager<3u>::decoders_
+ .bss._ZGVZN7arduino7msgpack8Unpacker10from_arrayIJRiRNS_6StringEEEEbDpOT_E2sz
+                0x00000000000064f8        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000064f8                guard variable for arduino::msgpack::Unpacker::from_array<int&, arduino::String&>(int&, arduino::String&)::sz
+ .bss._ZZN7arduino7msgpack8Unpacker10from_arrayIJRiRNS_6StringEEEEbDpOT_E2sz
+                0x00000000000064fc        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000064fc                arduino::msgpack::Unpacker::from_array<int&, arduino::String&>(int&, arduino::String&)::sz
+ .bss.homed     0x0000000000006500        0x1 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006500                homed
+ *fill*         0x0000000000006501        0x3 
+ .bss.stepper   0x0000000000006504       0x54 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006504                stepper
+ .bss._ZN12RouterBridge3HCIE
+                0x0000000000006558       0x28 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006558                RouterBridge::HCI
+ .bss.Monitor   0x0000000000006580      0x238 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006580                Monitor
+ .bss.Bridge    0x00000000000067b8      0x140 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000067b8                Bridge
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE1t
+                0x00000000000068f8       0x10 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000068f8                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::t
+ .bss._ZGVZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE1e
+                0x0000000000006908        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006908                guard variable for RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::e
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE1e
+                0x000000000000690c        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000690c                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::e
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE6map_sz
+                0x0000000000006918        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006918                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::map_sz
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE6arr_sz
+                0x000000000000691c        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000691c                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::arr_sz
+ .bss._ZGVZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE5bytes
+                0x0000000000006920        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006920                guard variable for RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::bytes
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE5bytes
+                0x0000000000006924        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006924                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::bytes
+ .bss._ZGVZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE6string
+                0x0000000000006930        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006930                guard variable for RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::string
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE6string
+                0x0000000000006934        0xc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006934                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::string
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE5num64
+                0x0000000000006940        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006940                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::num64
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE5num32
+                0x0000000000006948        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006948                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::num32
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE7integer
+                0x000000000000694c        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000694c                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::integer
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE1b
+                0x0000000000006950        0x1 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006950                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::b
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE3nil
+                0x0000000000006951        0x1 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006951                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::nil
+ *fill*         0x0000000000006952        0x2 
+ .bss.Serial1   0x0000000000006954       0xec /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000006954                Serial1
+ .bss.Serial    0x0000000000006a40       0xec /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000006a40                Serial
+ *(.noinit .noinit.*)
+
+.exported_sym   0x0000000000006b2c        0x8
+ *(.exported_sym)
+ .exported_sym  0x0000000000006b2c        0x8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+ *(.exported_sym.*)
+
+.init_array     0x0000000000006b34        0x8
+ *(.init_array)
+ .init_array    0x0000000000006b34        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .init_array    0x0000000000006b38        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.fini_array     0x0000000000006b3c        0x4
+ *(.fini_array)
+ .fini_array    0x0000000000006b3c        0x4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+
+.symtab
+ *(.symtab)
+
+.strtab
+ *(.strtab)
+
+.shstrtab
+ *(.shstrtab)
+
+.rel
+ *(.rel .rel.*)
+
+.got
+ *(.got .got.* .got.plt .got.plt*)
+OUTPUT(/home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch.ino_debug.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000    0x49752
+ .debug_info    0x0000000000000000    0x30ac9 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_info    0x0000000000030ac9     0x2f2b /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .debug_info    0x00000000000339f4      0x1de /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_info    0x0000000000033bd2      0x168 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_info    0x0000000000033d3a     0x2d13 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_info    0x0000000000036a4d     0x1f74 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_info    0x00000000000389c1     0x3e0c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_info    0x000000000003c7cd      0x3de /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_info    0x000000000003cbab     0x1e2b /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_info    0x000000000003e9d6      0x7af /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_info    0x000000000003f185     0x2000 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_info    0x0000000000041185     0x4c54 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_info    0x0000000000045dd9     0x3979 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_abbrev   0x0000000000000000     0x5196
+ .debug_abbrev  0x0000000000000000     0x162c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_abbrev  0x000000000000162c      0x78e /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .debug_abbrev  0x0000000000001dba      0x154 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_abbrev  0x0000000000001f0e       0xc1 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_abbrev  0x0000000000001fcf      0x594 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_abbrev  0x0000000000002563      0x500 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_abbrev  0x0000000000002a63      0x5d4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_abbrev  0x0000000000003037      0x128 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_abbrev  0x000000000000315f      0x538 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_abbrev  0x0000000000003697      0x234 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_abbrev  0x00000000000038cb      0x545 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_abbrev  0x0000000000003e10      0xa59 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_abbrev  0x0000000000004869      0x92d /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_loclists
+                0x0000000000000000     0xfb19
+ .debug_loclists
+                0x0000000000000000     0x9cfd /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_loclists
+                0x0000000000009cfd      0xa37 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .debug_loclists
+                0x000000000000a734       0x88 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_loclists
+                0x000000000000a7bc       0x51 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_loclists
+                0x000000000000a80d     0x12da /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_loclists
+                0x000000000000bae7      0x883 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_loclists
+                0x000000000000c36a     0x1943 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_loclists
+                0x000000000000dcad      0x3e1 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_loclists
+                0x000000000000e08e       0x72 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_loclists
+                0x000000000000e100      0x2bc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_loclists
+                0x000000000000e3bc       0xf4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_loclists
+                0x000000000000e4b0      0xedd /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_loclists
+                0x000000000000f38d      0x78c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_aranges  0x0000000000000000      0xe58
+ .debug_aranges
+                0x0000000000000000      0x4e0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_aranges
+                0x00000000000004e0      0x168 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .debug_aranges
+                0x0000000000000648       0x58 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_aranges
+                0x00000000000006a0       0x30 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_aranges
+                0x00000000000006d0      0x128 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_aranges
+                0x00000000000007f8       0x90 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_aranges
+                0x0000000000000888      0x298 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_aranges
+                0x0000000000000b20       0x40 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_aranges
+                0x0000000000000b60       0x38 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_aranges
+                0x0000000000000b98       0xb0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_aranges
+                0x0000000000000c48       0x20 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_aranges
+                0x0000000000000c68      0x130 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_aranges
+                0x0000000000000d98       0xc0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_rnglists
+                0x0000000000000000     0x24bd
+ .debug_rnglists
+                0x0000000000000000     0x16b0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_rnglists
+                0x00000000000016b0      0x1c5 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .debug_rnglists
+                0x0000000000001875       0x3d /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_rnglists
+                0x00000000000018b2       0x1f /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_rnglists
+                0x00000000000018d1      0x1c1 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_rnglists
+                0x0000000000001a92      0x103 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_rnglists
+                0x0000000000001b95      0x375 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_rnglists
+                0x0000000000001f0a       0x2c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_rnglists
+                0x0000000000001f36       0x33 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_rnglists
+                0x0000000000001f69       0x7f /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_rnglists
+                0x0000000000001fe8       0x47 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_rnglists
+                0x000000000000202f      0x2cc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_rnglists
+                0x00000000000022fb      0x1c2 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_line     0x0000000000000000    0x1080f
+ .debug_line    0x0000000000000000     0x8486 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_line    0x0000000000008486     0x124b /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .debug_line    0x00000000000096d1      0x138 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_line    0x0000000000009809      0x1b6 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_line    0x00000000000099bf      0xc5a /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_line    0x000000000000a619      0x8d4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_line    0x000000000000aeed     0x1a12 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_line    0x000000000000c8ff      0x32d /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_line    0x000000000000cc2c      0x83b /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_line    0x000000000000d467      0x36b /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_line    0x000000000000d7d2      0x906 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_line    0x000000000000e0d8     0x17b8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_line    0x000000000000f890      0xf7f /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_str      0x0000000000000000    0x329e5
+ .debug_str     0x0000000000000000    0x21c71 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_str     0x0000000000021c71     0x21f0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .debug_str     0x0000000000023e61      0x40d /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_str     0x000000000002426e      0x370 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_str     0x00000000000245de     0x16d0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_str     0x0000000000025cae     0x167e /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_str     0x000000000002732c     0x1828 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_str     0x0000000000028b54      0x37a /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_str     0x0000000000028ece     0x1fdf /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_str     0x000000000002aead      0x4d7 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_str     0x000000000002b384     0x1c23 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_str     0x000000000002cfa7     0x2fa4 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_str     0x000000000002ff4b     0x2a9a /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_frame    0x0000000000000000     0x2d84
+ .debug_frame   0x0000000000000000     0x1298 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_frame   0x0000000000001298      0x424 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/libraries/AccelStepper/AccelStepper.cpp.o
+ .debug_frame   0x00000000000016bc       0x90 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_frame   0x000000000000174c       0x48 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_frame   0x0000000000001794      0x3d0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_frame   0x0000000000001b64      0x1fc /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_frame   0x0000000000001d60      0x7e8 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_frame   0x0000000000002548       0xa0 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_frame   0x00000000000025e8       0x68 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_frame   0x0000000000002650      0x140 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_frame   0x0000000000002790       0x48 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_frame   0x00000000000027d8      0x39c /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_frame   0x0000000000002b74      0x210 /home/arduino/ArduinoApps/objdet_copy/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
