@@ -9,7 +9,7 @@ As a hobbyist, once you're done prototyping, it often becomes difficult to place
 3. Use the core feature of Arduino UNO Q, that is seamless communication from your software to hardware using the Bridge API.
 4. Use this software solution for your own hardware setup.
 
-**To help you build your complete solution I have also built the hardware for you with all the necessary hardware and STL files**
+**To help you build your complete solution I have also built the hardware for you with all the necessary hardware and STL files** <br>
 **The Robot comprises of a very simple design and has been designed to demonstrate the capabilities of Arduino UNO Q and Edge Impulse for this Application**
 
 
