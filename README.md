@@ -5,7 +5,7 @@ This project will guide you on how to build your own **Inventory Robot** that ca
 As a hobbyist, once you're done prototyping, it often becomes difficult to place every component back in its correct location. This robot solves that by automating the process of tracking and arranging items efficiently.
 
 ## Ok cool, but what will you learn from this project? You will learn:
-1. How to train an ML model and optimize it in **Edge Impulse** and integrate it into your **Arduino UNO Q app**.
+1. How to train an ML model int **Edge Impulse**, optimize it in and integrate it into your **Arduino UNO Q app**.
 2. Use the core feature of Arduino UNO Q, that is seamless communication from your software and hardware using the Bridge API.
 3. Use this software solution for your own hardware setup.
 
