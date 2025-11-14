@@ -1,4 +1,4 @@
-# Inventory Robot with UNO Q
+# Smart Inventory Robot (Edeg Impulse + UNO Q)
 
 ## Introduction
 This project will guide you on how to build your own **Inventory Robot** that can manage and track any item you want to store. It provides a simple and straightforward solution to automate, organize, and segregate your objects.
