@@ -4,8 +4,6 @@
 This project will guide you on how to build your own **Inventory Robot** that can manage and track any item you want to store. It provides a simple and straightforward solution to automate, organize, and segregate your objects.
 As a hobbyist, once you're done prototyping, it often becomes difficult to place every component back in its correct location. This robot solves that by automating the process of tracking and arranging items efficiently.
 
-![Demo](assets/docs_assets/choose_train.gif)
-
 ---
 
 ## Table of Contents
@@ -61,6 +59,12 @@ Instructions or images about assembling the hardware.
 
 ## Dataset Preparation
 How to collect and prepare the dataset.
+<p align="center">
+  <img src="assets/docs_assets/img1.png" width="200" height="200" />
+  <img src="assets/docs_assets/img2.png" width="200" height="200" />
+  <img src="assets/docs_assets/img3.png" width="200" height="200" />
+  <img src="assets/docs_assets/img4.png" width="200" height="200" />
+</p>
 
 ---
 
