@@ -71,12 +71,15 @@ To prepare your dataset, follow these steps (images below show the process):
   <img src="assets/docs_assets/edge_4.png" width="500" />
 </p>
 
-### Review sample data
+### Select on "collecting images" 
 <p align="center">
   <img src="assets/docs_assets/edge_3.png" width="300" />
 </p>
 
-### Train and preview
+### Label and Capture your images one by one
+- Make sure to edit the label, it lets you identify what images you have captured for sorting them later.
+- Choose Training Dataset (approximately 200 images)
+- Then choose Testing dataset for around 40 images.
 <p align="center">
   <img src="assets/docs_assets/edge_7.gif" width="300" />
 </p>
