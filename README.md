@@ -61,24 +61,33 @@ Instructions or images about assembling the hardware.
 To prepare your dataset, follow these steps (images below show the process):
 
 ### Create your project
-  <p align="center">
+<p align="center">
   <img src="assets/docs_assets/edge_1.png" />
- </p>
-### Collect images for your dataset
-  <p align="center">
+</p>
+
+### Collect images
+<p align="center">
   <img src="assets/docs_assets/edge_2.png" />
 </p>
+
+### Label and organize your dataset
 <p align="center">
   <img src="assets/docs_assets/edge_4.png" />
 </p>
+
+### Review sample data
 <p align="center">
   <img src="assets/docs_assets/edge_3.png" />
 </p>
+
+### Train and preview
 <p align="center">
-  <img src="assets/docs_assets/edge_7.png" />
+  <img src="assets/docs_assets/edge_7.gif" />
 </p>
+
+### Final dataset breakdown
 <p align="center">
-  <img src="assets/docs_assets/edge_6.png" />
+  <img src="assets/docs_assets/edge_6.gif" />
 </p>
 
 
