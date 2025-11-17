@@ -82,7 +82,7 @@ To prepare your dataset, follow these steps (images below show the process):
 - Choose Training Dataset (approximately 200 images)
 - Then choose Testing dataset for around 40 images.
 <p align="center">
-  <img src="assets/docs_assets/edge_7.gif" width="500" height = "300"/>
+  <img src="assets/docs_assets/edge_7.gif" width="500" height = "600"/>
   <img src="assets/docs_assets/edge_6.gif" width="500" />
 </p>
 
