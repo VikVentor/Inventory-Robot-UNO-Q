@@ -67,8 +67,8 @@ To prepare your dataset, follow these steps (images below show the process):
 
 ### Collect images
 <p align="center">
-  <img src="assets/docs_assets/edge_2.png" width="700" />
-  <img src="assets/docs_assets/edge_4.png" width="700" />
+  <img src="assets/docs_assets/edge_2.png" width="500" />
+  <img src="assets/docs_assets/edge_4.png" width="500" />
 </p>
 
 ### Review sample data
