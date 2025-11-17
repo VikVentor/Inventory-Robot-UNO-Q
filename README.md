@@ -62,32 +62,32 @@ To prepare your dataset, follow these steps (images below show the process):
 
 ### Create your project
 <p align="center">
-  <img src="assets/docs_assets/edge_1.png" />
+  <img src="assets/docs_assets/edge_1.png" width="300" />
 </p>
 
 ### Collect images
 <p align="center">
-  <img src="assets/docs_assets/edge_2.png" />
+  <img src="assets/docs_assets/edge_2.png" width="300" />
 </p>
 
 ### Label and organize your dataset
 <p align="center">
-  <img src="assets/docs_assets/edge_4.png" />
+  <img src="assets/docs_assets/edge_4.png" width="300" />
 </p>
 
 ### Review sample data
 <p align="center">
-  <img src="assets/docs_assets/edge_3.png" />
+  <img src="assets/docs_assets/edge_3.png" width="300" />
 </p>
 
 ### Train and preview
 <p align="center">
-  <img src="assets/docs_assets/edge_7.gif" />
+  <img src="assets/docs_assets/edge_7.gif" width="300" />
 </p>
 
 ### Final dataset breakdown
 <p align="center">
-  <img src="assets/docs_assets/edge_6.gif" />
+  <img src="assets/docs_assets/edge_6.gif" width="300" />
 </p>
 
 
