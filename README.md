@@ -61,7 +61,7 @@ Instructions or images about assembling the hardware.
 To prepare your dataset, follow these steps (images below show the process):
 
 ### Create your project
-  <img src="assets/docs_assets/edge_1.png" width="200" height="400" />
+  ![Step 1](assets/docs_assets/edge_1.png)
 ### Collect images for your dataset
   <img src="assets/docs_assets/edge_2.png" width="200" height="200" />
   
