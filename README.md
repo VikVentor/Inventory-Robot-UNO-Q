@@ -78,15 +78,12 @@ To prepare your dataset, follow these steps (images below show the process):
 
 ### Label and Capture your images one by one
 - Make sure to edit the label, it lets you identify what images you have captured for sorting them later.
+- Capture images in various lighting conditions as shown in the gif.
 - Choose Training Dataset (approximately 200 images)
 - Then choose Testing dataset for around 40 images.
 <p align="center">
-  <img src="assets/docs_assets/edge_7.gif" width="300" />
-</p>
-
-### Final dataset breakdown
-<p align="center">
-  <img src="assets/docs_assets/edge_6.gif" width="300" />
+  <img src="assets/docs_assets/edge_7.gif" width="500" />
+  <img src="assets/docs_assets/edge_6.gif" width="500" />
 </p>
 
 
