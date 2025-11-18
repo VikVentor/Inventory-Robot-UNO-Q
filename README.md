@@ -136,22 +136,22 @@ Instructions or images about assembling the hardware.
 
 - The next section is the "Image" section that lets you generate features
 <p align="left">
-  <img src="assets/docs_assets/train_6_feat.png" />
-  <img src="assets/docs_assets/train_7_feat.png" />
+  <img src="assets/docs_assets/train_6_feat.png" width="500"/>
+  <img src="assets/docs_assets/train_7_feat.png" width="500"/>
 </p>
 
 - The next section is the "Object Detection".
 - Here is where i chose the MobileNetV2 SSD FPN-Lite 320x320 model:
 - Hit save & train
 <p align="left">
-  <img src="assets/docs_assets/train_8_mn.png" />
+  <img src="assets/docs_assets/train_8_mn.png" width="500"/>
 </p>
 - So, I could only choose upto 25 - 30 epochs as Edge Impulse provides a job limit of only an Hour
 - Anything above 30 Epochs would exceed training time.
 <br>
 - Results:
 <p align="left">
-  <img src="assets/docs_assets/train_mn_score.png" />
+  <img src="assets/docs_assets/train_mn_score.png" width="500"/>
 </p>
 
 - So then I proceeded to the "Live Classification" Section
@@ -179,7 +179,7 @@ Instructions or images about assembling the hardware.
 - Select Build
 - Here you will see a summary of details for the model for UNO Q:
 <p align="left">
-  <img src="assets/docs_assets/unoq_11.png" width="500"/>
+  <img src="assets/docs_assets/unoq_11.png" width="800"/>
 </p>
 
 ### Learnings from Experiment 1:
