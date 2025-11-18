@@ -151,7 +151,7 @@ Instructions or images about assembling the hardware.
 <br>
 - Results:
 <p align="left">
-  <img src="assets/docs_assets/train_mnssd_score.png" />
+  <img src="assets/docs_assets/train_mn_score.png" />
 </p>
 
 
