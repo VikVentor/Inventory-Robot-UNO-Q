@@ -247,7 +247,7 @@ All the steps are the same except now:
 ## Integrate with UNO Q
 - We need the .eim file from Edge Impulse:
 - Navigate to the deployement section of Edge impulse adn Select Build.
-- It will automaticall start a file for a .eim file after the build is successfully.
+- It will automatically start a download for a .eim file after the build is successfully.
 <p align="left">
   <img src="assets/docs_assets/edge_last.png" width="500"/>
 </p>
