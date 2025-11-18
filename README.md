@@ -185,7 +185,7 @@ Instructions or images about assembling the hardware.
 ### Learnings from Experiment 1:
 - Model size too Large
 - We can improve the model's accuarcy and precision score further
-- We can lower the input size for training i.e. make it 90x90 instead ok 320x320
+- We can lower the input size for training i.e. make it 90x90 instead of 320x320
 
 ### Experiment 2
 All the steps are the same except now:
@@ -197,6 +197,14 @@ All the steps are the same except now:
 - Learning & Processing block remain the same.
 <p align="left">
   <img src="assets/docs_assets/fomo_1.png" />
+</p>
+
+- "Image" section step generates the features
+
+- Training using the **FOMO (Faster Objects, More Objects) MobileNetV2 0.35** model, with the below parameters.
+- **Note that data augmentation is not selected**
+<p align="left">
+  <img src="assets/docs_assets/fomo_train_setup.png" />
 </p>
 
 
