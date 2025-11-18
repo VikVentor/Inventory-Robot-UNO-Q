@@ -179,7 +179,7 @@ Instructions or images about assembling the hardware.
 - Select Build
 - Here you will see a summary of details for the model for UNO Q:
 <p align="left">
-  <img src="assets/docs_assets/unoq_11.png" />
+  <img src="assets/docs_assets/unoq_11.png" width="500"/>
 </p>
 
 ### Learnings from Experiment 1:
@@ -196,7 +196,7 @@ All the steps are the same except now:
 - So I create my impulse with the below change
 - Learning & Processing block remain the same.
 <p align="left">
-  <img src="assets/docs_assets/fomo_1.png" />
+  <img src="assets/docs_assets/fomo_1.png" width="500"/>
 </p>
 
 - "Image" section step generates the features
@@ -204,17 +204,17 @@ All the steps are the same except now:
 - Training using the **FOMO (Faster Objects, More Objects) MobileNetV2 0.35** model, with the below parameters.
 - **Note that data augmentation is not selected**
 <p align="left">
-  <img src="assets/docs_assets/fomo_train_setup.png" width="400"/>
+  <img src="assets/docs_assets/fomo_train_setup.png" width="500"/>
 </p>
 
 - I get the following F1 Score
 <p align="left">
-  <img src="assets/docs_assets/fomo_f1_score.png" width="400"/>
+  <img src="assets/docs_assets/fomo_f1_score.png" width="500"/>
 </p>
 
 - Amazing! so its going to be accurate! Well maybe not
 <p align="left">
-  <img src="assets/docs_assets/fomo_mod_aug.png" widht="400"/>
+  <img src="assets/docs_assets/fomo_mod_aug.png" widht="500"/>
 </p>
 
 
