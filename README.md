@@ -15,11 +15,10 @@ As a hobbyist, once you're done prototyping, it often becomes difficult to place
 5. [Dataset Preparation](#dataset-preparation)  
 6. [Train on Edge Impulse Studio](#train-on-edge-impulse-studio)  
 7. [Optimized Solution](#optimized-Solution)  
-8. [Learnings](#learnings)  
-9. [Integrate with UNO Q](#integrate-with-uno-q)  
-10. [Arduino App Explanation](#arduino-app-explanation)  
-11. [Usage and UI](#usage-and-ui)  
-12. [Conclusion](#conclusion)
+8. [Integrate with UNO Q](#integrate-with-uno-q)
+9. [Arduino App Explanation](#arduino-app-explanation)
+10. [Usage and UI](#usage-and-ui)
+11. [Conclusion](#conclusion)
 
 ---
 ## Problem Understanding
