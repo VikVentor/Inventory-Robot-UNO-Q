@@ -163,8 +163,8 @@ Instructions or images about assembling the hardware.
 - Navigate to the next Section: " Model Testing".
 - Select classify all
 <p align="left">
-  <img src="assets/docs_assets/class_all_mn.png" />
-  <img src="assets/docs_assets/accu_mn.png" width="400" />
+  <img src="assets/docs_assets/class_all_mn.png" width="400"/>
+  <img src="assets/docs_assets/accu_mn.png"  />
 </p>
 
 
