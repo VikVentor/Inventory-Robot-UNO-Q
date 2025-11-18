@@ -61,18 +61,19 @@ Instructions or images about assembling the hardware.
 To prepare your dataset, follow these steps (images below show the process):
 
 ### Create your project
-<p align="center">
+<p align="left">
   <img src="assets/docs_assets/edge_1.png" width="300" />
 </p>
 
 ### Collect images
-<p align="center">
+- Use the camera that you will be using in your actual robot, connect it to your PC and take photos.
+<p align="left">
   <img src="assets/docs_assets/edge_2.png" width="500" />
   <img src="assets/docs_assets/edge_4.png" width="500" />
 </p>
 
 ### Select on "collecting images" 
-<p align="center">
+<p align="left">
   <img src="assets/docs_assets/edge_3.png" width="300" />
 </p>
 
