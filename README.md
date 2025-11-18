@@ -204,14 +204,18 @@ All the steps are the same except now:
 - Training using the **FOMO (Faster Objects, More Objects) MobileNetV2 0.35** model, with the below parameters.
 - **Note that data augmentation is not selected**
 <p align="left">
-  <img src="assets/docs_assets/fomo_train_setup.png" />
+  <img src="assets/docs_assets/fomo_train_setup.png" width="400"/>
 </p>
 
 - I get the following F1 Score
 <p align="left">
-  <img src="assets/docs_assets/fomo_f1_score.png" />
+  <img src="assets/docs_assets/fomo_f1_score.png" width="400"/>
 </p>
 
+- Amazing! so its going to be accurate! Well maybe not
+<p align="left">
+  <img src="assets/docs_assets/fomo_mod_aug.png" widht="400"/>
+</p>
 
 
 
