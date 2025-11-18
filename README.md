@@ -58,10 +58,9 @@ Instructions or images about assembling the hardware.
 ---
 
 ## Dataset Preparation
-To prepare your dataset, follow these steps (images below show the process):
-
-I will be choosign 5 different objects for this project
-So a total of 5 labels, with approximately 240 images is required (200 for training, 40 for testing);
+- To prepare your dataset, follow these steps (images below show the process):
+- I will be choosing 5 different objects for this project
+- So a total of 5 labels, with approximately 240 images per label is required (200 for training, 40 for testing);
 <p align="left">
   <img src="assets/docs_assets/object_list.jpg" width="300" />
 </p>
@@ -112,7 +111,19 @@ So a total of 5 labels, with approximately 240 images is required (200 for train
 ---
 
 ## Train on Edge Impulse Studio
-Training steps, screenshots, settings, etc.
+
+### Ok, so how do I know what to choose? 
+- It's all about experimenting with various models, options and even your dataset itself.
+- To make it clear for you, I have experimented with various options myself, before arriving at the final optimised solution.
+  <br>
+  <br>
+- Naviagte to the Create Impulse section:
+- An impulse takes raw data, uses signal processing to extract features, and then uses a learning block to classify new data.
+
+
+
+
+
 
 ---
 
