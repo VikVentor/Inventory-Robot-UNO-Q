@@ -93,7 +93,7 @@ To prepare your dataset, follow these steps (images below show the process):
 ### Label your images with a bounbding box:
 Navigate to the Label Dataset present at the top menu, draw a bounding box which approximately borders your object.
 <p align="left">
-  <img src="assets/docs_assets/edge_8.png" width="600" />
+  <img src="assets/docs_assets/edge_8.gif" width="600" />
 </p>
 
 
