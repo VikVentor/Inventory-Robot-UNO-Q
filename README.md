@@ -235,6 +235,9 @@ All the steps are the same except now:
   <img src="assets/docs_assets/fomo_aug_accu.png" widht="500"/>
 </p>
 
+- So, what made the drastic difference?
+- **Use Data Augmentation: Data augmentation helps prevent overfitting by artificially increasing the variety and size of your dataset. It makes models more robust and better at handling real-world variations**
+
 
 
 
