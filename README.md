@@ -164,7 +164,7 @@ Instructions or images about assembling the hardware.
 - Select classify all
 <p align="left">
   <img src="assets/docs_assets/class_all_mn.png" />
-  <img src="assets/docs_assets/accu_mn.png" />
+  <img src="assets/docs_assets/accu_mn.png" width="400" />
 </p>
 
 
