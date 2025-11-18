@@ -240,6 +240,8 @@ All the steps are the same except now:
 
 - So, what made the drastic difference?
 - **Use Data Augmentation: Data augmentation helps prevent overfitting by artificially increasing the variety and size of your dataset. It makes models more robust and better at handling real-world variations**
+- Reduced model size from 11MB to 106KB
+- - Faster training time.
 
 ---
 
