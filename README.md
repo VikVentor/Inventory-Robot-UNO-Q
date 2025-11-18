@@ -136,8 +136,8 @@ Instructions or images about assembling the hardware.
 
 - The next section is the "Image" section that lets you generate features
 <p align="left">
-  <img src="assets/docs_assets/train_6_feat.png" width="600" />
-  <img src="assets/docs_assets/train_7_feat.png" width="600" />
+  <img src="assets/docs_assets/train_6_feat.png" />
+  <img src="assets/docs_assets/train_7_feat.png" />
 </p>
 
 
