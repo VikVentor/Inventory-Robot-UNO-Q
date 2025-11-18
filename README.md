@@ -204,35 +204,35 @@ All the steps are the same except now:
 - Training using the **FOMO (Faster Objects, More Objects) MobileNetV2 0.35** model, with the below parameters.
 - **Note that data augmentation is not selected**
 <p align="left">
-  <img src="assets/docs_assets/fomo_train_setup.png" width="500"/>
+  <img src="assets/docs_assets/fomo_train_setup.png" width="600"/>
 </p>
 
 - I get the following F1 Score
 <p align="left">
-  <img src="assets/docs_assets/fomo_f1_score.png" width="500"/>
+  <img src="assets/docs_assets/fomo_f1_score.png" width="600"/>
 </p>
 
 - Amazing! so its going to be accurate! Well maybe not
 <p align="left">
-  <img src="assets/docs_assets/fomo_accu.png" width="500"/>
+  <img src="assets/docs_assets/fomo_accu.png" width="600"/>
 </p>
 
 
-### Experiment 3 (Final)
-- Everythign is the same except,
+## Optimized Solution (Experiment 3, Final)
+- Everything is the same except,
 - I have enabled **data augementation**
 <p align="left">
-  <img src="assets/docs_assets/fomo_mod_aug.png" width="500"/>
+  <img src="assets/docs_assets/fomo_mod_aug.png" width="600"/>
 </p>
 
 - Precision Score:
 <p align="left">
-  <img src="assets/docs_assets/fomo_aug_f1.png" width="500"/>
+  <img src="assets/docs_assets/fomo_aug_f1.png" width="600"/>
 </p>
 
 - Accuracy:
 <p align="left">
-  <img src="assets/docs_assets/fomo_aug_accu.png" width="500"/>
+  <img src="assets/docs_assets/fomo_aug_accu.png" width="300"/>
 </p>
 
 - So, what made the drastic difference?
@@ -254,7 +254,7 @@ All the steps are the same except now:
 
 ---
 
-## Optimized Solution
+
 Explain improvements, model tuning, latency reductions, etc.
 
 ---
