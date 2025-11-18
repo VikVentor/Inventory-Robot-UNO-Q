@@ -140,7 +140,11 @@ Instructions or images about assembling the hardware.
   <img src="assets/docs_assets/train_7_feat.png" />
 </p>
 
-
+- The next section is the "Object Detection".
+- Here is where i chose the MobileNetV2 SSD FPN-Lite 320x320 model:
+<p align="left">
+  <img src="assets/docs_assets/train_8_mnssd.png" />
+</p>
 
 
 
