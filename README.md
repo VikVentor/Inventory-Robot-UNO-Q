@@ -144,7 +144,7 @@ Instructions or images about assembling the hardware.
 - Here is where i chose the MobileNetV2 SSD FPN-Lite 320x320 model:
 - Hit save & train
 <p align="left">
-  <img src="assets/docs_assets/train_8_mnssd.png" />
+  <img src="assets/docs_assets/train_8_mn.png" />
 </p>
 - So, I could only choose upto 25 - 30 epochs as Edge Impulse provides a job limit of only an Hour
 - Anything above 30 Epochs would exceed training time.
