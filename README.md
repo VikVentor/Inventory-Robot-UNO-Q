@@ -88,7 +88,7 @@ Instructions or images about assembling the hardware.
 - Capture images in various lighting conditions/orientations as shown in the gif.
 - Choose Training Dataset first (Capture approximately 200 images)
 - Then choose Testing dataset for around 40 images.
-<p align="center">
+<p align="left">
   <img src="assets/docs_assets/edge_7.gif" width="400" height = "500"/>
   <img src="assets/docs_assets/edge_6.gif" width="400" />
 </p>
