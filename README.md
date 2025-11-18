@@ -217,6 +217,7 @@ All the steps are the same except now:
   <img src="assets/docs_assets/fomo_accu.png" width="600"/>
 </p>
 
+---
 
 ## Optimized Solution (Experiment 3, Final)
 - Everything is the same except,
@@ -252,7 +253,7 @@ All the steps are the same except now:
 
 
 
----
+
 
 
 Explain improvements, model tuning, latency reductions, etc.
