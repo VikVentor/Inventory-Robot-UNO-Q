@@ -105,7 +105,7 @@ So a total of 5 labels, with approximately 240 images is required (200 for train
 </p>
 - You can also use the AI labelling feature using OpenAI or Gemini API keys.
 
-
+### Repeat this process for other objects as well.
 
 
 
