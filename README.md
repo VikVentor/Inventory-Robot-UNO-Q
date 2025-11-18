@@ -154,6 +154,19 @@ Instructions or images about assembling the hardware.
   <img src="assets/docs_assets/train_mn_score.png" />
 </p>
 
+- So then I proceeded to the "Live Classification" Section
+- You can choose live classififcation using your connected webcam.
+- I used load sample. It takes a random image from your **Test dataset** and compares whther the prediction has matched the label that you set for your test data.
+
+<br>
+- But how do I test all of them to check the over all performance?
+- Navigate to the next Section: " Model Testing".
+- Select classify all
+<p align="left">
+  <img src="assets/docs_assets/class_all_mn.png" />
+</p>
+
+
 
 
 
