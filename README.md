@@ -207,6 +207,11 @@ All the steps are the same except now:
   <img src="assets/docs_assets/fomo_train_setup.png" />
 </p>
 
+- I get the following F1 Score
+<p align="left">
+  <img src="assets/docs_assets/fomo_f1_score.png" />
+</p>
+
 
 
 
