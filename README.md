@@ -128,13 +128,13 @@ Instructions or images about assembling the hardware.
 
 - I added a processing block and a learning block
 <p align="left">
-  <img src="assets/docs_assets/train_3.png" width="500" />
-  <img src="assets/docs_assets/train_4.png" width="500" />
+  <img src="assets/docs_assets/train_3.png" width="600" />
+  <img src="assets/docs_assets/train_4.png" width="600" />
 </p>
 
 - Then I saved the impulse:
 <p align="left">
-  <img src="assets/docs_assets/train_5.png" width="500" />
+  <img src="assets/docs_assets/train_5.png" width="600" />
 </p>
 
 
