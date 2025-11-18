@@ -218,6 +218,27 @@ All the steps are the same except now:
 </p>
 
 
+### Experiment 3 (Final)
+- Everythign is the same except,
+- I have enabled **data augementation**
+<p align="left">
+  <img src="assets/docs_assets/fomo_mod_aug.png" widht="500"/>
+</p>
+
+- Precision Score:
+<p align="left">
+  <img src="assets/docs_assets/fomo_aug_f1.png" widht="500"/>
+</p>
+
+- Accuracy:
+<p align="left">
+  <img src="assets/docs_assets/fomo_aug_acuu.png" widht="500"/>
+</p>
+
+
+
+
+
 
 
 
@@ -230,7 +251,7 @@ All the steps are the same except now:
 
 ---
 
-## Optimization
+## Optimized Solution
 Explain improvements, model tuning, latency reductions, etc.
 
 ---
