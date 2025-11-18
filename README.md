@@ -227,7 +227,7 @@ All the steps are the same except now:
 
 - Precision Score:
 <p align="left">
-  <img src="assets/docs_assets/fomo_aug_f1.png" widht="500"/>
+  <img src="assets/docs_assets/fomo_aug_f1.png" widht="200"/>
 </p>
 
 - Accuracy:
