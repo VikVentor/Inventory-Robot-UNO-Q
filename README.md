@@ -219,7 +219,8 @@ All the steps are the same except now:
 
 ---
 
-## Optimized Solution (Experiment 3, Final)
+## Optimized Solution
+### Experiment 3, Final
 - Everything is the same except,
 - I have enabled **data augementation**
 <p align="left">
@@ -240,23 +241,6 @@ All the steps are the same except now:
 - **Use Data Augmentation: Data augmentation helps prevent overfitting by artificially increasing the variety and size of your dataset. It makes models more robust and better at handling real-world variations**
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Explain improvements, model tuning, latency reductions, etc.
 
 ---
 
