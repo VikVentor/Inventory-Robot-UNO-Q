@@ -172,7 +172,7 @@ Instructions or images about assembling the hardware.
 - Select the Target option on the top right, choose Arduino UNO Q and save
 <p align="left">
   <img src="assets/docs_assets/choose_targ.png" width="400"/>
-  <img src="assets/docs_assets/choose_unoq.png"  />
+  <img src="assets/docs_assets/choose_unoq.png" width="500" />
 </p>
 
 - The final Section "Deployment"
