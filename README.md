@@ -251,7 +251,8 @@ All the steps are the same except now:
 <p align="left">
   <img src="assets/docs_assets/edge_last.png" width="500"/>
 </p>
-- Setup the Arduino UNO Q as a Single Board Computer:
+
+### Setup the Arduino UNO Q as a Single Board Computer:
 <br>
 [Arduino Uno Q Single-Board Computer Setup](https://docs.arduino.cc/tutorials/uno-q/single-board-computer/)
 
