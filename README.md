@@ -118,7 +118,7 @@ Instructions or images about assembling the hardware.
   <br>
   <br>
   
-### Create an Impulse 
+### Created an Impulse 
 - Naviagte to the Create Impulse section:
 - An impulse takes raw data, uses signal processing to extract features, and then uses a learning block to classify new data.
 #### Experiment 1
@@ -126,10 +126,15 @@ Instructions or images about assembling the hardware.
 - So for this model, the constraint was to have a 320x320 size input for the images.
 <img src="assets/docs_assets/train_2.png" />
 
-- Add a processing block and a learning block
+- I added a processing block and a learning block
 <p align="left">
   <img src="assets/docs_assets/train_3.png" width="500" />
   <img src="assets/docs_assets/train_4.png" width="500" />
+</p>
+
+- Then I saved the impulse:
+<p align="left">
+  <img src="assets/docs_assets/train_5.png" width="500" />
 </p>
 
 
