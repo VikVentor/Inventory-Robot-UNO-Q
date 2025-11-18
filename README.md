@@ -241,7 +241,7 @@ All the steps are the same except now:
 - So, what made the drastic difference?
 - **Use Data Augmentation: Data augmentation helps prevent overfitting by artificially increasing the variety and size of your dataset. It makes models more robust and better at handling real-world variations**
 - Reduced model size from 11MB to 106KB
-- - Faster training time.
+- Faster training time.
 
 ---
 
@@ -252,7 +252,8 @@ All the steps are the same except now:
 <p align="left">
   <img src="assets/docs_assets/edge_last.png" width="500"/>
 </p>
-
+- Setup the Arduino UNO Q as a Single Board Computer:
+[Arduino Uno Q Single-Board Computer Setup](https://docs.arduino.cc/tutorials/uno-q/single-board-computer/)
 
 ---
 
