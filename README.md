@@ -214,7 +214,7 @@ All the steps are the same except now:
 
 - Amazing! so its going to be accurate! Well maybe not
 <p align="left">
-  <img src="assets/docs_assets/fomo_accu.png" widht="500"/>
+  <img src="assets/docs_assets/fomo_accu.png" width="500"/>
 </p>
 
 
@@ -222,17 +222,17 @@ All the steps are the same except now:
 - Everythign is the same except,
 - I have enabled **data augementation**
 <p align="left">
-  <img src="assets/docs_assets/fomo_mod_aug.png" widht="500"/>
+  <img src="assets/docs_assets/fomo_mod_aug.png" width="500"/>
 </p>
 
 - Precision Score:
 <p align="left">
-  <img src="assets/docs_assets/fomo_aug_f1.png" widht="200"/>
+  <img src="assets/docs_assets/fomo_aug_f1.png" width="500"/>
 </p>
 
 - Accuracy:
 <p align="left">
-  <img src="assets/docs_assets/fomo_aug_accu.png" widht="500"/>
+  <img src="assets/docs_assets/fomo_aug_accu.png" width="500"/>
 </p>
 
 - So, what made the drastic difference?
