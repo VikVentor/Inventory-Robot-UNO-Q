@@ -96,7 +96,7 @@ Instructions or images about assembling the hardware.
 - You may ask, why 200 images and not more? To our advantage, the background of the camera feed stays constant, i.e. the white platform in this case.
 
 ### Label your images with a bounbding box:
-- Navigate to the Label Dataset present at the top menu, draw a bounding box which approximately borders your object.
+- Navigate to the Labeling Queue present at the top menu, draw a bounding box which approximately borders your object.
 - Click on save label, you will get the next image and so on.
 - Edge Impulse  provides a great feature here, which automatically tracks the next image and draws aa bounding box by estimating the approximate position
 <p align="left">
