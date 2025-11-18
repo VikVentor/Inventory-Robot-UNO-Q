@@ -73,19 +73,26 @@ To prepare your dataset, follow these steps (images below show the process):
 </p>
 
 ### Select on "collecting images" 
+- Provide the permission, if prompted by your browser.
 <p align="left">
   <img src="assets/docs_assets/edge_3.png" width="300" />
 </p>
 
-### Label and Capture your images one by one
+### Capture your images one by one (Label is not the actual labelling in this case, it is to let you identify your captured images easily)
 - Make sure to edit the label, it lets you identify what images you have captured for sorting them later.
-- Capture images in various lighting conditions as shown in the gif.
-- Choose Training Dataset (approximately 200 images)
+- Capture images in various lighting conditions/orientations as shown in the gif.
+- Choose Training Dataset first (Capture approximately 200 images)
 - Then choose Testing dataset for around 40 images.
 <p align="center">
   <img src="assets/docs_assets/edge_7.gif" width="400" height = "500"/>
   <img src="assets/docs_assets/edge_6.gif" width="400" />
 </p>
+
+- You may ask, why 200 images and not more? To our advantage, the background of the camera feed stays constant, i.e. the white platform in this case.
+
+### Label your images with a bounbding box:
+Navigate to the Label Dataset present at the top menu, draw a bounding box which approximately borders your object.
+
 
 
 
