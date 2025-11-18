@@ -117,8 +117,11 @@ Instructions or images about assembling the hardware.
 - To make it clear for you, I have experimented with various options myself, before arriving at the final optimised solution.
   <br>
   <br>
+  
+### Create an Impulse 
 - Naviagte to the Create Impulse section:
 - An impulse takes raw data, uses signal processing to extract features, and then uses a learning block to classify new data.
+
 
 
 
