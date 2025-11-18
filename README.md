@@ -142,9 +142,22 @@ Instructions or images about assembling the hardware.
 
 - The next section is the "Object Detection".
 - Here is where i chose the MobileNetV2 SSD FPN-Lite 320x320 model:
+- Hit save & train
 <p align="left">
   <img src="assets/docs_assets/train_8_mnssd.png" />
 </p>
+- So, I could only choose upto 25 - 30 epochs as Edge Impulse provides a job limit of only an Hour
+- Anything above 30 Epochs would exceed training time.
+<br>
+- Results:
+<p align="left">
+  <img src="assets/docs_assets/train_mnssd_score.png" />
+</p>
+
+
+
+
+
 
 
 
