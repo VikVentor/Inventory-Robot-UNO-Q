@@ -232,7 +232,7 @@ All the steps are the same except now:
 
 - Accuracy:
 <p align="left">
-  <img src="assets/docs_assets/fomo_aug_acuu.png" widht="500"/>
+  <img src="assets/docs_assets/fomo_aug_accu.png" widht="500"/>
 </p>
 
 
