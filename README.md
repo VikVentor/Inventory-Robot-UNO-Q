@@ -121,6 +121,10 @@ Instructions or images about assembling the hardware.
 ### Create an Impulse 
 - Naviagte to the Create Impulse section:
 - An impulse takes raw data, uses signal processing to extract features, and then uses a learning block to classify new data.
+#### Experiment 1
+- I wanted to try the MobileNetV2 SSD FPN-Lite 320x320 available in the model options (will be clear in the next step)
+- So for this model, the constraint was to have a 320x320 size input for the images.
+<img src="assets/docs_assets/Train_1.png" width="800" />
 
 
 
