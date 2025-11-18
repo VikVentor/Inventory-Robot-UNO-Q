@@ -160,11 +160,20 @@ Instructions or images about assembling the hardware.
 
 <br>
 - But how do I test all of them to check the over all performance?
-- Navigate to the next Section: " Model Testing".
+- Navigate to the next Section: " Model Testing"
 - Select classify all
 <p align="left">
   <img src="assets/docs_assets/class_all_mn.png" width="400"/>
   <img src="assets/docs_assets/accu_mn.png"  />
+</p>
+<br>
+- 87% is not bad, but could it be better? let's find out.
+
+- The final Section "Deployment"
+- Select the Target option on the top right, choose Arduino UNO Q and save
+<p align="left">
+  <img src="assets/docs_assets/choose_targ.png" width="400"/>
+  <img src="assets/docs_assets/choose_unoq.png"  />
 </p>
 
 
