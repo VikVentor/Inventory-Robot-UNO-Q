@@ -100,7 +100,7 @@ Instructions or images about assembling the hardware.
 - Click on save label, you will get the next image and so on.
 - Edge Impulse  provides a great feature here, which automatically tracks the next image and draws aa bounding box by estimating the approximate position
 <p align="left">
-  <img src="assets/docs_assets/edge_8.gif" width="800" />
+  <img src="assets/docs_assets/edge_8.gif" width="600" />
 </p>
 - You can also use the AI labelling feature using OpenAI or Gemini API keys.
 
@@ -179,7 +179,7 @@ Instructions or images about assembling the hardware.
 - Select Build
 - Here you will see a summary of details for the model for UNO Q:
 <p align="left">
-  <img src="assets/docs_assets/unoq_11.png" width="800"/>
+  <img src="assets/docs_assets/unoq_11.png" width="600"/>
 </p>
 
 ### Learnings from Experiment 1:
