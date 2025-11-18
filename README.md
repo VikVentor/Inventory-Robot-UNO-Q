@@ -118,10 +118,10 @@ Instructions or images about assembling the hardware.
   <br>
   <br>
   
-### Created an Impulse 
+### I Created an Impulse 
 - Naviagte to the Create Impulse section:
 - An impulse takes raw data, uses signal processing to extract features, and then uses a learning block to classify new data.
-#### Experiment 1
+### Experiment 1
 - I wanted to try the MobileNetV2 SSD FPN-Lite 320x320 available in the model options (will be clear in the next step)
 - So for this model, the constraint was to have a 320x320 size input for the images.
 <img src="assets/docs_assets/train_2.png" />
@@ -180,6 +180,23 @@ Instructions or images about assembling the hardware.
 - Here you will see a summary of details for the model for UNO Q:
 <p align="left">
   <img src="assets/docs_assets/unoq_11.png" />
+</p>
+
+### Learnings from Experiment 1:
+- Model size too Large
+- We can improve the model's accuarcy and precision score further
+- We can lower the input size for training i.e. make it 90x90 instead ok 320x320
+
+### Experiment 2
+All the steps are the same except now:
+- I chose 90x90 as input size for the impulse
+- Choosing a different model that accepts any image size, i.e. **FOMO (Faster Objects, More Objects) MobileNetV2 0.35**
+
+#### Impulse 
+- So I create my impulse with the below change
+- Learning & Processing block remain the same.
+<p align="left">
+  <img src="assets/docs_assets/fomo_1.png" />
 </p>
 
 
