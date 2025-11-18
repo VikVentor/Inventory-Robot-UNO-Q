@@ -133,8 +133,11 @@ Instructions or images about assembling the hardware.
 </p>
 
 - Then I saved the impulse:
+
+- The next section is the "Image" section that lets you generate features
 <p align="left">
-  <img src="assets/docs_assets/train_5.png" width="600" />
+  <img src="assets/docs_assets/train_6_feat.png" width="600" />
+  <img src="assets/docs_assets/train_7_feat.png" width="600" />
 </p>
 
 
