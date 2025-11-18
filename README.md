@@ -60,6 +60,12 @@ Instructions or images about assembling the hardware.
 ## Dataset Preparation
 To prepare your dataset, follow these steps (images below show the process):
 
+I will be choosign 5 different objects for this project
+So a total of 5 labels, with approximately 240 images is required (200 for training, 40 for testing);
+<p align="left">
+  <img src="assets/docs_assets/object_list.jpg" width="300" />
+</p>
+
 ### Create your project
 <p align="left">
   <img src="assets/docs_assets/edge_1.png" width="300" />
