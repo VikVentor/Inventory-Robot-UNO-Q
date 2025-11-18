@@ -169,12 +169,19 @@ Instructions or images about assembling the hardware.
 <br>
 - 87% is not bad, but could it be better? let's find out.
 
-- The final Section "Deployment"
 - Select the Target option on the top right, choose Arduino UNO Q and save
 <p align="left">
   <img src="assets/docs_assets/choose_targ.png" width="400"/>
   <img src="assets/docs_assets/choose_unoq.png"  />
 </p>
+
+- The final Section "Deployment"
+- Select Build
+- Here you will see a summary of details for the model for UNO Q:
+<p align="left">
+  <img src="assets/docs_assets/unoq_11.png" />
+</p>
+
 
 
 
