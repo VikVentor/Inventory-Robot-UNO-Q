@@ -272,6 +272,19 @@ Accuracy:
 * Model size reduced from **11 MB → 106 KB**
 * Training speed significantly improved
 
+### Summary of Experiments
+
+| Experiment               | Model Used                       | Input Size | Data Augmentation | Accuracy / F1 Score              | Model Size |
+| ------------------------ | -------------------------------- | ---------- | ----------------- | -------------------------------- | ---------- |
+| **Experiment 1**         | MobileNetV2 SSD FPN-Lite 320x320 | 320×320    | ❌ No              | ~87% accuracy                    | **11 MB**  |
+| **Experiment 2**         | FOMO MobileNetV2 0.35            | 90×90      | ❌ No              | Good F1 score but lower accuracy | ~60–70 KB  |
+| **Experiment 3 (Final)** | **FOMO MobileNetV2 0.35**        | **90×90**  | **✔️ Yes**        | **High accuracy & precision**    | **106 KB** |
+
+---
+
+If you'd like, I can also add a short one-line takeaway below the table.
+
+
 ---
 
 ## 8. Integrate with UNO Q
