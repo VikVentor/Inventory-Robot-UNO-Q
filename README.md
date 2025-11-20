@@ -142,10 +142,6 @@ Before we dive in, here is a summary of my experiments,.
 | **Experiment 2**         | FOMO MobileNetV2 0.35            | 90×90      | ❌ No              | Good F1 score but lower accuracy | ~60–70 KB  |
 | **Experiment 3 (Final)** | **FOMO MobileNetV2 0.35**        | **90×90**  | **✔️ Yes**        | **High accuracy & precision**    | **106 KB** |
 
-Got it — here is the simplified version with **only the main heading** for point 3:
-
----
-
 ### **Training Steps (Overview)**
 
 1. [Create the Impulse](#create-an-impulse)
