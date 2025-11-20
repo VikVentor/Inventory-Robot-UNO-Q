@@ -147,10 +147,9 @@ Before we dive in, here is a summary of my experiments,.
 1. [Create an Impulse](#creating-an-impulse)
 2. [Generate Features](#generate-features)
 3. [Train the Model](#train-the-model)
-4. [Live Classification](#testing)
-5. [Model Testing (Classify All)](#testing)
-6. [Select Arduino UNO Q as Target](#deployment-summary)
-7. [Deploy the Model (.eim File)](#integrate-with-uno-q)
+4. [Model Testing (Classify All)](#testing)
+5. [Select Arduino UNO Q as Target](#deployment-summary)
+6. [Deploy the Model (.eim File)](#integrate-with-uno-q)
 
 ---
 
