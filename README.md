@@ -146,7 +146,7 @@ Before we dive in, here is a summary of my experiments,.
 
 1. [Create an Impulse](#creating-an-impulse)
 2. [Generate Features](#generate-features)
-3. [Train the Model](#train-on-edge-impulse-studio)
+3. [Train the Model](#train-the-model)
 4. [Live Classification](#testing)
 5. [Model Testing (Classify All)](#testing)
 6. [Select Arduino UNO Q as Target](#deployment-summary)
@@ -175,7 +175,7 @@ Added processing and learning blocks:
   <img src="assets/docs_assets/train_4.png" width="600" />
 </p>
 
-Generate features:
+### Generate features:
 - Navigate to the "Image" section to save parameters and generate feastures.
 
 <p align="left">
@@ -183,7 +183,8 @@ Generate features:
   <img src="assets/docs_assets/train_7_feat.png" width="500"/>
 </p>
 
-Selected the MobileNet model in the **Object Detection** section:
+### Train the model
+Selected the **MobileNetV2 SSD FPN-Lite 320x320** model in the **Object Detection** section, hit **Save & Train**:
 
 <p align="left">
   <img src="assets/docs_assets/train_8_mn.png" width="500"/>
