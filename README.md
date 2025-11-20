@@ -144,8 +144,8 @@ Before we dive in, here is a summary of my experiments,.
 
 ### **Training Steps (Overview)**
 
-1. [Create the Impulse](#create-an-impulse)
-2. [Generate Features](#image-section-feature-generation)
+1. [Create an Impulse](#creating-an-impulse)
+2. [Generate Features](#generated-features-in-the-image-section)
 3. [Train the Model](#train-on-edge-impulse-studio)
 4. [Live Classification](#testing)
 5. [Model Testing (Classify All)](#testing)
