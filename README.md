@@ -134,6 +134,14 @@ Repeat this process for all objects.
 
 Training is an experimental process—try models, adjust parameters, and iterate until you get the performance you need.
 
+Before we dive in, here is a summary of my experiments,.
+
+| Experiment               | Model Used                       | Input Size | Data Augmentation | Accuracy / F1 Score              | Model Size |
+| ------------------------ | -------------------------------- | ---------- | ----------------- | -------------------------------- | ---------- |
+| **Experiment 1**         | MobileNetV2 SSD FPN-Lite 320x320 | 320×320    | ❌ No              | ~87% accuracy                    | **11 MB**  |
+| **Experiment 2**         | FOMO MobileNetV2 0.35            | 90×90      | ❌ No              | Good F1 score but lower accuracy | ~60–70 KB  |
+| **Experiment 3 (Final)** | **FOMO MobileNetV2 0.35**        | **90×90**  | **✔️ Yes**        | **High accuracy & precision**    | **106 KB** |
+
 ### Creating an Impulse
 
 * Go to **Create Impulse**.
@@ -274,11 +282,7 @@ Accuracy:
 
 ### Summary of Experiments
 
-| Experiment               | Model Used                       | Input Size | Data Augmentation | Accuracy / F1 Score              | Model Size |
-| ------------------------ | -------------------------------- | ---------- | ----------------- | -------------------------------- | ---------- |
-| **Experiment 1**         | MobileNetV2 SSD FPN-Lite 320x320 | 320×320    | ❌ No              | ~87% accuracy                    | **11 MB**  |
-| **Experiment 2**         | FOMO MobileNetV2 0.35            | 90×90      | ❌ No              | Good F1 score but lower accuracy | ~60–70 KB  |
-| **Experiment 3 (Final)** | **FOMO MobileNetV2 0.35**        | **90×90**  | **✔️ Yes**        | **High accuracy & precision**    | **106 KB** |
+
 
 ---
 
