@@ -183,7 +183,7 @@ Instructions or images about assembling the hardware.
 </p>
 
 ### Learnings from Experiment 1:
-- Model size too Large
+- Model size too Large (11MB)
 - We can improve the model's accuarcy and precision score further
 - We can lower the input size for training i.e. make it 90x90 instead of 320x320
 
