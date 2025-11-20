@@ -8,7 +8,7 @@ As a hobbyist, once you're done prototyping, it often becomes difficult to place
 
 ## Table of Contents
 
-1. [Problem Understanding](#problem-understanding)  
+1. [Problem Understanding](#1-problem-understanding)  
 2. [Solution](#solution)  
 3. [What You Will Learn](#what-you-will-learn)  
 4. [Build Your Hardware](#build-your-hardware)  
@@ -21,7 +21,7 @@ As a hobbyist, once you're done prototyping, it often becomes difficult to place
 11. [Conclusion](#conclusion)
 
 ---
-## Problem Understanding
+## 1. Problem Understanding
 
 When working on prototypes or hobby projects, components often end up scattered across the workspace. After completing a project, it becomes difficult to identify, sort, and return each item to its correct place. This leads to misplaced components, wasted time searching for parts, and an overall inefficient workflow.
 
