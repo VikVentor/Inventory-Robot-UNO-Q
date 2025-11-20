@@ -9,16 +9,16 @@ As a hobbyist, once you're done prototyping, it often becomes difficult to place
 ## Table of Contents
 
 1. [Problem Understanding](#1-problem-understanding)  
-2. [Solution](#solution)  
-3. [What You Will Learn](#what-you-will-learn)  
-4. [Build Your Hardware](#build-your-hardware)  
-5. [Dataset Preparation](#dataset-preparation)  
-6. [Train on Edge Impulse Studio](#train-on-edge-impulse-studio)  
-7. [Optimized Solution](#optimized-Solution)  
-8. [Integrate with UNO Q](#integrate-with-uno-q)
-9. [Arduino App Explanation](#arduino-app-explanation)
-10. [Usage and UI](#usage-and-ui)
-11. [Conclusion](#conclusion)
+2. [Solution](#2-solution)  
+3. [What You Will Learn](#3-what-you-will-learn)  
+4. [Build Your Hardware](#4-build-your-hardware)  
+5. [Dataset Preparation](#5-dataset-preparation)  
+6. [Train on Edge Impulse Studio](#6-train-on-edge-impulse-studio)  
+7. [Optimized Model](#7-optimized-model)  
+8. [Integrate with UNO Q](#8-integrate-with-uno-q)
+9. [Arduino App Explanation](#9-arduino-app-explanation)
+10. [Usage and UI](#10-usage-and-ui)
+11. [Conclusion](#11-conclusion)
 
 ---
 ## 1. Problem Understanding
@@ -35,12 +35,12 @@ The core problem is the lack of an easy, automated system that can:
 
 This project aims to eliminate these manual tasks by providing an automated, intelligent inventory robot powered by the Arduino UNO Q and Edge Impulse.
 
-## Solution
+## 2. Solution
 Explain your overall solution approach.
 
 ---
 
-## What You Will Learn
+## 3. What You Will Learn
 List the key learning points.
 1. How to train an ML model int **Edge Impulse**, optimize it in and integrate it into your **Arduino UNO Q app**.
 3. Use the core feature of Arduino UNO Q, that is seamless communication from your software to hardware using the Bridge API.
@@ -51,12 +51,12 @@ List the key learning points.
 
 ---
 
-## Build Your Hardware
+## 4. Build Your Hardware
 Instructions or images about assembling the hardware.
 
 ---
 
-## Dataset Preparation
+## 5. Dataset Preparation
 - To prepare your dataset, follow these steps (images below show the process):
 - I will be choosing 5 different objects for this project
 - So a total of 5 labels, with approximately 240 images per label is required (200 for training, 40 for testing);
@@ -109,7 +109,7 @@ Instructions or images about assembling the hardware.
 
 ---
 
-## Train on Edge Impulse Studio
+## 6. Train on Edge Impulse Studio
 
 ### Ok, so how do I know what to choose? 
 - It's all about experimenting with various models, options and even your dataset itself.
@@ -219,7 +219,7 @@ All the steps are the same except now:
 
 ---
 
-## Optimized Solution
+## 7. Optimized Model
 ### Experiment 3, Final
 - Everything is the same except,
 - I have enabled **data augementation**
@@ -244,7 +244,7 @@ All the steps are the same except now:
 
 ---
 
-## Integrate with UNO Q
+## 8. Integrate with UNO Q
 - We need the .eim file from Edge Impulse:
 - Navigate to the deployement section of Edge impulse adn Select Build.
 - It will automatically start a download for a .eim file after the build is successfully.
@@ -258,17 +258,17 @@ All the steps are the same except now:
 
 ---
 
-## Arduino App Explanation
+## 9. Arduino App Explanation
 Explain how your Arduino App works.
 
 ---
 
-## Usage and UI
+## 10. Usage and UI
 Explain how to use the robot and describe the UI.
 
 ---
 
-## Conclusion
+## 11. Conclusion
 Summarize the project and end notes.
 
 
