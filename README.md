@@ -11,7 +11,7 @@ As a hobbyist, once you're done prototyping, it often becomes difficult to place
 1. [Problem Understanding](#1-problem-understanding)  
 2. [Solution](#2-solution)  
 3. [What You Will Learn](#3-what-you-will-learn)  
-4. [Build Your Hardware](#4-build-your-hardware)  
+4. [Hardware Design](#4-hardware-design)  
 5. [Dataset Preparation](#5-dataset-preparation)  
 6. [Train on Edge Impulse Studio](#6-train-on-edge-impulse-studio)  
 7. [Optimized Model](#7-optimized-model)  
@@ -51,7 +51,7 @@ List the key learning points.
 
 ---
 
-## 4. Build Your Hardware
+## 4. Hardware Design
 Instructions or images about assembling the hardware.
 
 ---
