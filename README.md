@@ -207,7 +207,7 @@ Using **Live Classification** or **Model Testing → Classify all**:
   <img src="assets/docs_assets/accu_mn.png"/>
 </p>
 
-Accuracy was around **87%**. Good, but room for improvement.
+Accuracy was around **87%**. Good, but we can improve this.
 
 ### Deployment summary
 
