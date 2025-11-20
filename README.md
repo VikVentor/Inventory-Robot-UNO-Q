@@ -145,7 +145,7 @@ Before we dive in, here is a summary of my experiments,.
 ### **Training Steps (Overview)**
 
 1. [Create an Impulse](#creating-an-impulse)
-2. [Generate Features](#generated-features-in-the-image-section)
+2. [Generate Features](#generate-features)
 3. [Train the Model](#train-on-edge-impulse-studio)
 4. [Live Classification](#testing)
 5. [Model Testing (Classify All)](#testing)
@@ -175,7 +175,8 @@ Added processing and learning blocks:
   <img src="assets/docs_assets/train_4.png" width="600" />
 </p>
 
-Generated features in the **Image** section:
+Generate features:
+- Navigate to the "Image" section to save parameters and generate feastures.
 
 <p align="left">
   <img src="assets/docs_assets/train_6_feat.png" width="500"/>
