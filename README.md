@@ -325,6 +325,17 @@ The `.eim` file downloads automatically once the build completes.
 
 ## 9. Arduino App Explanation
 
+```json
+{
+  "esp32": [2,15],
+  "servo": [3,1],
+  "motor": [3,5],
+  "wheel": [4,3],
+  "sensor": [5,14]
+}
+```
+
+
 Explain how your Arduino App works.
 
 ---
