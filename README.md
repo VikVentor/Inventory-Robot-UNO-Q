@@ -330,7 +330,7 @@ The `.eim` file downloads automatically once the build completes.
 
 File Structure:
 <p align="left">
-  <img src="assets/docs_assets/file_struct.png" width="500"/>
+  <img src="assets/docs_assets/file_struct.png" height="500"/>
 </p>
 
 ```json
