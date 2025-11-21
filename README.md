@@ -108,8 +108,8 @@ Allow camera permissions if requested.<br>
 * Go to **Labeling Queue**.
 * Draw a bounding box around the object.
 * Click **Save label** to move to the next image.
-* Edge Impulse intelligently estimates bounding boxes for consecutive images.<br>
-  <img src="assets/docs_assets/edge_8.gif" width="400" />
+* Edge Impulse intelligently estimates bounding boxes for consecutive images.<br><br>
+  <img src="assets/docs_assets/edge_8.gif" width="600" />
 
 
 You can also use AI-based auto-labeling using OpenAI or Gemini API keys.
