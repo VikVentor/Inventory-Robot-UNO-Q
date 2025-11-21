@@ -341,7 +341,8 @@ Under assets, you can view the **index.html** and **app.js** which you can modif
 This is where you can add
 - A new object
 - Its position
-- Its total count 
+- Its total count
+- <br>
 Here's an example of its representation in the file:
 
 | object | position | total count |
@@ -349,15 +350,15 @@ Here's an example of its representation in the file:
 | esp32  | 2        | 15           |
 
 
-
+### I have initialized all the count values as 0 because the robot will update its count automatically as it places them in their respective positions
 
 ```json
 {
-  "esp32": [2,15],
-  "servo": [3,1],
-  "motor": [3,5],
-  "wheel": [4,3],
-  "sensor": [5,14]
+  "esp32": [2,0],
+  "servo": [3,0],
+  "motor": [3,0],
+  "wheel": [4,0],
+  "sensor": [5,0]
 }
 ```
 
