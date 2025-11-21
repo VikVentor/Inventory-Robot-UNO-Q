@@ -349,7 +349,7 @@ This is where you can add
 - A new object
 - Its position
 - Its total count
-- <br>
+<br>
 Here's an example of its representation in the file:
 
 | object | position | total count |
