@@ -160,7 +160,7 @@ Trying **MobileNetV2 SSD FPN-Lite 320x320** required resizing inputs to **320×3
   <img src="assets/docs_assets/train_2.png" />
 
 
-Added processing and learning blocks:
+Added processing and learning blocks: <br>
 
 
   <img src="assets/docs_assets/train_3.png" width="400" />
@@ -168,26 +168,26 @@ Added processing and learning blocks:
 
 
 ### Generate features:
-- Navigate to the "Image" section to save parameters and generate feastures.
+- Navigate to the "Image" section to save parameters and generate feastures.<br>
 
   <img src="assets/docs_assets/train_6_feat.png" width="400"/>
   <img src="assets/docs_assets/train_7_feat.png" width="400"/>
 
 
 ### Train the model
-Selected the **MobileNetV2 SSD FPN-Lite 320x320** model in the **Object Detection** section, hit **Save & Train**:
+Selected the **MobileNetV2 SSD FPN-Lite 320x320** model in the **Object Detection** section, hit **Save & Train**:<br>
   <img src="assets/docs_assets/train_8_mn.png" width="400"/>
 
 
-Training time is limited by Edge Impulse (1 hour), so around 25–30 epochs are possible.
+Training time is limited by Edge Impulse (1 hour), so around 25–30 epochs are possible.<br>
 
-Results:
+Results:<br>
   <img src="assets/docs_assets/train_mn_score.png" width="400"/>
 
 
 ### Testing
 
-Using **Live Classification** or **Model Testing → Classify all**:
+Using **Live Classification** or **Model Testing → Classify all**:<br>
   <img src="assets/docs_assets/class_all_mn.png" width="400"/>
   <img src="assets/docs_assets/accu_mn.png"/>
 
@@ -196,13 +196,13 @@ Accuracy was around **87%**. Good, but we can improve this.
 
 ### Deployment summary
 
-After selecting **Arduino UNO Q** as the target:
+After selecting **Arduino UNO Q** as the target:<br>
 
   <img src="assets/docs_assets/choose_targ.png" width="400"/>
   <br>
   <img src="assets/docs_assets/choose_unoq.png" width="400" />
 
-On deploying:
+On deploying:<br>
 
   <img src="assets/docs_assets/unoq_11.png" width="400"/>
 
@@ -226,16 +226,16 @@ Same pipeline, but now:
   <img src="assets/docs_assets/fomo_1.png" width="400"/>
 
 
-Training setup (no augmentation enabled):
+Training setup (no augmentation enabled):<br>
 
   <img src="assets/docs_assets/fomo_train_setup.png" width="400"/>
 
 
-F1 score:
+F1 score:<br>
   <img src="assets/docs_assets/fomo_f1_score.png" width="400"/>
 
 
-Model accuracy:
+Model accuracy:<br>
 
   <img src="assets/docs_assets/fomo_accu.png" width="400"/>
 
