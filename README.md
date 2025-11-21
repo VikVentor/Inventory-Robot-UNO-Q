@@ -440,7 +440,7 @@ Flow of the code:
 - The Bridge.provide gets information on the topic "stepper" that my Python Code sends. <br>
 - movePos is the function taht is linked with the Bridge API: <br>
 - The recieved integer is taken as a parameter for the movePos function. Based on this value you can set your logic to move it to the respective position. <br>
-- Finally after it has dropped the object, I'm sending an integer 0 back to the python code, to notify that the dropping is completed.
+- Finally after it has dropped the object, I'm sending an integer 0 back to the python code, to notify that the acknowledgement of dropping the object.
 
 Finally the python code receives this integer as a notfication to resume detecting objects.
 ```Python
