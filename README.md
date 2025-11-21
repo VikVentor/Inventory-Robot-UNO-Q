@@ -370,10 +370,11 @@ Here's an example of its representation in the file:
 ```
 
 ### Python Code Logic:
+
+```Python
 def send_detections_to_ui(detections: dict):
     global paused, pick_mode
 
-```
     if paused:
         return
 
