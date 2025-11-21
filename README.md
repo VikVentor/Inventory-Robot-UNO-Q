@@ -413,7 +413,7 @@ detection_stream.on_detect_all(send_detections_to_ui)
 ## Below is the Skeleton Structure that helps you quickly understand how the Bridge API works. 
 - You can use this for your own hardware.
 
-```Arduino
+```cpp
 #include <Arduino_RouterBridge.h>
 
 long positions[6] = {0, 33, 66, 99, 132, 165};  //I have 6 containers, each number denotes the position that my stepper motor goes to.
