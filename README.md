@@ -329,11 +329,23 @@ The `.eim` file downloads automatically once the build completes.
 ## 9. Arduino App Explanation
 
 File Structure:
+<br>
 <img src="assets/docs_assets/file_struct.png" height="500"/>
 
 
 Under assets, you can view the **index.html** and **app.js** which you can modify for your use case too:
 <img src="assets/docs_assets/assets_more.png" height="400"/>
+
+
+The label_map.json is an important file:
+- you can add new objects along with which position the robot has to drop it and the total count of the object
+Here's an example of what it means:
+| object | position | total count |
+|--------|----------|--------------|
+| esp32  | 2        | 15           |
+
+
+
 ```json
 {
   "esp32": [2,15],
