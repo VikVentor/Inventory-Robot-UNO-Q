@@ -328,6 +328,11 @@ The `.eim` file downloads automatically once the build completes.
 
 ## 9. Arduino App Explanation
 
+File Structure:
+<p align="left">
+  <img src="assets/docs_assets/file_struct.png" width="500"/>
+</p>
+
 ```json
 {
   "esp32": [2,15],
