@@ -337,11 +337,14 @@ Under assets, you can view the **index.html** and **app.js** which you can modif
 <img src="assets/docs_assets/assets_more.png" height="400"/>
 
 
-The label_map.json is an important file:
-- you can add new objects along with which position the robot has to drop it and the total count of the object
-Here's an example of what it means:
+### The label_map.json is an important file:
+This is where you can add
+- A new object
+- Its position
+- Its total count 
+Here's an example of its representation in the file:
 <br>
-| object | position | total count |
+| object | position | total count  |
 |--------|----------|--------------|
 | esp32  | 2        | 15           |
 
