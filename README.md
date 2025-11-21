@@ -88,8 +88,8 @@ Follow these steps to prepare your dataset:
 Use the same camera you plan to use in the robot. Connect it to your PC and capture all the images.
 
 <p align="left">
-  <img src="assets/docs_assets/edge_2.png" width="500" />
-  <img src="assets/docs_assets/edge_4.png" width="500" />
+  <img src="assets/docs_assets/edge_2.png" width="300" />
+  <img src="assets/docs_assets/edge_4.png" width="300" />
 </p>
 
 ### Select “Collecting images”
@@ -170,23 +170,23 @@ Trying **MobileNetV2 SSD FPN-Lite 320x320** required resizing inputs to **320×3
 Added processing and learning blocks:
 
 <p align="left">
-  <img src="assets/docs_assets/train_3.png" width="600" />
-  <img src="assets/docs_assets/train_4.png" width="600" />
+  <img src="assets/docs_assets/train_3.png" width="300" />
+  <img src="assets/docs_assets/train_4.png" width="300" />
 </p>
 
 ### Generate features:
 - Navigate to the "Image" section to save parameters and generate feastures.
 
 <p align="left">
-  <img src="assets/docs_assets/train_6_feat.png" width="500"/>
-  <img src="assets/docs_assets/train_7_feat.png" width="500"/>
+  <img src="assets/docs_assets/train_6_feat.png" width="300"/>
+  <img src="assets/docs_assets/train_7_feat.png" width="300"/>
 </p>
 
 ### Train the model
 Selected the **MobileNetV2 SSD FPN-Lite 320x320** model in the **Object Detection** section, hit **Save & Train**:
 
 <p align="left">
-  <img src="assets/docs_assets/train_8_mn.png" width="500"/>
+  <img src="assets/docs_assets/train_8_mn.png" width="300"/>
 </p>
 
 Training time is limited by Edge Impulse (1 hour), so around 25–30 epochs are possible.
@@ -194,7 +194,7 @@ Training time is limited by Edge Impulse (1 hour), so around 25–30 epochs are 
 Results:
 
 <p align="left">
-  <img src="assets/docs_assets/train_mn_score.png" width="500"/>
+  <img src="assets/docs_assets/train_mn_score.png" width="300"/>
 </p>
 
 ### Testing
@@ -202,7 +202,7 @@ Results:
 Using **Live Classification** or **Model Testing → Classify all**:
 
 <p align="left">
-  <img src="assets/docs_assets/class_all_mn.png" width="400"/>
+  <img src="assets/docs_assets/class_all_mn.png" width="300"/>
   <img src="assets/docs_assets/accu_mn.png"/>
 </p>
 
@@ -213,15 +213,15 @@ Accuracy was around **87%**. Good, but we can improve this.
 After selecting **Arduino UNO Q** as the target:
 
 <p align="left">
-  <img src="assets/docs_assets/choose_targ.png" width="400"/>
+  <img src="assets/docs_assets/choose_targ.png" width="300"/>
   <br>
-  <img src="assets/docs_assets/choose_unoq.png" width="500" />
+  <img src="assets/docs_assets/choose_unoq.png" width="300" />
 </p>
 
 On deploying:
 
 <p align="left">
-  <img src="assets/docs_assets/unoq_11.png" width="600"/>
+  <img src="assets/docs_assets/unoq_11.png" width="300"/>
 </p>
 
 ### Learnings from Experiment 1
@@ -242,19 +242,19 @@ Same pipeline, but now:
 ### Impulse
 
 <p align="left">
-  <img src="assets/docs_assets/fomo_1.png" width="500"/>
+  <img src="assets/docs_assets/fomo_1.png" width="300"/>
 </p>
 
 Training setup (no augmentation enabled):
 
 <p align="left">
-  <img src="assets/docs_assets/fomo_train_setup.png" width="600"/>
+  <img src="assets/docs_assets/fomo_train_setup.png" width="300"/>
 </p>
 
 F1 score:
 
 <p align="left">
-  <img src="assets/docs_assets/fomo_f1_score.png" width="600"/>
+  <img src="assets/docs_assets/fomo_f1_score.png" width="300"/>
 </p>
 
 Model accuracy:
@@ -272,13 +272,13 @@ Model accuracy:
 Everything remained the same except enabling **Data Augmentation**:
 
 <p align="left">
-  <img src="assets/docs_assets/fomo_mod_aug.png" width="600"/>
+  <img src="assets/docs_assets/fomo_mod_aug.png" width="300"/>
 </p>
 
 Precision:
 
 <p align="left">
-  <img src="assets/docs_assets/fomo_aug_f1.png" width="600"/>
+  <img src="assets/docs_assets/fomo_aug_f1.png" width="300"/>
 </p>
 
 Accuracy:
@@ -464,11 +464,7 @@ Bridge.provide("ack", resume)
 
 * Arduino’s acknowledgment (`ack = 0`) triggers the Python code to **unpause**.
 * The detection loop continues only after the robot finishes placing the object.
-
-
-
-
-
+* Other parts of the code handle the features of the UI
 
 ---
 
