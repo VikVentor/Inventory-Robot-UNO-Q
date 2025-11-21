@@ -89,7 +89,7 @@ Use the same camera you plan to use in the robot. Connect it to your PC and capt
 
 ### Select “Collecting images”
 
-Allow camera permissions if requested.
+Allow camera permissions if requested.<br>
   <img src="assets/docs_assets/edge_3.png" width="400" />
 
 
