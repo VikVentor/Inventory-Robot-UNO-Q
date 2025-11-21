@@ -458,23 +458,24 @@ flowchart TD
 %% Python Side
 A[Start Object Detection] --> B{Confidence > 85%?}
 B -- No --> A
-B -- Yes --> C{Is Paused?}
+B -- Yes --> C{Paused?}
 C -- Yes --> A
-C -- No --> D[Update Count in label_map]
+C -- No --> D[Update Count]
 
-D --> E[Bridge.notify("stepper", position)]
+D --> E[Send Position via Bridge.notify]
 E --> F[Pause Python Detection]
 
 %% Arduino Side
-F --> G[UNO Q Receives Position via Bridge.provide("stepper")]
-G --> H[movePos(n) -> Move Stepper & Drop Object]
-H --> I[Bridge.notify("ack", 0)]
+F --> G[UNO Q Receives Position]
+G --> H[movePos: Move Stepper and Drop Object]
+H --> I[Send Ack via Bridge.notify]
 
 %% Resume Detection
-I --> J[Python Receives Ack via Bridge.provide("ack")]
+I --> J[Python Receives Ack]
 J --> K[paused = False]
 K --> A
 ```
+
 
 
 
