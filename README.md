@@ -338,7 +338,7 @@ File description:
 3. Python Code
 4. Arduino Sketch
 
-You can add libraries just like how you do, by pressing the button next to "Library"
+You can add libraries just like how you do in Arduino IDE, by pressing the button next to "Library"
 
 Under assets, you can view the **index.html** and **app.js** which you can modify for your use case too:
 <img src="assets/docs_assets/assets_more.png" height="400"/>
@@ -404,6 +404,8 @@ def send_detections_to_ui(detections: dict):
 
 detection_stream.on_detect_all(send_detections_to_ui)
 ```
+- I consider the detection of the object only when it is above 85%
+- When an object is Detected, the **Bridge.notify** API sends the corresponding position of the object to the microcontroller(STM32 chip on UNO Q);
 
 Explain how your Arduino App works.
 
