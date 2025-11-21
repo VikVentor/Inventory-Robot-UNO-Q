@@ -331,7 +331,14 @@ The `.eim` file downloads automatically once the build completes.
 File Structure:
 <br>
 <img src="assets/docs_assets/file_struct.png" height="500"/>
+<br>
+File description:
+1. Accelstepper Library
+2. Servo Library
+3. Python Code
+4. Arduino Sketch
 
+You can add libraries just like how you do, by pressing the button next to "Library"
 
 Under assets, you can view the **index.html** and **app.js** which you can modify for your use case too:
 <img src="assets/docs_assets/assets_more.png" height="400"/>
