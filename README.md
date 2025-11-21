@@ -314,6 +314,9 @@ If you'd like, I can also add a short one-line takeaway below the table.
 
 You’ll need the **.eim** file from Edge Impulse.
 
+If you face issues with App Lab on your board, consider reflashing it with a new image:
+[Flash a new Image](https://docs.arduino.cc/tutorials/uno-q/update-image/)
+
 Go to **Deployment → Build**
 The `.eim` file downloads automatically once the build completes.
 
