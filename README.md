@@ -74,13 +74,13 @@ Follow these steps to prepare your dataset:
 * For each object, capture around **240 images** (200 for training, 40 for testing).
 
 <p align="left">
-  <img src="assets/docs_assets/object_list.jpg" width="300" />
+  <img src="assets/docs_assets/object_list.jpg" width="400" />
 </p>
 
 ### Create your project
 
 <p align="left">
-  <img src="assets/docs_assets/edge_1.png" width="300" />
+  <img src="assets/docs_assets/edge_1.png" width="400" />
 </p>
 
 ### Collect images
@@ -88,17 +88,15 @@ Follow these steps to prepare your dataset:
 Use the same camera you plan to use in the robot. Connect it to your PC and capture all the images.
 
 <p align="left">
-  <img src="assets/docs_assets/edge_2.png" width="300" />
-  <img src="assets/docs_assets/edge_4.png" width="300" />
+  <img src="assets/docs_assets/edge_2.png" width="400" />
+  <img src="assets/docs_assets/edge_4.png" width="400" />
 </p>
 
 ### Select “Collecting images”
 
 Allow camera permissions if requested.
+  <img src="assets/docs_assets/edge_3.png" width="400" />
 
-<p align="left">
-  <img src="assets/docs_assets/edge_3.png" width="300" />
-</p>
 
 ### Capture images one by one
 
@@ -106,10 +104,9 @@ Allow camera permissions if requested.
 * Capture in different orientations and lighting conditions.
 * Choose **Training** dataset first (200 images), then **Testing** dataset (40 images).
 
-<p align="left">
-  <img src="assets/docs_assets/edge_7.gif" width="400" height="500"/>
+  <img src="assets/docs_assets/edge_7.gif" width="400" />
   <img src="assets/docs_assets/edge_6.gif" width="400" />
-</p>
+
 
 ### Label your images with bounding boxes
 
@@ -117,10 +114,8 @@ Allow camera permissions if requested.
 * Draw a bounding box around the object.
 * Click **Save label** to move to the next image.
 * Edge Impulse intelligently estimates bounding boxes for consecutive images.
+  <img src="assets/docs_assets/edge_8.gif" width="400" />
 
-<p align="left">
-  <img src="assets/docs_assets/edge_8.gif" width="600" />
-</p>
 
 You can also use AI-based auto-labeling using OpenAI or Gemini API keys.
 
@@ -175,33 +170,27 @@ Added processing and learning blocks:
 ### Generate features:
 - Navigate to the "Image" section to save parameters and generate feastures.
 
-  <img src="assets/docs_assets/train_6_feat.png" width="300"/>
-  <img src="assets/docs_assets/train_7_feat.png" width="300"/>
+  <img src="assets/docs_assets/train_6_feat.png" width="400"/>
+  <img src="assets/docs_assets/train_7_feat.png" width="400"/>
 
 
 ### Train the model
 Selected the **MobileNetV2 SSD FPN-Lite 320x320** model in the **Object Detection** section, hit **Save & Train**:
+  <img src="assets/docs_assets/train_8_mn.png" width="400"/>
 
-<p align="left">
-  <img src="assets/docs_assets/train_8_mn.png" width="300"/>
-</p>
 
 Training time is limited by Edge Impulse (1 hour), so around 25–30 epochs are possible.
 
 Results:
+  <img src="assets/docs_assets/train_mn_score.png" width="400"/>
 
-<p align="left">
-  <img src="assets/docs_assets/train_mn_score.png" width="300"/>
-</p>
 
 ### Testing
 
 Using **Live Classification** or **Model Testing → Classify all**:
-
-<p align="left">
-  <img src="assets/docs_assets/class_all_mn.png" width="300"/>
+  <img src="assets/docs_assets/class_all_mn.png" width="400"/>
   <img src="assets/docs_assets/accu_mn.png"/>
-</p>
+
 
 Accuracy was around **87%**. Good, but we can improve this.
 
@@ -209,17 +198,13 @@ Accuracy was around **87%**. Good, but we can improve this.
 
 After selecting **Arduino UNO Q** as the target:
 
-<p align="left">
-  <img src="assets/docs_assets/choose_targ.png" width="300"/>
+  <img src="assets/docs_assets/choose_targ.png" width="400"/>
   <br>
-  <img src="assets/docs_assets/choose_unoq.png" width="300" />
-</p>
+  <img src="assets/docs_assets/choose_unoq.png" width="400" />
 
 On deploying:
 
-<p align="left">
-  <img src="assets/docs_assets/unoq_11.png" width="300"/>
-</p>
+  <img src="assets/docs_assets/unoq_11.png" width="400"/>
 
 ### Learnings from Experiment 1
 
@@ -238,27 +223,21 @@ Same pipeline, but now:
 
 ### Impulse
 
-<p align="left">
-  <img src="assets/docs_assets/fomo_1.png" width="300"/>
-</p>
+  <img src="assets/docs_assets/fomo_1.png" width="400"/>
+
 
 Training setup (no augmentation enabled):
 
-<p align="left">
-  <img src="assets/docs_assets/fomo_train_setup.png" width="300"/>
-</p>
+  <img src="assets/docs_assets/fomo_train_setup.png" width="400"/>
+
 
 F1 score:
+  <img src="assets/docs_assets/fomo_f1_score.png" width="400"/>
 
-<p align="left">
-  <img src="assets/docs_assets/fomo_f1_score.png" width="300"/>
-</p>
 
 Model accuracy:
 
-<p align="left">
-  <img src="assets/docs_assets/fomo_accu.png" width="300"/>
-</p>
+  <img src="assets/docs_assets/fomo_accu.png" width="400"/>
 
 ---
 
@@ -268,21 +247,18 @@ Model accuracy:
 
 Everything remained the same except enabling **Data Augmentation**:
 
-<p align="left">
-  <img src="assets/docs_assets/fomo_mod_aug.png" width="300"/>
-</p>
+  <img src="assets/docs_assets/fomo_mod_aug.png" width="400"/>
+
 
 Precision:
 
-<p align="left">
-  <img src="assets/docs_assets/fomo_aug_f1.png" width="300"/>
-</p>
+  <img src="assets/docs_assets/fomo_aug_f1.png" width="400"/>
+
 
 Accuracy:
 
-<p align="left">
-  <img src="assets/docs_assets/fomo_aug_accu.png" width="300"/>
-</p>
+  <img src="assets/docs_assets/fomo_aug_accu.png" width="400"/>
+
 
 ### Why this worked better
 
@@ -316,7 +292,7 @@ You’ll need the **.eim** file from Edge Impulse.
 Go to **Deployment → Build**
 The `.eim` file downloads automatically once the build completes.
 <p align="left">
-  <img src="assets/docs_assets/edge_last.png" width="500"/>
+  <img src="assets/docs_assets/edge_last.png" width="400"/>
 </p>
 
 ### Download this repository on your UNO Q, and store the Unzipped Folder inside the **Arduino Apps** Folder.
@@ -327,7 +303,7 @@ The `.eim` file downloads automatically once the build completes.
 
 File Structure:
 <br>
-<img src="assets/docs_assets/file_struct.png" height="500"/>
+<img src="assets/docs_assets/file_struct.png" height="400"/>
 <br>
 File description:
 1. Accelstepper Library
