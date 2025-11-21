@@ -308,18 +308,16 @@ If you'd like, I can also add a short one-line takeaway below the table.
 ## 8. Integrate with UNO Q
 
 ### Setup the Arduino UNO Q as a Single Board Computer:
-
-<br>
-[Arduino Uno Q Single-Board Computer Setup](https://docs.arduino.cc/tutorials/uno-q/single-board-computer/)
-
-You’ll need the **.eim** file from Edge Impulse.
+[Arduino Uno Q Single-Board Computer Set](https://docs.arduino.cc/tutorials/uno-q/single-board-computer/)
 
 If you face issues with App Lab on your board, consider reflashing it with a new image:
+<br>
 [Flash a new Image](https://docs.arduino.cc/tutorials/uno-q/update-image/)
 
+### Once your UNO Q is setup and ready, login to your **Edge Impulse Account**
+You’ll need the **.eim** file from Edge Impulse.
 Go to **Deployment → Build**
 The `.eim` file downloads automatically once the build completes.
-
 <p align="left">
   <img src="assets/docs_assets/edge_last.png" width="500"/>
 </p>
