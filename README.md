@@ -369,11 +369,12 @@ Here's an example of its representation in the file:
 }
 ```
 
-### Interaction between Python and Arduino
 
-#### Python Code Logic:
+## Interaction Between Python and Arduino
 
-```Python
+### **Python Logic**
+
+```python
 def send_detections_to_ui(detections: dict):
     global paused, pick_mode
 
@@ -384,9 +385,9 @@ def send_detections_to_ui(detections: dict):
 
     for key, value in detections.items():
         conf = value.get("confidence", 0)
+
         if conf * 100 < 85 or key not in label_map:
             continue
-
         if now - last_detection_time.get(key, 0) < DETECTION_COOLDOWN:
             continue
 
@@ -396,85 +397,74 @@ def send_detections_to_ui(detections: dict):
             label_map[key][1] = max(0, label_map[key][1] - 1)
         else:
             label_map[key][1] += 1
-            Bridge.notify("stepper", label_map[key][0])
+            Bridge.notify("stepper", label_map[key][0])   # send position to UNO Q
             paused = True
-            print("sending", label_map[key][0], "using bridge")
 
         save_label_map()
         ui.send_message("count_update", {"label": key, "count": label_map[key][1]})
-        print(f"{'Picked' if pick_mode else 'Added'} {key}: {label_map[key][1]}")
 
 detection_stream.on_detect_all(send_detections_to_ui)
 ```
-- I consider the detection of the object only when it is above 85%
-- When an object is Detected, the **Bridge.notify** API sends the corresponding position of the object to the microcontroller(STM32 chip on UNO Q);
-- "paused" flag is True till the object is dropped to its place.
 
+**Summary:**
 
-#### Arduino Sketch Logic:
-Below is the Skeleton Structure that helps you quickly understand how the Bridge API works. 
-- You can use this for your own hardware.
+* Only detections above **85% confidence** are considered.
+* For each valid detection, Python sends the object’s **position index** to the UNO Q using `Bridge.notify("stepper", position)`.
+* Python enters a **paused** state until the microcontroller confirms that the item has been placed.
+
+---
+
+### **Arduino Logic**
+
+Below is a minimal skeleton showing how the UNO Q receives commands and sends back acknowledgements:
 
 ```cpp
 #include <Arduino_RouterBridge.h>
 
-long positions[6] = {0, 33, 66, 99, 132, 165};  //I have 6 containers, each number denotes the position that my stepper motor goes to.
+long positions[6] = {0, 33, 66, 99, 132, 165};
 
 void movePos(int n) {
-   //your hardware logic, example: move stepper, servo motor etc
+    // your hardware logic here (stepper, servo, etc.)
+
     int var = 0;
-    Bridge.notify("ack", var); // sending a 0 back to the python code to notify that the object has been placed
+    Bridge.notify("ack", var);   // send ack back to Python
 }
 
 void setup() {
     Bridge.begin();
     Monitor.begin(115200);
-  //initialization logic
+    // initialization logic
 }
 
 void loop() {
-    Bridge.provide("stepper", movePos);
+    Bridge.provide("stepper", movePos);  // listen for "stepper" events from Python
 }
 ```
-Flow of the code:
-- The Bridge.provide gets information on the topic "stepper" that my Python Code sends. <br>
-- movePos is the function taht is linked with the Bridge API: <br>
-- The recieved integer is taken as a parameter for the movePos function. Based on this value you can set your logic to move it to the respective position. <br>
-- Finally after it has dropped the object, I'm sending an integer 0 back to the python code, to notify that the acknowledgement of dropping the object.
 
-Finally the python code receives this integer as a notfication to resume detecting objects.
-```Python
-108 def resume(val: int):
-109    global paused
-110    if val == 0:
-111        paused = False
-112
-113 Bridge.provide("ack", resume)
+**Summary:**
+
+* `Bridge.provide("stepper", movePos)` waits for Python to send a position.
+* The received integer `n` tells the motor which container to move to.
+* Once the object is dropped, Arduino sends back `Bridge.notify("ack", 0)`.
+
+---
+
+### **Python Resumes Detection After Ack**
+
+```python
+def resume(val: int):
+    global paused
+    if val == 0:
+        paused = False
+
+Bridge.provide("ack", resume)
 ```
 
-```mermaid
-flowchart TD
+**Summary:**
 
-%% Python Side
-A[Start Object Detection] --> B{Confidence > 85%?}
-B -- No --> A
-B -- Yes --> C{Paused?}
-C -- Yes --> A
-C -- No --> D[Update Count]
+* Arduino’s acknowledgment (`ack = 0`) triggers the Python code to **unpause**.
+* The detection loop continues only after the robot finishes placing the object.
 
-D --> E[Send Position via Bridge.notify]
-E --> F[Pause Python Detection]
-
-%% Arduino Side
-F --> G[UNO Q Receives Position]
-G --> H[movePos: Move Stepper and Drop Object]
-H --> I[Send Ack via Bridge.notify]
-
-%% Resume Detection
-I --> J[Python Receives Ack]
-J --> K[paused = False]
-K --> A
-```
 
 
 
