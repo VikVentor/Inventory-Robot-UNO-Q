@@ -162,25 +162,22 @@ Before we dive in, here is a summary of my experiments,.
 ### Experiment 1
 
 Trying **MobileNetV2 SSD FPN-Lite 320x320** required resizing inputs to **320×320**.
-
-<p align="left">
   <img src="assets/docs_assets/train_2.png" />
-</p>
+
 
 Added processing and learning blocks:
 
-<p align="left">
-  <img src="assets/docs_assets/train_3.png" width="300" />
-  <img src="assets/docs_assets/train_4.png" width="300" />
-</p>
+
+  <img src="assets/docs_assets/train_3.png" width="400" />
+  <img src="assets/docs_assets/train_4.png" width="400" />
+
 
 ### Generate features:
 - Navigate to the "Image" section to save parameters and generate feastures.
 
-<p align="left">
   <img src="assets/docs_assets/train_6_feat.png" width="300"/>
   <img src="assets/docs_assets/train_7_feat.png" width="300"/>
-</p>
+
 
 ### Train the model
 Selected the **MobileNetV2 SSD FPN-Lite 320x320** model in the **Object Detection** section, hit **Save & Train**:
