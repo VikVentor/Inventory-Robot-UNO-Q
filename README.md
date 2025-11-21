@@ -369,7 +369,9 @@ Here's an example of its representation in the file:
 }
 ```
 
-### Python Code Logic:
+### Interaction between Python and Arduino
+
+#### Python Code Logic:
 
 ```Python
 def send_detections_to_ui(detections: dict):
@@ -409,8 +411,8 @@ detection_stream.on_detect_all(send_detections_to_ui)
 - "paused" flag is True till the object is dropped to its place.
 
 
-### Arduino Sketch Logic:
-## Below is the Skeleton Structure that helps you quickly understand how the Bridge API works. 
+#### Arduino Sketch Logic:
+Below is the Skeleton Structure that helps you quickly understand how the Bridge API works. 
 - You can use this for your own hardware.
 
 ```cpp
@@ -420,6 +422,8 @@ long positions[6] = {0, 33, 66, 99, 132, 165};  //I have 6 containers, each numb
 
 void movePos(int n) {
    //your hardware logic, example: move stepper, servo motor etc
+    int var = 0;
+    Bridge.notify("ack", var); // sending a 0 back to the python code to notify that the object has been placed
 }
 
 void setup() {
@@ -432,10 +436,23 @@ void loop() {
     Bridge.provide("stepper", movePos);
 }
 ```
+Flow of the code:
+- The Bridge.provide gets information on the topic "stepper" that my Python Code sends. <br>
+- movePos is the function taht is linked with the Bridge API: <br>
+- The recieved integer is taken as a parameter for the movePos function. Based on this value you can set your logic to move it to the respective position. <br>
+- Finally after it has dropped the object, I'm sending an integer 0 back to the python code, to notify that the dropping is completed.
 
-So the Bridge.provide gets information on the topic "stepper" that my Python Code sends. <br>
-movePos is the function taht is linked with the Bridge API: <br>
-The recieved integer is taken as a parameter for the movePos function. Based on this value you can set your logic to move it to the respective position.
+Finally the python code receives this integer as a notfication to resume detecting objects.
+```Python
+108 def resume(val: int):
+109    global paused
+110    if val == 0:
+111        paused = False
+112
+113 Bridge.provide("ack", resume)
+```
+
+
 
 ---
 
