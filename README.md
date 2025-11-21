@@ -369,6 +369,40 @@ Here's an example of its representation in the file:
 }
 ```
 
+### Python Code Logic:
+def send_detections_to_ui(detections: dict):
+    global paused, pick_mode
+
+```
+    if paused:
+        return
+
+    now = time.time()
+
+    for key, value in detections.items():
+        conf = value.get("confidence", 0)
+        if conf * 100 < 85 or key not in label_map:
+            continue
+
+        if now - last_detection_time.get(key, 0) < DETECTION_COOLDOWN:
+            continue
+
+        last_detection_time[key] = now
+
+        if pick_mode:
+            label_map[key][1] = max(0, label_map[key][1] - 1)
+        else:
+            label_map[key][1] += 1
+            Bridge.notify("stepper", label_map[key][0])
+            paused = True
+            print("sending", label_map[key][0], "using bridge")
+
+        save_label_map()
+        ui.send_message("count_update", {"label": key, "count": label_map[key][1]})
+        print(f"{'Picked' if pick_mode else 'Added'} {key}: {label_map[key][1]}")
+
+detection_stream.on_detect_all(send_detections_to_ui)
+```
 
 Explain how your Arduino App works.
 
