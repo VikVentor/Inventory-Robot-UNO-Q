@@ -344,9 +344,10 @@ This is where you can add
 - Its total count 
 Here's an example of its representation in the file:
 <br>
-| object | position | total count  |
+| object | position | total count |
 |--------|----------|--------------|
 | esp32  | 2        | 15           |
+
 
 
 
