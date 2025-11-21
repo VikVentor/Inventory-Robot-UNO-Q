@@ -139,7 +139,7 @@ Before we dive in, here is a summary of my experiments,.
 | Experiment               | Model Used                       | Input Size | Data Augmentation | Accuracy / F1 Score              | Model Size |
 | ------------------------ | -------------------------------- | ---------- | ----------------- | -------------------------------- | ---------- |
 | **Experiment 1**         | MobileNetV2 SSD FPN-Lite 320x320 | 320×320    | ❌ No              | ~87% accuracy                    | **11 MB**  |
-| **Experiment 2**         | FOMO MobileNetV2 0.35            | 90×90      | ❌ No              | Good F1 score but lower accuracy | ~60–70 KB  |
+| **Experiment 2**         | FOMO MobileNetV2 0.35            | 90×90      | ❌ No              | Good F1 score but lower accuracy | **106 KB**  |
 | **Experiment 3 (Final)** | **FOMO MobileNetV2 0.35**        | **90×90**  | **✔️ Yes**        | **High accuracy & precision**    | **106 KB** |
 
 ### **Training Steps (Overview)**
@@ -321,6 +321,8 @@ The `.eim` file downloads automatically once the build completes.
 <p align="left">
   <img src="assets/docs_assets/edge_last.png" width="500"/>
 </p>
+
+### Download this repository on your UNO Q, and store the Unzipped Folder inside the **Arduino Apps** Folder.
 
 ---
 
