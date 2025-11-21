@@ -406,8 +406,36 @@ detection_stream.on_detect_all(send_detections_to_ui)
 ```
 - I consider the detection of the object only when it is above 85%
 - When an object is Detected, the **Bridge.notify** API sends the corresponding position of the object to the microcontroller(STM32 chip on UNO Q);
+- "paused" flag is True till the object is dropped to its place.
 
-Explain how your Arduino App works.
+
+### Arduino Sketch Logic:
+## Below is the Skeleton Structure that helps you quickly understand how the Bridge API works. 
+- You can use this for your own hardware.
+
+```Arduino
+#include <Arduino_RouterBridge.h>
+
+long positions[6] = {0, 33, 66, 99, 132, 165};  //I have 6 containers, each number denotes the position that my stepper motor goes to.
+
+void movePos(int n) {
+   //your hardware logic, example: move stepper, servo motor etc
+}
+
+void setup() {
+    Bridge.begin();
+    Monitor.begin(115200);
+  //initialization logic
+}
+
+void loop() {
+    Bridge.provide("stepper", movePos);
+}
+```
+
+So the Bridge.provide gets information on the topic "stepper" that my Python Code sends. <br>
+movePos is the function taht is linked with the Bridge API: <br>
+The recieved integer is taken as a parameter for the movePos function. Based on this value you can set your logic to move it to the respective position.
 
 ---
 
