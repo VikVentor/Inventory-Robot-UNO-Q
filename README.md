@@ -452,6 +452,31 @@ Finally the python code receives this integer as a notfication to resume detecti
 113 Bridge.provide("ack", resume)
 ```
 
+```mermaid
+flowchart TD
+
+%% Python Side
+A[Start Object Detection] --> B{Confidence > 85%?}
+B -- No --> A
+B -- Yes --> C{Is Paused?}
+C -- Yes --> A
+C -- No --> D[Update Count in label_map]
+
+D --> E[Bridge.notify("stepper", position)]
+E --> F[Pause Python Detection]
+
+%% Arduino Side
+F --> G[UNO Q Receives Position via Bridge.provide("stepper")]
+G --> H[movePos(n) -> Move Stepper & Drop Object]
+H --> I[Bridge.notify("ack", 0)]
+
+%% Resume Detection
+I --> J[Python Receives Ack via Bridge.provide("ack")]
+J --> K[paused = False]
+K --> A
+```
+
+
 
 
 ---
