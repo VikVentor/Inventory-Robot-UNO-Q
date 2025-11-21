@@ -73,24 +73,19 @@ Follow these steps to prepare your dataset:
 * Select 5 different objects for training.
 * For each object, capture around **240 images** (200 for training, 40 for testing).
 
-<p align="left">
+<br>
   <img src="assets/docs_assets/object_list.jpg" width="400" />
-</p>
 
 ### Create your project
 
-<p align="left">
   <img src="assets/docs_assets/edge_1.png" width="400" />
-</p>
+
 
 ### Collect images
 
-Use the same camera you plan to use in the robot. Connect it to your PC and capture all the images.
-
-<p align="left">
+Use the same camera you plan to use in the robot. Connect it to your PC and capture all the images.<br>
   <img src="assets/docs_assets/edge_2.png" width="400" />
   <img src="assets/docs_assets/edge_4.png" width="400" />
-</p>
 
 ### Select “Collecting images”
 
@@ -113,7 +108,7 @@ Allow camera permissions if requested.
 * Go to **Labeling Queue**.
 * Draw a bounding box around the object.
 * Click **Save label** to move to the next image.
-* Edge Impulse intelligently estimates bounding boxes for consecutive images.
+* Edge Impulse intelligently estimates bounding boxes for consecutive images.<br>
   <img src="assets/docs_assets/edge_8.gif" width="400" />
 
 
@@ -156,7 +151,7 @@ Before we dive in, here is a summary of my experiments,.
 
 ### Experiment 1
 
-Trying **MobileNetV2 SSD FPN-Lite 320x320** required resizing inputs to **320×320**.
+Trying **MobileNetV2 SSD FPN-Lite 320x320** required resizing inputs to **320×320**.<br>
   <img src="assets/docs_assets/train_2.png" />
 
 
@@ -245,17 +240,17 @@ Model accuracy:<br>
 
 ### Experiment 3 (Final)
 
-Everything remained the same except enabling **Data Augmentation**:
+Everything remained the same except enabling **Data Augmentation**:<br>
 
   <img src="assets/docs_assets/fomo_mod_aug.png" width="400"/>
 
 
-Precision:
+Precision:<br>
 
   <img src="assets/docs_assets/fomo_aug_f1.png" width="400"/>
 
 
-Accuracy:
+Accuracy:<br>
 
   <img src="assets/docs_assets/fomo_aug_accu.png" width="400"/>
 
@@ -290,10 +285,10 @@ If you face issues with App Lab on your board, consider reflashing it with a new
 ### Once your UNO Q is setup and ready, login to your **Edge Impulse Account**
 You’ll need the **.eim** file from Edge Impulse.
 Go to **Deployment → Build**
-The `.eim` file downloads automatically once the build completes.
-<p align="left">
+The `.eim` file downloads automatically once the build completes.<br>
+
   <img src="assets/docs_assets/edge_last.png" width="400"/>
-</p>
+
 
 ### Download this repository on your UNO Q, and store the Unzipped Folder inside the **Arduino Apps** Folder.
 
@@ -313,7 +308,7 @@ File description:
 
 You can add libraries just like how you do in Arduino IDE, by pressing the button next to "Library"
 
-Under assets, you can view the **index.html** and **app.js** which you can modify for your use case too:
+Under assets, you can view the **index.html** and **app.js** which you can modify for your use case too:<br>
 <img src="assets/docs_assets/assets_more.png" height="400"/>
 
 
