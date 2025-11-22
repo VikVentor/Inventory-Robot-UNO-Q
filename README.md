@@ -85,6 +85,7 @@ Hardware Used:
 <img src="assets/docs_assets/hardware/base_build.png" width="400" />
 
 ### Mount the Stepper motor
+* Use a T nut to secure the aluminum extrusion in its slot as shown
 <br>
 <img src="assets/docs_assets/hardware/stepper_mounter.png" width="400" />
 
@@ -106,6 +107,9 @@ Hardware Used:
 <img src="assets/docs_assets/hardware/set_focus.gif" width="400" />
 <br>
 <img src="assets/docs_assets/hardware/cam_mount.png" width="400" />
+
+Hot glue the camera part to the holder and thats it!
+<img src="assets/docs_assets/hardware/full_done.png" width="400" />
 
 
 
