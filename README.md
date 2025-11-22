@@ -108,7 +108,7 @@ Hardware Used:
 <br>
 <img src="assets/docs_assets/hardware/cam_mount.png" width="400" />
 
-Hot glue the camera part to the holder and thats it!
+Hot glue the camera part to the holder and thats it!<br>
 <img src="assets/docs_assets/hardware/full_done.png" width="400" />
 
 
