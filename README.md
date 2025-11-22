@@ -413,8 +413,8 @@ detection_stream.on_detect_all(send_detections_to_ui)
 
 ### **Arduino Logic**
 
-Below is a minimal skeleton showing how the UNO Q receives commands and sends back acknowledgements:
-You can use this code structure for your own project.
+* Below is a minimal skeleton showing how the UNO Q receives commands and sends back acknowledgements:
+* You can use this code structure for your own project.
 
 ```cpp
 #include <Arduino_RouterBridge.h>
