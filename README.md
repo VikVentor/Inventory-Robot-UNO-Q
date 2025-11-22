@@ -84,7 +84,7 @@ Hardware Used:
 
 ### Mount the Stepper motor
 <br>
-<img src="assets/docs_assets/hardware/stepper_mount.png" width="400" />
+<img src="assets/docs_assets/hardware/stepper_mounter.png" width="400" />
 
 ### Insert Limit switch and attach with the base
 <br>
