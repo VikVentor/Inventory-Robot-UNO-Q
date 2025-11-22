@@ -88,29 +88,29 @@ The long wires are for the servo motor and limit switch<br>
 Among the 4 wires, 1 common wire is for the GND.
 ---
 
-### 1. Construct the Base  
+### a. Construct the Base  
 <img src="assets/docs_assets/hardware/base_build.png" width="400" />
 
 ---
 
-### 2. Mount the Stepper Motor
+### b. Mount the Stepper Motor
 Attach the aluminum extrusion to the base using a T-nut, as shown.  
 <img src="assets/docs_assets/hardware/stepper_mounter.png" width="400" />
 
 ---
 
-### 3. Install the Limit Switch  
+### c. Install the Limit Switch  
 <img src="assets/docs_assets/hardware/attach_base.png" width="400" />
 
 ---
 
-### 4. Mount the Servo and Detection Platform  
+### d. Mount the Servo and Detection Platform  
 Secure the servo to the platform using the screw provided with the servo.  
 <img src="assets/docs_assets/hardware/servo_mount.png" width="400" />
 
 ---
 
-### 5. Attach and Align the Camera
+### e. Attach and Align the Camera
 Before mounting, adjust the camera focus relative to the platform.  
 <img src="assets/docs_assets/hardware/set_focus.gif" width="400" />  
 <br>
