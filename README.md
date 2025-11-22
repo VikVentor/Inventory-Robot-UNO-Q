@@ -108,9 +108,15 @@ Attach the aluminum extrusion to the base using a T-nut, as shown.
 Secure the servo to the platform using the screw provided with the servo.  
 <img src="assets/docs_assets/hardware/servo_mount.png" width="400" />
 
+### e. Cover wires with wire sleeve
+After covering the wires, you can push the sleeve into the slot of the extrusion to keep it firmly in place 
+<img src="assets/docs_assets/hardware/wired.png" width="400" />  
+<br>
+
+
 ---
 
-### e. Attach and Align the Camera
+### f. Attach and Align the Camera
 Before mounting, adjust the camera focus relative to the platform.  
 <img src="assets/docs_assets/hardware/set_focus.gif" width="400" />  
 <br>
