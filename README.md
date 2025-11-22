@@ -83,6 +83,7 @@ All CAD and STL files are provided below.
 
 ### Circuit Diagram
 <img src="assets/docs_assets/hardware/circ_diag.png" width="800" />
+<br>
 * The long wires are for the servo motor and limit switch
 * Among the 4 wires, 1 common wire is for the GND.
 ---
