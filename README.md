@@ -71,9 +71,10 @@ All CAD and STL files are provided below.
 
 ### Hardware Used
 - Arduino Uno Q  
-- Logitech C270  
+- Logitech C270
 - Arduino CNC Shield  
-- NEMA 17 Stepper Motor (with long cable)  
+- NEMA 17 Stepper Motor (with long cable)
+- A4988 Stepper Motor Driver
 - Limit Switch  
 - 20×20 Aluminum Extrusion (≥15 cm)  
 - MG995 Servo Motor  
