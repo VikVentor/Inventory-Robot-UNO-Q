@@ -105,6 +105,7 @@ Hardware Used:
 <br>
 <img src="assets/docs_assets/hardware/set_focus.gif" width="400" />
 <br>
+<img src="assets/docs_assets/hardware/cam_mount.png" width="400" />
 
 
 
