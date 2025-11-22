@@ -82,7 +82,7 @@ All CAD and STL files are provided below.
 - M3 screws
 
 ### Circuit Diagram
-<img src="assets/docs_assets/hardware/circ_diag.png" width="400" />
+<img src="assets/docs_assets/hardware/circ_diag.png" width="800" />
 
 ---
 
