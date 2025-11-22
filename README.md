@@ -297,12 +297,12 @@ You can access folders and files on UNO Q using **Thunar**, which is like file e
 
 ### Adding the .eim model file
 * Enable "Show hidden Files" in Thunar
-* Navigate to **arduino_bricks** -> **ei-models** and paste the downloaded .eim file here
+* Navigate to **.arduino-bricks → ei-models** and paste the downloaded .eim file here
 <img src="assets/docs_assets/bricks_fold.png" width="300"/>
 <img src="assets/docs_assets/pasted_eim.png" width="300"/>
 
 ### The app.yaml file.
-* Navigate to **Arduino App** -> **Inventory-Robot-UNO-Q** -> **app.yaml**
+* Navigate to **Arduino App → Inventory-Robot-UNO-Q → app.yaml**
 
 ```yaml
 name: Inventory-Robot-UNO-Q
