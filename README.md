@@ -105,8 +105,7 @@ Hardware Used:
 <br>
 <img src="assets/docs_assets/hardware/set_focus.gif" width="400" />
 <br>
-<img src="assets/docs_assets/hardware/set_focus.gif" width="400" />
-<img src="assets/docs_assets/hardware/set_focus.gif" width="400" />
+
 
 
 ---
