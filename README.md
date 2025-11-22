@@ -418,7 +418,7 @@ Below is a minimal skeleton showing how the UNO Q receives commands and sends ba
 ```cpp
 #include <Arduino_RouterBridge.h>
 
-long positions[6] = {0, 33, 66, 99, 132, 165};
+long positions[6] = {0, 33, 66, 99, 132, 165}; // my stepper motor takes 200steps for one revolution, so these values are the respective positions for the 6 containers
 
 void movePos(int n) {
     // your hardware logic here (stepper, servo, etc.)
