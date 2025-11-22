@@ -73,15 +73,26 @@ Hardware Used:
 2. Logitech C270
 3. Arduino CNC Shield
 4. NEMA 17 Stepper Motor (With long cable)
-5. Alunium Extrusion (15 cm or more is fine)
-6. MG995 Servo Motor
-7. 1 meter wire (x4)
+5. Limit Switch
+6. Alunium Extrusion (15 cm or more is fine)
+7. MG995 Servo Motor
+8. 1 meter wire (x4)
 
 ### Construct the base
 <br>
 <img src="assets/docs_assets/hardware/base_build.png" width="400" />
 
+### Mount the Stepper motor
+<br>
+<img src="assets/docs_assets/hardware/stepper_mount.png" width="400" />
 
+### Insert Limit switch and attach with the base
+<br>
+<img src="assets/docs_assets/hardware/attach_base.png" width="400" />
+
+### Mount the Servo with the detection platform
+<br>
+<img src="assets/docs_assets/hardware/servo_mount.png" width="400" />
 
 
 ---
