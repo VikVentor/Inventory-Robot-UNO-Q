@@ -60,57 +60,58 @@ The robot has a simple design focused on showcasing how the Arduino UNO Q and Ed
 
 ---
 
-## 4. System/Hardware Design
+## 4. System / Hardware Design
 
-### Concept:
-* I have designed the hardware as a **Proof Of Concept** that can demostrate this Edge AI application
-* I basically designed a radial movement capable structure, which is easy to implement.
+### Concept
+This hardware setup is built as a **Proof of Concept** to demonstrate the Edge AI application.  
+A **radial motion mechanism** is used for its simplicity, stability, and ease of construction.
 
-### You can find the CAD/STL parts below:
+### CAD / STL Files  
+All CAD and STL files are provided below.
 
-Hardware Used:
-1. Arduino Uno Q
-2. Logitech C270
-3. Arduino CNC Shield
-4. NEMA 17 Stepper Motor (With long cable)
-5. Limit Switch
-6. Alunium Extrusion 20x20 (15 cm or more is fine)
-7. MG995 Servo Motor
-8. 1 meter wire (x4)
-9. T nuts for 20x20 extrusion
-10. M3 screws
+### Hardware Used
+- Arduino Uno Q  
+- Logitech C270  
+- Arduino CNC Shield  
+- NEMA 17 Stepper Motor (with long cable)  
+- Limit Switch  
+- 20×20 Aluminum Extrusion (≥15 cm)  
+- MG995 Servo Motor  
+- 1 m wires (×4)  
+- T-nuts for 20×20 extrusion  
+- M3 screws  
 
-### Construct the base
-<br>
+---
+
+### 1. Construct the Base  
 <img src="assets/docs_assets/hardware/base_build.png" width="400" />
 
-### Mount the Stepper motor
-* Use a T nut to secure the aluminum extrusion in its slot as shown
-<br>
+---
+
+### 2. Mount the Stepper Motor
+Attach the aluminum extrusion to the base using a T-nut, as shown.  
 <img src="assets/docs_assets/hardware/stepper_mounter.png" width="400" />
 
-### Insert Limit switch and attach with the base
-<br>
+---
+
+### 3. Install the Limit Switch  
 <img src="assets/docs_assets/hardware/attach_base.png" width="400" />
 
-### Mount the Servo with the detection platform
-<br>
-* Use the screw given with the servo motor tightly on the platform as shown <br>
+---
+
+### 4. Mount the Servo and Detection Platform  
+Secure the servo to the platform using the screw provided with the servo.  
 <img src="assets/docs_assets/hardware/servo_mount.png" width="400" />
 
+---
 
-### Attach the Camera
-* Before attching the camera, test the focus of the camera with the platform.
-* You can adjust it like below:
-
-<br>
-<img src="assets/docs_assets/hardware/set_focus.gif" width="400" />
-<br>
+### 5. Attach and Align the Camera
+Before mounting, adjust the camera focus relative to the platform.  
+<img src="assets/docs_assets/hardware/set_focus.gif" width="400" />  
 <img src="assets/docs_assets/hardware/cam_mount.png" width="400" />
 
-Hot glue the camera part to the holder and thats it!<br>
+Use hot glue to fix the camera to the holder — and the hardware assembly is complete.  
 <img src="assets/docs_assets/hardware/full_done.png" width="400" />
-
 
 
 ---
