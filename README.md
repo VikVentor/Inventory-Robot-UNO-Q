@@ -301,6 +301,10 @@ You can access folders and files on UNO Q using **Thunar**, which is like file e
 <img src="assets/docs_assets/bricks_fold.png" width="300"/>
 <img src="assets/docs_assets/pasted_eim.png" width="300"/>
 
+### Edit the app.yaml file.
+* Navigate to **Arduino App** -> Inventory-Robot-UNO-Q -> **app.yaml**
+
+
 
 
 ---
