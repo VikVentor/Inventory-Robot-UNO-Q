@@ -292,14 +292,14 @@ The `.eim` file downloads automatically once the build completes.<br>
 ### Adding the app
 You can access folders and files on UNO Q using **Thunar**, which is like file explorer on Windows.
 #### Download this repository on your UNO Q, and store the Unzipped Folder inside the **Arduino Apps** Folder.
-  <img src="assets/docs_assets/ardapp_fold.png" width="400"/>
-  <img src="assets/docs_assets/pasted_app.png" width="400"/>
+  <img src="assets/docs_assets/ardapp_fold.png" width="300"/>
+  <img src="assets/docs_assets/pasted_app.png" width="300"/>
 
 ### Adding the .eim model file
 * Enable "Show hidden Files" in Thunar
 * Navigate to **arduino_bricks** -> **ei-models** and paste the downloaded .eim file here
-<img src="assets/docs_assets/bricks_fold.png" width="400"/>
-<img src="assets/docs_assets/pasted_eim.png" width="400"/>
+<img src="assets/docs_assets/bricks_fold.png" width="300"/>
+<img src="assets/docs_assets/pasted_eim.png" width="300"/>
 
 
 
