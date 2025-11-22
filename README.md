@@ -1,4 +1,4 @@
-# Smart Inventory Robot (Edeg Impulse + UNO Q)
+# Smart Inventory Robot (Edge Impulse + UNO Q)
 
 ## Introduction
 
