@@ -98,6 +98,17 @@ Hardware Used:
 <img src="assets/docs_assets/hardware/servo_mount.png" width="400" />
 
 
+### Attach the Camera
+* Before attching the camera, test the focus of the camera with the platform.
+* You can adjust it like below:
+
+<br>
+<img src="assets/docs_assets/hardware/set_focus.gif" width="400" />
+<br>
+<img src="assets/docs_assets/hardware/set_focus.gif" width="400" />
+<img src="assets/docs_assets/hardware/set_focus.gif" width="400" />
+
+
 ---
 
 ## 5. Dataset Preparation
