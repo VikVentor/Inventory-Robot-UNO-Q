@@ -414,11 +414,13 @@ detection_stream.on_detect_all(send_detections_to_ui)
 ### **Arduino Logic**
 
 Below is a minimal skeleton showing how the UNO Q receives commands and sends back acknowledgements:
+You can use this code structure for your own project.
 
 ```cpp
 #include <Arduino_RouterBridge.h>
 
-long positions[6] = {0, 33, 66, 99, 132, 165}; // my stepper motor takes 200steps for one revolution, so these values are the respective positions for the 6 containers
+long positions[6] = {0, 33, 66, 99, 132, 165};
+// my stepper motor takes 200steps for one revolution, so these values are the respective positions for the 6 containers
 
 void movePos(int n) {
     // your hardware logic here (stepper, servo, etc.)
