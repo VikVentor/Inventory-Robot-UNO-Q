@@ -79,7 +79,10 @@ All CAD and STL files are provided below.
 - MG995 Servo Motor  
 - 1 m wires (×4)  
 - T-nuts for 20×20 extrusion  
-- M3 screws  
+- M3 screws
+
+### Circuit Diagram
+<img src="assets/docs_assets/hardware/circ_diag.png" width="400" />
 
 ---
 
@@ -108,6 +111,8 @@ Secure the servo to the platform using the screw provided with the servo.
 ### 5. Attach and Align the Camera
 Before mounting, adjust the camera focus relative to the platform.  
 <img src="assets/docs_assets/hardware/set_focus.gif" width="400" />  
+<br>
+* Use another T nut here to secure the camera holder.
 <img src="assets/docs_assets/hardware/cam_mount.png" width="400" />
 
 Use hot glue to fix the camera to the holder — and the hardware assembly is complete.  
