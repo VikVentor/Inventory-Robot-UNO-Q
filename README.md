@@ -60,9 +60,29 @@ The robot has a simple design focused on showcasing how the Arduino UNO Q and Ed
 
 ---
 
-## 4. Hardware Design
+## 4. System/Hardware Design
 
-Instructions or images about assembling the hardware.
+### Concept:
+* I have designed the hardware as a **Proof Of Concept** that can demostrate this Edge AI application
+* I basically designed a radial movement capable structure, which is easy to implement.
+
+### You can find the CAD/STL parts below:
+
+Hardware Used:
+1. Arduino Uno Q
+2. Logitech C270
+3. Arduino CNC Shield
+4. NEMA 17 Stepper Motor (With long cable)
+5. Alunium Extrusion (15 cm or more is fine)
+6. MG995 Servo Motor
+7. 1 meter wire (x4)
+
+### Construct the base
+<br>
+<img src="assets/docs_assets/hardware/base_build.png" width="400" />
+
+
+
 
 ---
 
@@ -74,7 +94,7 @@ Follow these steps to prepare your dataset:
 * For each object, capture around **240 images** (200 for training, 40 for testing).
 
 <br>
-  <img src="assets/docs_assets/object_list.jpg" width="400" />
+<img src="assets/docs_assets/object_list.jpg" width="400" />
 
 ### Create your project
 
