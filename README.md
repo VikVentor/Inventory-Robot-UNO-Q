@@ -74,9 +74,11 @@ Hardware Used:
 3. Arduino CNC Shield
 4. NEMA 17 Stepper Motor (With long cable)
 5. Limit Switch
-6. Alunium Extrusion (15 cm or more is fine)
+6. Alunium Extrusion 20x20 (15 cm or more is fine)
 7. MG995 Servo Motor
 8. 1 meter wire (x4)
+9. T nuts for 20x20 extrusion
+10. M3 screws
 
 ### Construct the base
 <br>
@@ -92,6 +94,7 @@ Hardware Used:
 
 ### Mount the Servo with the detection platform
 <br>
+* Use the screw given with the servo motor tightly on the platform as shown <br>
 <img src="assets/docs_assets/hardware/servo_mount.png" width="400" />
 
 
