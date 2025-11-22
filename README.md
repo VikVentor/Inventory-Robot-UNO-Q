@@ -282,15 +282,20 @@ If you face issues with App Lab on your board, consider reflashing it with a new
 <br>
 [Flash a new Image](https://docs.arduino.cc/tutorials/uno-q/update-image/)
 
-### Once your UNO Q is setup and ready, login to your **Edge Impulse Account**
+### Once your UNO Q is setup and ready, login to your **Edge Impulse Account** in UNO Q
 You’ll need the **.eim** file from Edge Impulse.
 Go to **Deployment → Build**
 The `.eim` file downloads automatically once the build completes.<br>
 
   <img src="assets/docs_assets/edge_last.png" width="400"/>
 
+### Adding the app
+#### Download this repository on your UNO Q, and store the Unzipped Folder inside the **Arduino Apps** Folder.
+  <img src="assets/docs_assets/ardapp_fold.png" width="400"/>
+  <img src="assets/docs_assets/pasted_app.png" width="400"/>
 
-### Download this repository on your UNO Q, and store the Unzipped Folder inside the **Arduino Apps** Folder.
+
+
 
 ---
 
