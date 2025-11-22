@@ -301,10 +301,24 @@ You can access folders and files on UNO Q using **Thunar**, which is like file e
 <img src="assets/docs_assets/bricks_fold.png" width="300"/>
 <img src="assets/docs_assets/pasted_eim.png" width="300"/>
 
-### Edit the app.yaml file.
-* Navigate to **Arduino App** -> Inventory-Robot-UNO-Q -> **app.yaml**
+### The app.yaml file.
+* Navigate to **Arduino App** -> **Inventory-Robot-UNO-Q** -> **app.yaml**
 
+```yaml
+name: Inventory-Robot-UNO-Q
+description: This example showcases object detection within a live feed from a USB camera.
+ports: []
+bricks:
+- arduino:video_object_detection: {variables: {
+      EI_OBJ_DETECTION_MODEL: /home/arduino/.arduino-bricks/ei-models/inventory-robot-linux-aarch64-gpu-v10.eim
+    }}
+- arduino:web_ui: {}
+icon: 📽️
 
+```
+* Replace the .eim file name with your downloaded file name
+* You can replace the **name** with your own app name, if needed.
+   
 
 
 ---
