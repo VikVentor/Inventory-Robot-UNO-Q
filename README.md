@@ -48,7 +48,7 @@ With the Arduino UNO Q and Edge Impulse, this project eliminates the repetitive 
 
 ---
 
-## 2. Proposed System(Solution)
+## 2. Proposed System (Solution)
 
 Explain your overall solution approach.
 
