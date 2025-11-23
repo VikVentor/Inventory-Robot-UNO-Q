@@ -67,7 +67,7 @@ The robot has a simple design focused on showcasing how the Arduino UNO Q and Ed
 
 ---
 
-## 4. System / Hardware Design
+## 5. System / Hardware Design
 
 ### Concept
 This hardware setup is built as a **Proof of Concept** to demonstrate the Edge AI application.  
