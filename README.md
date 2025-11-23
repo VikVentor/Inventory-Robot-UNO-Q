@@ -194,7 +194,7 @@ Repeat this process for all objects.
 
 ---
 
-## 6. Train on Edge Impulse Studio
+## 5.3 Train on Edge Impulse Studio
 
 ### How do you know what to choose?
 
@@ -312,7 +312,7 @@ Model accuracy:<br>
 
 ---
 
-## 7. Optimized Model
+## 5.4 Optimized Model
 
 ### Experiment 3 (Final)
 
@@ -349,7 +349,7 @@ If you'd like, I can also add a short one-line takeaway below the table.
 
 ---
 
-## 8. Integrate with UNO Q
+## 5.5 Integrate with UNO Q
 
 ### Setup the Arduino UNO Q as a Single Board Computer:
 [Arduino Uno Q Single-Board Computer Set](https://docs.arduino.cc/tutorials/uno-q/single-board-computer/)
@@ -399,7 +399,7 @@ icon: 📽️
 
 ---
 
-## 9. Arduino App Explanation
+## 5.6 Arduino App Explanation
 
 File Structure:
 <br>
