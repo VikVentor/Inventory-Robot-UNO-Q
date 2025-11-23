@@ -11,16 +11,17 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
 ## Table of Contents
 
 1. [Identified Problem](#1-problem-understanding)
-2. [Proposed Solution/System](#2-solution)
-3. [What You Will Learn](#3-what-you-will-learn)
-4. [Hardware Design](#4-hardware-design)
-5. [Dataset Preparation](#5-dataset-preparation)
-6. [Train on Edge Impulse Studio](#6-train-on-edge-impulse-studio)
-7. [Optimized Model](#7-optimized-model)
-8. [Integrate with UNO Q](#8-integrate-with-uno-q)
-9. [Arduino App Explanation](#9-arduino-app-explanation)
-10. [Usage and UI](#10-usage-and-ui)
-11. [Conclusion](#11-conclusion)
+2. [Proposed System(Solution)](#2-solution)
+3. [System Overview](#2-solution)
+4. [What You Will Learn](#3-what-you-will-learn)
+5. [Hardware Design](#4-hardware-design)
+6. [Dataset Preparation](#5-dataset-preparation)
+7. [Train on Edge Impulse Studio](#6-train-on-edge-impulse-studio)
+8. [Optimized Model](#7-optimized-model)
+9. [Integrate with UNO Q](#8-integrate-with-uno-q)
+10. [Arduino App Explanation](#9-arduino-app-explanation)
+11. [Usage and UI](#10-usage-and-ui)
+12. [Conclusion](#11-conclusion)
 
 ---
 
