@@ -11,9 +11,9 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
 ## Table of Contents
 
 1. [Identified Problem](#1-problem-understanding)
-2. [Proposed System(Solution)](#2-solution)
-3. [System Overview](#2-solution)  Hardware, Software
-5. [What You Will Learn](#3-what-you-will-learn)
+2. [Learning Objective](#3-what-you-will-learn)
+3. [Proposed System(Solution)](#2-solution)
+4. [System Overview](#2-solution)  Hardware, Software
 6. [Hardware Design](#4-hardware-design)
 7. [Dataset Preparation](#5-dataset-preparation)
 8. [Training of the AI model](#6-train-on-edge-impulse-studio)
