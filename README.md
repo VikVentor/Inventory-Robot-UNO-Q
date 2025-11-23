@@ -17,7 +17,7 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
    - **4.1 [Hardware](#41-hardware)**  
    - **4.2 [Software](#42-software)**  
 6. System Design & Development  
-   - **5.1 [System/Hardware Design](#51-system-hardware-design)**  
+   - **5.1 [System/Hardware Design](#51-system--hardware-design)**  
    - **5.2 [Dataset Preparation](#52-dataset-preparation)**  
    - **5.3 [Training of the AI Model](#53-training-of-the-ai-model)**  
    - **5.4 [Optimization of AI Model](#54-optimization-of-ai-model)**  
