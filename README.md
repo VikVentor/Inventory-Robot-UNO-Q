@@ -11,9 +11,9 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
 ## Table of Contents
 
 1. [Identified Problem](#1-identified-problem)  
-2. [Proposed System (Solution)](#2-solution)  
+2. [Proposed System (Solution)](#2-propsed-system-(solution))  
 3. [What You Will Learn](#3-what-you-will-learn)
-4. [SYstem Overview](#4-what-you-will-learn)
+4. [SYstem Overview](#4-system-overview)
    - **4.1 [Hardware](#41-hardware)**  
    - **4.2 [Software](#42-software)**  
 6. System Design & Development  
@@ -31,7 +31,7 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
 
 ---
 
-## 1. Problem Understanding
+## 1. Identified Problem
 
 When working on electronics projects, components often get scattered all over the workspace. After finishing your work, identifying and sorting them back into their correct locations becomes tiring. This leads to misplaced parts, wasted time searching, and reduced productivity.
 
@@ -48,7 +48,7 @@ With the Arduino UNO Q and Edge Impulse, this project eliminates the repetitive 
 
 ---
 
-## 2. Solution
+## 2. Proposed System Solution
 
 Explain your overall solution approach.
 
