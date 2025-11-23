@@ -312,7 +312,7 @@ Model accuracy:<br>
 
 ---
 
-## 5.4 Optimized Model
+## 5.4 Optimizeation of AI Model
 
 ### Experiment 3 (Final)
 
