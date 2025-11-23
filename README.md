@@ -11,7 +11,7 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
 ## Table of Contents
 
 1. [Identified Problem](#1-identified-problem)  
-2. [Proposed System (Solution)](#2-propsed-system-(solution))  
+2. [Proposed System (Solution)](#2-proposed-system-(solution))  
 3. [What You Will Learn](#3-what-you-will-learn)
 4. [SYstem Overview](#4-system-overview)
    - **4.1 [Hardware](#41-hardware)**  
