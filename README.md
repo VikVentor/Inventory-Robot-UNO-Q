@@ -72,7 +72,7 @@ The robot has a simple design focused on showcasing how the Arduino UNO Q and Ed
 
 
 
-# 5.1 System / Hardware Design
+## 5.1 System / Hardware Design
 
 ### Concept
 This hardware setup is built as a **Proof of Concept** to demonstrate the Edge AI application.  
@@ -142,7 +142,7 @@ Use hot glue to fix the camera to the holder — and the hardware assembly is co
 
 ---
 
-## 5. Dataset Preparation
+## 5.2 Dataset Preparation
 
 Follow these steps to prepare your dataset:
 
