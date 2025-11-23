@@ -11,7 +11,6 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
 ## Table of Contents
 
 1. [Identified Problem](#1-problem-understanding)
-2. [Learning Objective](#3-what-you-will-learn)
 3. [Proposed System(Solution)](#2-solution)
 4. [System Overview](#2-solution)  Hardware, Software
 6. [Hardware Design](#4-hardware-design)
@@ -22,6 +21,7 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
 11. [Arduino App Explanation](#9-arduino-app-explanation)
 12. [Usage and UI](#10-usage-and-ui)
 13. [Conclusion](#11-conclusion)
+14. [Learning Objective](#3-what-you-will-learn
 
 ---
 
