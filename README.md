@@ -11,7 +11,7 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
 ## Table of Contents
 
 1. [Identified Problem](#1-problem-understanding)
-2. [Proposed Solution](#2-solution)
+2. [Proposed Solution/System](#2-solution)
 3. [What You Will Learn](#3-what-you-will-learn)
 4. [Hardware Design](#4-hardware-design)
 5. [Dataset Preparation](#5-dataset-preparation)
