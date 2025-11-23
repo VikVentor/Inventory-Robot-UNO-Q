@@ -14,18 +14,20 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
 2. [Proposed System (Solution)](#2-solution)  
 3. [What You Will Learn](#3-what-you-will-learn)
 4. [SYstem Overview](#4-what-you-will-learn)
-5. System Design & Development  
-   - **4.1 [Hardware Design](#5-hardware-design)**  
-   - **4.2 [Dataset Preparation](#52-dataset-preparation)**  
-   - **4.3 [Training of the AI Model](#53-training-of-the-ai-model)**  
-   - **4.4 [Optimization of AI Model](#54-optimization-of-ai-model)**  
-   - **4.5 [Integrate with UNO Q](#55-integrate-with-uno-q)**  
-   - **4.6 [Arduino App Explanation](#56-arduino-app-explanation)**  
+   - **4.1 [Hardware](#41-hardware)**  
+   - **4.2 [Software](#42-software)**  
+6. System Design & Development  
+   - **5.1 [Hardware Design](#51-hardware-design)**  
+   - **5.2 [Dataset Preparation](#52-dataset-preparation)**  
+   - **5.3 [Training of the AI Model](#53-training-of-the-ai-model)**  
+   - **5.4 [Optimization of AI Model](#54-optimization-of-ai-model)**  
+   - **5.5 [Integrate with UNO Q](#55-integrate-with-uno-q)**  
+   - **5.6 [Arduino App Explanation](#56-arduino-app-explanation)**  
 
-6. [Usage and UI](#5-usage-and-ui)  
-7. [Summary of Challenges](#6-summary-of-challenges)  
-8. [Conclusion](#7-conclusion)  
-9. [Learning Objective](#8-learning-objective)
+7. [Usage and UI](#5-usage-and-ui)  
+8. [Summary of Challenges](#6-summary-of-challenges)  
+9. [Conclusion](#7-conclusion)  
+10. [Learning Objective](#8-learning-objective)
 
 ---
 
