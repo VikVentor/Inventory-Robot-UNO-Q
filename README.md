@@ -84,7 +84,7 @@ The Smart Inventory Robot combines autonomous navigation, vision-based item reco
 - Edge Impulse Studio: This is where you will train and optimise your Edge AI model.
 - Integrate your Edge AI model with your Arduino App
 
-## Finally Software to Hardware communication is achieved using the Bridge API of UNO Q. (It will be clear in the next steps).
+### Finally Software to Hardware communication is achieved using the Bridge API of UNO Q. (It will be clear in the next steps).
 
 
 
