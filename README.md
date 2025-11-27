@@ -573,7 +573,44 @@ Bridge.provide("ack", resume)
 
 ## 10. Usage and UI
 
-Explain how to use the robot and describe the UI.
+### Add oor remove objects:
+- If you want to add or remove items, add it in the format as shown.
+```json
+{
+  "esp32": [2,0],
+  "servo": [3,0],
+  "motor": [3,0],
+  "wheel": [4,0],
+  "sensor": [5,0]
+}
+```
+| object | position | total count |
+|--------|----------|--------------|
+| esp32  | 2        | 15           |
+
+### The main task, sorting the component.
+### Simply place it on the detection platform, the camera identifies the object and places it automatically
+
+### Here's the WEB UI where you can see the detections in real time and use the find and pick feature.
+<img src="assets/docs_assets/web_ui.png" width="600" />
+
+
+### Enter Pick Mode: 
+- Click on pick, take the component you want to and place it for approximately a second on the platform.
+- The total quantity is automatically updated
+- To exit Pick Mode, click the pick button again and it returns to normal Mode.
+
+### Count
+- Scroll through the dropdown to select the object you want, it shows the total quantity present in the container.
+
+### Find
+- If your system has more than 6 containers , like maybe 20, Finding the container of you object is difficult.
+- Simply scroll through and select the object you want. Press "Find", the robot will move to point that container.
+
+## These features work as intended in my configuration. 
+## If you are building your own, make sure that your actuator moves it to the correct containers.
+
+
 
 ---
 
