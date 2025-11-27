@@ -65,7 +65,7 @@ With the Arduino UNO Q and Edge Impulse, this project eliminates the repetitive 
 #### 4. find the container of a particular component
 
 ## Here's the WEB UI where you can see the detections in real time and use the find and pick feature.
-<img src="assets/docs_assets/hardware/web_ui.png" width="600" />
+<img src="assets/docs_assets/web_ui.png" width="600" />
 
 ---
 
