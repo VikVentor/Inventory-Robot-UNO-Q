@@ -55,7 +55,8 @@ With the Arduino UNO Q and Edge Impulse, this project eliminates the repetitive 
 
 ### Smart Inventory Robot with Arduino UNO Q
 #### After finishing a prototype, placing every part back in the right spot can become time-consuming and difficult. This robot solves that by intelligently sorting and maintaining a clear inventory of your items.
-<img src="assets/docs_assets/hardware/robot_show.png" width=6500" />
+
+<img src="assets/docs_assets/hardware/robot_show.png" width=600" />
 
 ### Features:
 #### 1. Automatic sorting of components into container
