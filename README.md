@@ -1,5 +1,5 @@
 # Smart Inventory Robot (Edge Impulse + UNO Q)
-
+<img src="assets/docs_assets/hardware/robot_show.png" width="700" />
 ## Introduction
 
 This project walks you through building your own **Inventory Robot** that can automatically identify, organize, and track the components you use in your workspace. After finishing a prototype, placing every part back in the right spot can become time-consuming and difficult. This robot solves that by intelligently sorting and maintaining a clear inventory of your items.
