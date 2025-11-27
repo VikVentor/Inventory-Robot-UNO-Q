@@ -70,8 +70,21 @@ The robot has a simple design focused on showcasing how the Arduino UNO Q and Ed
 
 ---
 
+## System Overview
+The Smart Inventory Robot combines autonomous navigation, vision-based item recognition, and automated sorting to manage components efficiently. The system uses a camera and machine learning model trained on Edge Impulse to classify items in real time, while the Arduino UNO Q controls the robot’s movement and mechanical sorting mechanism. Detected components are logged and organized automatically, maintaining an up-to-date inventory without manual effort. This integrated setup ensures accurate tracking, reduces human error, and streamlines workspace organization.
 
+### 4.1 Hardware:
+- An actuator (Stepper motor in this case) to navigate to the location of the respectrive object container.
+- A Servo motor that drops the items once it reaches the destination container.
+- A camera with adjusted focus
+- Assembly of hardware (Using my design or yours)
+  
+### 4.2 Software:
+- Arduino App Lab: to run the App that consists of your pyhton detection code and your arduino sketch to control the actuator.
+- Edge Impulse Studio: This is where you will train and optimise your Edge AI model.
+- Integrate your Edge AI model with your Arduino App
 
+## Finally Software to Hardware communication is achieved using the Bridge API of UNO Q. (It will be clear in the next steps).
 
 
 
