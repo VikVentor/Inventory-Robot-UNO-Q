@@ -573,7 +573,7 @@ Bridge.provide("ack", resume)
 
 ## 10. Usage and UI
 
-### Add oor remove objects:
+### Add or remove objects:
 - If you want to add or remove items, add it in the format as shown.
 ```json
 {
