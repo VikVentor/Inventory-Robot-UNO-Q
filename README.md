@@ -169,6 +169,7 @@ Before mounting, adjust the camera focus relative to the platform.
 <img src="assets/docs_assets/hardware/cam_mount.png" width="400" />
 
 ### g. Stack the CNC shield with the Arduino UNO Q board:
+- Be cautious, make sure the polarity of your 12V supply is connected properly to the CNC shield
 <img src="assets/docs_assets/hardware/stack_uno.png" width="400" />
 
 Use hot glue to fix the camera to the holder — and the hardware assembly is complete.  
