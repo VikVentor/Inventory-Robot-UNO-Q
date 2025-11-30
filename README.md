@@ -435,7 +435,7 @@ icon: 📽️
 
 ---
 
-## 5.6 Arduino Appilcartion Devlopment
+## 6 Arduino Appilcation Devlopment
 
 File Structure:
 <br>
