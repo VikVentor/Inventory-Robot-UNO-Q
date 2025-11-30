@@ -571,6 +571,8 @@ Bridge.provide("ack", resume)
 ---
 
 ## 6. System Testing
+Before testing it yourself, you may refer this video on how the System should work:
+[![Watch the video](https://img.youtube.com/vi/sMjTuYHo2wQ/hqdefault.jpg)](https://youtu.be/sMjTuYHo2wQ)
 ### Add or remove objects:
 - If you want to add or remove items, add it in the format as shown.
 ```json
