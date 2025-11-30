@@ -29,7 +29,7 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
 
 6. [Sytem Testing](#6-system-testing)  
 7. [Summary of Challenges](#7-summary-of-challenges)  
-8. [Advantages of Aruino UNO Q](#8-advantages-of-arduino-uno-q)
+8. [Advantages of Arduino UNO Q](#8-advantages-of-arduino-uno-q)
 9. [Conclusion](#9-conclusion)
 
 ---
@@ -618,7 +618,7 @@ Before testing it yourself, you may refer this video on how the System should wo
 ## 7. Summary of Challenges
 
 
-8. Advantages of Aruino UNO Q
+## 8. Advantages of Arudino UNO Q
 
 
 
