@@ -19,7 +19,7 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
 4. [System Overview](#4-system-overview)
    - **4.1 [Hardware](#41-hardware)**  
    - **4.2 [Software](#42-software)**  
-5. [System Design & Development](#5-system-design-&-development)
+5. [System Design / Development](#5-system-design--development)
    - **5.1 [System/Hardware Design](#51-system--hardware-design)**  
    - **5.2 [Dataset Preparation](#52-dataset-preparation)**  
    - **5.3 [Training of the AI Model](#53-training-the-ai-model)**  
@@ -98,7 +98,7 @@ The Smart Inventory Robot combines autonomous navigation, vision-based item reco
 
 ### Finally Software to Hardware communication is achieved using the Bridge API of UNO Q. (It will be clear in the next steps).
 
-
+## 5. System Design & Development
 
 ## 5.1 System / Hardware Design
 
