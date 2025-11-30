@@ -19,7 +19,7 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
 4. [System Overview](#4-system-overview)
    - **4.1 [Hardware](#41-hardware)**  
    - **4.2 [Software](#42-software)**  
-6. System Design & Development  
+5. System Design & Development  
    - **5.1 [System/Hardware Design](#51-system--hardware-design)**  
    - **5.2 [Dataset Preparation](#52-dataset-preparation)**  
    - **5.3 [Training of the AI Model](#53-training-the-ai-model)**  
@@ -27,10 +27,10 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
    - **5.5 [Integration of model with UNO Q](#55-integration-of-model-with-uno-q)**  
    - **5.6 [Arduino Appilcartion Devlopment](#56-Arduino-Appilcartion-Devlopment)**  
 
-7. [Usage and UI](#5-usage-and-ui)  
-8. [Summary of Challenges](#6-summary-of-challenges)  
-9. [Conclusion](#7-conclusion)  
-10. [Learning Objective](#8-learning-objective)
+6. [Usage and UI](#5-usage-and-ui)  
+7. [Summary of Challenges](#6-summary-of-challenges)  
+8. [Conclusion](#7-conclusion)
+9. [Learning Objective](#8-learning-objective)
 
 ---
 
