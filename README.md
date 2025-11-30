@@ -27,10 +27,10 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
    - **5.5 [Integration of model with UNO Q](#55-integration-of-model-with-uno-q)**  
    - **5.6 [Arduino Appilcartion Devlopment](#56-Arduino-Appilcartion-Devlopment)**  
 
-6. [Usage & UI](#5-usage--ui)  
-7. [Summary of Challenges](#6-summary-of-challenges)  
-8. [Conclusion](#7-conclusion)
-9. [Learning Objective](#8-learning-objective)
+6. [Usage & UI](#6-usage--ui)  
+7. [Summary of Challenges](#7-summary-of-challenges)  
+8. [Conclusion](#8-conclusion)
+9. [Learning Objective](#9-learning-objective)
 
 ---
 
