@@ -38,8 +38,8 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
 
 ## 1. Identified Problem
 
-### When working on electronics projects, components often get scattered all over the workspace. After finishing your work, identifying and sorting them back into their correct locations becomes tiring. This leads to misplaced parts, wasted time searching, and reduced productivity.
-### If you are a hobbyist, your desk on an average day might look like this.
+When working on electronics projects, components often get scattered all over the workspace. After finishing your work, identifying and sorting them back into their correct locations becomes tiring. This leads to misplaced parts, wasted time searching, and reduced productivity.
+#### If you are a hobbyist, your desk on an average day might look like this.
 <img src="assets/docs_assets/hardware/messy_desk.png" width="600" />
 
 Manual sorting is repetitive and error-prone. As your component collection grows, keeping track of everything becomes even harder.
