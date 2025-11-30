@@ -1,7 +1,7 @@
 # Smart Inventory Robot (Edge Impulse + UNO Q)
 ## Click to watch the video!
 <a href="https://youtu.be/sMjTuYHo2wQ">
-  <img src="assets/docs_assets/hardware/robot_show.png" width="600">
+  <img src="assets/docs_assets/hardware/show_bot.png" width="600">
 </a>
 <br>
 
