@@ -27,9 +27,9 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
    - **5.3 [Training of the AI Model](#53-training-the-ai-model)**  
    - **5.4 [Optimization of AI Model](#54-optimization-of-ai-model)**  
    - **5.5 [Integration of model with UNO Q](#55-integration-of-model-with-uno-q)**  
-   - **5.6 [Arduino Appilcartion Devlopment](#56-Arduino-Appilcartion-Devlopment)**  
+   - **5.6 [Arduino Appilcation Development](#56-Arduino-Appilcation-Development)**  
 
-6. [Sytem Testing](#6-system-testing)  
+6. [System Testing](#6-system-testing)  
 7. [Summary of Challenges](#7-summary-of-challenges)  
 8. [Advantages of Arduino UNO Q](#8-advantages-of-arduino-uno-q)
 9. [Conclusion](#9-conclusion)
@@ -435,7 +435,7 @@ icon: 📽️
 
 ---
 
-## 6 Arduino Appilcation Devlopment
+## 5.6 Arduino Appilcation Development
 
 File Structure:
 <br>
