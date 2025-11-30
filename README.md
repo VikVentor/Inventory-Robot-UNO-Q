@@ -574,7 +574,7 @@ Bridge.provide("ack", resume)
 Before testing it yourself, you may refer this video on how the System should work:
 [![Watch the video](https://img.youtube.com/vi/sMjTuYHo2wQ/hqdefault.jpg)](https://youtu.be/sMjTuYHo2wQ)
 ### Add or remove objects:
-- If you want to add or remove items, add it in the format as shown in the label.json file.
+- If you want to add or remove items, add it in the format as shown in the label_map.json file.
 ```json
 {
   "esp32": [2,0],
