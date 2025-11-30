@@ -616,16 +616,26 @@ Before testing it yourself, you may refer this video on how the System should wo
 - If your system has more than 6 containers , like maybe 20, Finding the container of you object is difficult.
 - Simply scroll through and select the object you want. Press "Find", the robot will move to point that container.
 
-## These features work as intended in my configuration. 
-## If you are building your own, make sure that your actuator moves it to the correct containers.
-
-
-
+### These features work as intended in my configuration. 
+### If you are building your own, make sure that your actuator moves it to the correct containers.
 ---
 ## 7. Summary of Challenges
+### 1. Getting real-time detection to work accurately was tough because many components look very similar.
+### 2. Optimizing the Edge Impulse model to run smoothly on limited hardware required a lot of tweaking.
+### 3. Keeping the inventory count correct without duplicate or missed detections was challenging.
+### 4. Making the robot sort and place items properly needed precise motor tuning.
+### 5. Syncing everything live with the web UI and keeping it responsive took effort.
+### 6. Combining the camera, ML model, robot control, and UI into one smooth system required plenty of debugging.
 
 
 ## 8. Advantages of Arduino UNO Q
+### 1. Dual-processor design lets you run real-time control and high-level Linux tasks together.
+### 2. Supports Debian Linux, enabling complex apps, AI models, and web services.
+### 3. Built-in Wi-Fi + Bluetooth for easy IoT and network integration.
+### 4. Compatible with classic Arduino UNO shields and pin layout.
+### 5. Has more memory and storage (eMMC) for data handling and AI workloads.
+### 6. Reduces system complexity by replacing separate SBC + MCU setups with a single board.
+
 
 
 
