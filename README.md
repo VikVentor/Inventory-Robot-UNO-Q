@@ -27,10 +27,9 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
    - **5.5 [Integration of model with UNO Q](#55-integration-of-model-with-uno-q)**  
    - **5.6 [Arduino Appilcartion Devlopment](#56-Arduino-Appilcartion-Devlopment)**  
 
-6. [Usage & UI](#6-usage--ui)  
+6. [Sytem Testing](#6-system-testing)  
 7. [Summary of Challenges](#7-summary-of-challenges)  
 8. [Conclusion](#8-conclusion)
-9. [Learning Objective](#9-learning-objective)
 
 ---
 
@@ -571,8 +570,7 @@ Bridge.provide("ack", resume)
 
 ---
 
-## 10. Usage and UI
-
+## 6. System Testing
 ### Add or remove objects:
 - If you want to add or remove items, add it in the format as shown.
 ```json
@@ -592,7 +590,7 @@ Bridge.provide("ack", resume)
 ### Simply place it on the detection platform, the camera identifies the object and places it automatically
 
 
-## 6. Usage & UI
+
 ### Here's the WEB UI where you can see the detections in real time and use the find and pick feature.
 <img src="assets/docs_assets/web_ui.png" width="600" />
 
@@ -615,7 +613,5 @@ Bridge.provide("ack", resume)
 
 ---
 
-## 11. Conclusion
 
-Summarize the project and end notes.
 
