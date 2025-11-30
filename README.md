@@ -24,7 +24,7 @@ Whether you are a beginner or a hobbyist, this guide makes it simple to understa
    - **5.2 [Dataset Preparation](#52-dataset-preparation)**  
    - **5.3 [Training of the AI Model](#53-training-the-ai-model)**  
    - **5.4 [Optimization of AI Model](#54-optimization-of-ai-model)**  
-   - **5.5 [Integrate with UNO Q](#55-integrate-with-uno-q)**  
+   - **5.5 [Integrate with UNO Q](#55-integration-of-model-with-uno-q)**  
    - **5.6 [Arduino App Explanation](#56-arduino-app-explanation)**  
 
 7. [Usage and UI](#5-usage-and-ui)  
@@ -377,7 +377,7 @@ If you'd like, I can also add a short one-line takeaway below the table.
 
 ---
 
-## 5.5 Integrate with UNO Q
+## 5.5 Integration of model with UNO Q
 
 ### Setup the Arduino UNO Q as a Single Board Computer:
 [Arduino Uno Q Single-Board Computer Set](https://docs.arduino.cc/tutorials/uno-q/single-board-computer/)
