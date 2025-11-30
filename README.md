@@ -635,3 +635,10 @@ Before testing it yourself, you may refer this video on how the System should wo
 5. Has more memory and storage (eMMC) for data handling and AI workloads.
 6. Reduces system complexity by replacing separate SBC + MCU setups with a single board.
 
+## 9. Conclusion
+### **Conclusion**
+
+The Smart Inventory Robot proves how edge AI can simplify real-world automation. 
+**Edge Impulse** made model training and deployment straightforward, letting the system achieve accurate component recognition without complex ML development. With the **Arduino UNO Q**, both real-time motor control and on-board AI processing run on the same device, removing the need for multiple boards and reducing system complexity. Together, they enabled a compact, responsive, and efficient solution for automated inventory management.
+
+
