@@ -627,17 +627,11 @@ Before testing it yourself, you may refer this video on how the System should wo
 5. Syncing everything live with the web UI and keeping it responsive took effort.
 6. Combining the camera, ML model, robot control, and UI into one smooth system required plenty of debugging.
 
-
 ## 8. Advantages of Arduino UNO Q
-#### 1. Dual-processor design lets you run real-time control and high-level Linux tasks together.
-#### 2. Supports Debian Linux, enabling complex apps, AI models, and web services.
-#### 3. Built-in Wi-Fi + Bluetooth for easy IoT and network integration.
-#### 4. Compatible with classic Arduino UNO shields and pin layout.
-#### 5. Has more memory and storage (eMMC) for data handling and AI workloads.
-#### 6. Reduces system complexity by replacing separate SBC + MCU setups with a single board.
-
-
-
-
-
+1. Dual-processor design lets you run real-time control and high-level Linux tasks together.
+2. Supports Debian Linux, enabling complex apps, AI models, and web services.
+3. Built-in Wi-Fi + Bluetooth for easy IoT and network integration.
+4. Compatible with classic Arduino UNO shields and pin layout.
+5. Has more memory and storage (eMMC) for data handling and AI workloads.
+6. Reduces system complexity by replacing separate SBC + MCU setups with a single board.
 
