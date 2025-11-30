@@ -82,7 +82,7 @@ The robot has a simple design focused on showcasing how the Arduino UNO Q and Ed
 
 ---
 
-## System Overview
+## 4. System Overview
 The Smart Inventory Robot combines autonomous navigation, vision-based item recognition, and automated sorting to manage components efficiently. The system uses a camera and machine learning model trained on Edge Impulse to classify items in real time, while the Arduino UNO Q controls the robot’s movement and mechanical sorting mechanism. Detected components are logged and organized automatically, maintaining an up-to-date inventory without manual effort. This integrated setup ensures accurate tracking, reduces human error, and streamlines workspace organization.
 
 ### 4.1 Hardware:
