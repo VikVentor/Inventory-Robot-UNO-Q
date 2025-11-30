@@ -594,7 +594,7 @@ Bridge.provide("ack", resume)
 ### Here's the WEB UI where you can see the detections in real time and use the find and pick feature.
 <img src="assets/docs_assets/web_ui.png" width="600" />
 
-
+## Usage & UI
 ### Enter Pick Mode: 
 - Click on pick, take the component you want to and place it for approximately a second on the platform.
 - The total quantity is automatically updated
