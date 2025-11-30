@@ -618,5 +618,9 @@ Before testing it yourself, you may refer this video on how the System should wo
 ## 7. Summary of Challenges
 
 
+8. Advantages of Aruino UNO Q
+
+
+
 
 
