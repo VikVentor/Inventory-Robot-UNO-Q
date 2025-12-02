@@ -127,7 +127,8 @@ All CAD/STL files are provided below.
 - M3 screws
 
 ### Circuit Diagram
-<img src="assets/docs_assets/hardware/circ_diag.png" width="800" />
+<img src="assets/docs_assets/hardware/circuit.png" width="800"/>
+
 <br>
 The long wires are for the servo motor and limit switch<br>
 Among the 4 wires, 1 common wire is for the GND.
