@@ -111,7 +111,7 @@ This hardware setup is built as a **Proof of Concept** to demonstrate the Edge A
 A **radial motion mechanism** is used for its simplicity, stability, and ease of construction.
 
 ### CAD / STL Files  
-All CAD/STL files are provided below.
+All CAD/STL files are provided.
 
 ### Hardware Used
 - Arduino Uno Q  
